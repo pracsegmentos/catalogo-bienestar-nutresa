@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catálogo Bienestar</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div>
+        Catálogo Bienestar
+        <small>Herramienta comercial para vendedores</small>
+      </div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <input type="search" id="buscador" placeholder="Buscar por nombre, código o marca..." />
+    <select id="filtro-categoria">
+      <option value="">Todas las categorías</option>
+    </select>
+    <select id="filtro-marca">
+      <option value="">Todas las marcas</option>
+    </select>
+  </div>
+
+  <div class="results-count" id="results-count"></div>
+
+  <main class="grid" id="grid"></main>
+
+  <div class="empty-state" id="empty-state" hidden>
+    No se encontraron productos con esos filtros.
+  </div>
+
+  <div class="modal-overlay" id="modal-overlay" hidden>
+    <div class="modal">
+      <div class="modal-header">
+        <button class="modal-close" id="modal-close" aria-label="Cerrar">✕</button>
+      </div>
+      <div class="modal-content" id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
