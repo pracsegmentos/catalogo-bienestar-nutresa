@@ -26,7 +26,8 @@ header.topbar {
   padding: 16px 20px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  text-align: center;
   gap: 12px;
   position: sticky;
   top: 0;
@@ -37,6 +38,7 @@ header.topbar {
 header.topbar .brand {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 10px;
   font-weight: 700;
   font-size: 1.1rem;
