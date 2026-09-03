@@ -69,15 +69,21 @@ function render() {
     .map(
       (p) => `
     <article class="card" data-codigo="${p.codigo}">
-      <img src="${p.imagen}" alt="${p.nombre}" loading="lazy" />
+      <div class="card-image">
+        <img src="${p.imagen}" alt="${p.nombre}" loading="lazy" />
+      </div>
       <div class="card-body">
         <span class="tag">${p.categoria || "Sin categoría"}</span>
         <h3>${p.nombre}</h3>
         <div class="marca">${p.marca || "—"} · ${p.codigo}</div>
-        <div class="precios">
-          ${p.precio_empresa_cliente != null ? `<span class="precio-empresa">PV ${money(p.precio_empresa_cliente)}</span>` : ""}
-          ${p.precio_sugerido_publico != null ? `<span class="precio-publico">PSP ${money(p.precio_sugerido_publico)}</span>` : ""}
-        </div>
+      </div>
+      <div class="precios">
+        ${p.precio_empresa_cliente != null
+          ? `<div class="precio-empresa"><span class="precio-label">PV</span><span class="precio-valor">${money(p.precio_empresa_cliente)}</span></div>`
+          : "<div></div>"}
+        ${p.precio_sugerido_publico != null
+          ? `<div class="precio-publico"><span class="precio-label">PSP</span><span class="precio-valor">${money(p.precio_sugerido_publico)}</span></div>`
+          : "<div></div>"}
       </div>
     </article>
   `
@@ -94,17 +100,17 @@ function abrirFicha(codigo) {
   if (!p) return;
 
   const precioEmpresaHtml = p.precio_empresa_cliente != null
-    ? `<div class="item"><div class="label">Precio empresa → cliente</div><div class="value">${money(p.precio_empresa_cliente)}</div></div>`
+    ? `<div class="item"><div class="label">PV · Precio empresa → cliente</div><div class="value">${money(p.precio_empresa_cliente)}</div></div>`
     : "";
   const precioPublicoHtml = p.precio_sugerido_publico != null
-    ? `<div class="item"><div class="label">Sugerido al público</div><div class="value">${money(p.precio_sugerido_publico)}</div></div>`
+    ? `<div class="item"><div class="label">PSP · Sugerido al público</div><div class="value">${money(p.precio_sugerido_publico)}</div></div>`
     : "";
 
   const porqueHtml = p.por_que_recomendarlo
-    ? `<div class="section-title">¿Por qué recomendarlo?</div><p>${p.por_que_recomendarlo}</p>`
+    ? `<div class="callout"><div class="section-title">⭐ ¿Por qué recomendarlo?</div><p>${p.por_que_recomendarlo}</p></div>`
     : "";
   const ingredientesHtml = p.ingredientes
-    ? `<div class="section-title">Ingredientes</div><p>${p.ingredientes}</p>`
+    ? `<div class="info-box"><div class="section-title">🌱 Ingredientes</div><p>${p.ingredientes}</p></div>`
     : "";
 
   const nutricionImgHtml = p.imagen_tabla_nutricional

@@ -8,7 +8,9 @@
   --color-text-muted: #6B7A6B;
   --color-border: #DCEBDC;
   --radius: 14px;
+  --radius-lg: 22px;
   --shadow: 0 2px 10px rgba(20, 60, 30, 0.08);
+  --shadow-hover: 0 8px 24px rgba(20, 60, 30, 0.14);
 }
 
 * { box-sizing: border-box; }
@@ -62,12 +64,20 @@ header.topbar .brand small {
 
 .controls input[type="search"],
 .controls select {
-  padding: 10px 14px;
+  padding: 10px 16px;
   border-radius: 999px;
   border: 1px solid var(--color-border);
   background: var(--color-surface);
   font-size: 0.95rem;
   color: var(--color-text);
+  transition: box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.controls input[type="search"]:focus,
+.controls select:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(31, 122, 61, 0.15);
 }
 
 .controls input[type="search"] {
@@ -93,27 +103,35 @@ header.topbar .brand small {
 
 .card {
   background: var(--color-surface);
-  border-radius: var(--radius);
+  border-radius: var(--radius-lg);
   box-shadow: var(--shadow);
   overflow: hidden;
   cursor: pointer;
   border: 1px solid var(--color-border);
   display: flex;
   flex-direction: column;
-  transition: transform 0.12s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.card:hover { transform: translateY(-2px); }
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+
+.card .card-image {
+  padding: 14px 14px 0;
+}
 
 .card img {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  background: #fff;
+  background: var(--color-bg);
+  border-radius: var(--radius);
 }
 
 .card .card-body {
-  padding: 12px 14px 14px;
+  padding: 14px 16px 0;
   display: flex;
   flex-direction: column;
   gap: 4px;
@@ -121,17 +139,22 @@ header.topbar .brand small {
 }
 
 .card .tag {
-  font-size: 0.7rem;
+  align-self: flex-start;
+  font-size: 0.65rem;
   color: var(--color-primary-dark);
+  background: var(--color-bg);
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
+  padding: 3px 10px;
+  border-radius: 999px;
+  margin-bottom: 2px;
 }
 
 .card h3 {
   margin: 0;
   font-size: 1rem;
-  line-height: 1.25;
+  line-height: 1.3;
 }
 
 .card .marca {
@@ -140,21 +163,44 @@ header.topbar .brand small {
 }
 
 .card .precios {
-  margin-top: auto;
-  padding-top: 8px;
+  margin-top: 14px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background: var(--color-bg);
+  border-radius: 0 0 calc(var(--radius-lg) - 1px) calc(var(--radius-lg) - 1px);
+}
+
+.card .precio-empresa,
+.card .precio-publico {
   display: flex;
   flex-direction: column;
   gap: 2px;
-  font-size: 0.85rem;
-}
-
-.card .precio-empresa {
-  font-weight: 700;
-  color: var(--color-primary-dark);
+  padding: 10px 12px;
+  text-align: center;
 }
 
 .card .precio-publico {
+  border-left: 1px solid var(--color-border);
+}
+
+.card .precio-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
   color: var(--color-text-muted);
+}
+
+.card .precio-empresa .precio-valor {
+  font-weight: 700;
+  color: var(--color-primary-dark);
+  font-size: 1rem;
+}
+
+.card .precio-publico .precio-valor {
+  font-weight: 600;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
 }
 
 .empty-state {
@@ -182,28 +228,40 @@ header.topbar .brand small {
 
 .modal {
   background: var(--color-surface);
-  border-radius: var(--radius);
+  border-radius: var(--radius-lg);
   max-width: 720px;
   width: 100%;
-  box-shadow: 0 10px 40px rgba(0,0,0,0.25);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.3);
   overflow: hidden;
+  animation: modal-pop 0.15s ease-out;
+}
+
+@keyframes modal-pop {
+  from { opacity: 0; transform: scale(0.97); }
+  to { opacity: 1; transform: scale(1); }
 }
 
 .modal-header {
   display: flex;
   justify-content: flex-end;
-  padding: 8px 8px 0;
+  padding: 10px 10px 0;
 }
 
 .modal-close {
   border: none;
   background: var(--color-bg);
-  color: var(--color-text);
-  width: 32px;
-  height: 32px;
+  color: var(--color-text-muted);
+  width: 34px;
+  height: 34px;
   border-radius: 50%;
   font-size: 1.1rem;
   cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.modal-close:hover {
+  background: var(--color-border);
+  color: var(--color-text);
 }
 
 .modal-content {
@@ -233,14 +291,20 @@ header.topbar .brand small {
 }
 
 .modal-content .tag {
-  font-size: 0.75rem;
+  display: inline-block;
+  font-size: 0.7rem;
   color: var(--color-primary-dark);
+  background: var(--color-bg);
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 4px 12px;
+  border-radius: 999px;
 }
 
 .modal-content h2 {
-  margin: 4px 0 2px;
+  margin: 8px 0 2px;
+  font-size: 1.35rem;
 }
 
 .modal-content .marca {
@@ -249,55 +313,77 @@ header.topbar .brand small {
 }
 
 .precio-box {
-  display: flex;
-  gap: 18px;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   background: var(--color-bg);
-  border-radius: 10px;
-  padding: 10px 14px;
+  border-radius: var(--radius);
+  overflow: hidden;
   margin: 10px 0;
 }
 
+.precio-box .item {
+  padding: 12px 16px;
+  text-align: center;
+}
+
+.precio-box .item:first-child {
+  border-right: 1px solid var(--color-border);
+}
+
 .precio-box .item .label {
-  font-size: 0.72rem;
+  font-size: 0.68rem;
+  font-weight: 700;
   color: var(--color-text-muted);
   text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
 .precio-box .item .value {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--color-primary-dark);
 }
 
 .section-title {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
   color: var(--color-text-muted);
-  margin: 16px 0 6px;
+  margin: 18px 0 6px;
 }
 
-table.nutricional {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.9rem;
+.callout {
+  background: #FFF8E6;
+  border: 1px solid #F3E3B0;
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  margin-top: 6px;
 }
 
-table.nutricional td {
-  padding: 6px 4px;
-  border-bottom: 1px solid var(--color-border);
+.callout .section-title {
+  margin: 0 0 4px;
+  color: #8A6D1D;
 }
 
-table.nutricional td:last-child {
-  text-align: right;
-  font-weight: 600;
+.callout p {
+  margin: 0;
+  color: #6B5312;
+  font-weight: 500;
+  line-height: 1.5;
 }
 
-.porcion-note {
-  font-size: 0.8rem;
-  color: var(--color-text-muted);
-  margin-bottom: 4px;
+.info-box {
+  background: var(--color-bg);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  margin-top: 6px;
+}
+
+.info-box p {
+  margin: 0;
+  color: var(--color-text);
+  line-height: 1.5;
 }
 
 @media (max-width: 560px) {
