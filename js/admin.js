@@ -105,7 +105,7 @@ function openProduct(codigo) {
   document.getElementById("form-title").textContent = `Editar: ${p.nombre}`;
   const form = document.getElementById("product-form");
   form.codigo.value = p.codigo;
-  form.codigo.disabled = true;
+  form.codigo.disabled = false;
   form.nombre.value = p.nombre || "";
   form.categoria.value = p.categoria || "";
   form.marca.value = p.marca || "";
@@ -162,8 +162,9 @@ async function handleSave(e) {
     status.textContent = "Código y nombre son obligatorios.";
     return;
   }
-  if (currentCodigo === null && products.some((p) => p.codigo === codigo)) {
-    status.textContent = "Ya existe un producto con ese código.";
+  const codigoEnUso = products.some((p) => p.codigo === codigo && p.codigo !== currentCodigo);
+  if (codigoEnUso) {
+    status.textContent = "Ya existe otro producto con ese código.";
     return;
   }
 
