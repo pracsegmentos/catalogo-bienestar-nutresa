@@ -1,7 +1,6 @@
 const state = {
   productos: [],
   filtroTexto: "",
-  filtroCategoria: "",
   filtroMarca: "",
 };
 
@@ -16,18 +15,9 @@ async function cargarProductos() {
 }
 
 function poblarFiltros() {
-  const categorias = [...new Set(state.productos.map((p) => p.categoria).filter(Boolean))].sort();
   const marcas = [...new Set(state.productos.map((p) => p.marca).filter(Boolean))].sort();
 
-  const selCategoria = document.getElementById("filtro-categoria");
   const selMarca = document.getElementById("filtro-marca");
-
-  categorias.forEach((c) => {
-    const opt = document.createElement("option");
-    opt.value = c;
-    opt.textContent = c;
-    selCategoria.appendChild(opt);
-  });
 
   marcas.forEach((m) => {
     const opt = document.createElement("option");
@@ -45,9 +35,8 @@ function productosFiltrados() {
       p.nombre.toLowerCase().includes(texto) ||
       p.codigo.toLowerCase().includes(texto) ||
       p.marca.toLowerCase().includes(texto);
-    const coincideCategoria = !state.filtroCategoria || p.categoria === state.filtroCategoria;
     const coincideMarca = !state.filtroMarca || p.marca === state.filtroMarca;
-    return coincideTexto && coincideCategoria && coincideMarca;
+    return coincideTexto && coincideMarca;
   });
 }
 
@@ -149,11 +138,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.getElementById("buscador").addEventListener("input", (e) => {
     state.filtroTexto = e.target.value;
-    render();
-  });
-
-  document.getElementById("filtro-categoria").addEventListener("change", (e) => {
-    state.filtroCategoria = e.target.value;
     render();
   });
 
