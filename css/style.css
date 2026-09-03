@@ -155,7 +155,6 @@ header.topbar .brand small {
 
 .card .precio-publico {
   color: var(--color-text-muted);
-  text-decoration: line-through;
 }
 
 .empty-state {

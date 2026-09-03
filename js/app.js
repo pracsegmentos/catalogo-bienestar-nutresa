@@ -75,8 +75,8 @@ function render() {
         <h3>${p.nombre}</h3>
         <div class="marca">${p.marca || "—"} · ${p.codigo}</div>
         <div class="precios">
-          ${p.precio_empresa_cliente != null ? `<span class="precio-empresa">${money(p.precio_empresa_cliente)}</span>` : ""}
-          ${p.precio_sugerido_publico != null ? `<span class="precio-publico">Sugerido: ${money(p.precio_sugerido_publico)}</span>` : ""}
+          ${p.precio_empresa_cliente != null ? `<span class="precio-empresa">PV ${money(p.precio_empresa_cliente)}</span>` : ""}
+          ${p.precio_sugerido_publico != null ? `<span class="precio-publico">PSP ${money(p.precio_sugerido_publico)}</span>` : ""}
         </div>
       </div>
     </article>
