@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Administrar catálogo</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/admin.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div>
+        Administrar catálogo
+        <small>Editar, agregar o quitar productos</small>
+      </div>
+    </div>
+  </header>
+
+  <main class="admin-wrap">
+    <section id="login-box" class="panel">
+      <h2>Conectar con GitHub</h2>
+      <p>
+        Para guardar cambios necesitas un <strong>token personal de GitHub</strong> con acceso
+        de escritura solo a este repositorio.
+      </p>
+      <ol class="steps">
+        <li>Entra a <strong>github.com → Settings → Developer settings → Personal access tokens → Fine-grained tokens</strong>.</li>
+        <li>Crea uno nuevo, dale acceso solo al repositorio <code>catalogo-bienestar-nutresa</code>.</li>
+        <li>En permisos, activa <strong>Contents: Read and write</strong>.</li>
+        <li>Copia el token generado y pégalo aquí abajo.</li>
+      </ol>
+      <div class="row">
+        <input type="password" id="token-input" placeholder="Pega aquí tu token de GitHub" />
+        <button id="btn-save-token" class="btn-primary">Conectar</button>
+      </div>
+      <p class="hint">El token se guarda solo en este navegador (nunca se sube al repositorio).</p>
+    </section>
+
+    <section id="app-box" hidden>
+      <div class="admin-toolbar">
+        <input type="search" id="admin-buscador" placeholder="Buscar producto por nombre o código..." />
+        <button id="btn-nuevo" class="btn-primary">+ Nuevo producto</button>
+        <button id="btn-logout" class="btn-secondary">Cerrar sesión</button>
+      </div>
+
+      <div class="admin-layout">
+        <div class="panel admin-list" id="admin-list"></div>
+
+        <div class="panel admin-form" id="admin-form-box" hidden>
+          <h2 id="form-title">Editar producto</h2>
+          <form id="product-form">
+            <label>Código *
+              <input type="text" name="codigo" required />
+            </label>
+            <label>Nombre *
+              <input type="text" name="nombre" required />
+            </label>
+            <label>Categoría
+              <input type="text" name="categoria" />
+            </label>
+            <label>Marca
+              <input type="text" name="marca" />
+            </label>
+            <div class="precio-row">
+              <label>PV — Precio empresa → cliente
+                <input type="number" name="precio_empresa_cliente" />
+              </label>
+              <label>PSP — Precio sugerido al público
+                <input type="number" name="precio_sugerido_publico" />
+              </label>
+            </div>
+            <label>Ingredientes
+              <textarea name="ingredientes" rows="3"></textarea>
+            </label>
+            <label>¿Por qué recomendarlo?
+              <textarea name="por_que_recomendarlo" rows="4"></textarea>
+            </label>
+
+            <div class="imagen-row">
+              <div class="imagen-field">
+                <span class="section-title">Foto del producto</span>
+                <img id="preview-imagen" src="images/placeholder.svg" alt="" />
+                <input type="file" id="file-imagen" accept="image/*" />
+              </div>
+              <div class="imagen-field">
+                <span class="section-title">Foto tabla nutricional</span>
+                <img id="preview-imagen-nutricional" src="images/placeholder-nutricion.svg" alt="" />
+                <input type="file" id="file-imagen-nutricional" accept="image/*" />
+              </div>
+            </div>
+
+            <div class="form-actions">
+              <button type="submit" class="btn-primary" id="btn-guardar">Guardar cambios</button>
+              <button type="button" class="btn-danger" id="btn-eliminar">Eliminar producto</button>
+              <button type="button" class="btn-secondary" id="btn-cancelar">Cancelar</button>
+            </div>
+            <p id="form-status" class="hint"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/admin.js"></script>
+</body>
+</html>
