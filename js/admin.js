@@ -138,13 +138,34 @@ function openNewProduct() {
   renderList(document.getElementById("admin-buscador").value);
 }
 
+async function compressImage(file, maxDim = 1600, quality = 0.85) {
+  const img = await new Promise((resolve, reject) => {
+    const el = new Image();
+    el.onload = () => resolve(el);
+    el.onerror = reject;
+    el.src = URL.createObjectURL(file);
+  });
+  let { width, height } = img;
+  if (width > maxDim || height > maxDim) {
+    const scale = maxDim / Math.max(width, height);
+    width = Math.round(width * scale);
+    height = Math.round(height * scale);
+  }
+  const canvas = document.createElement("canvas");
+  canvas.width = width;
+  canvas.height = height;
+  canvas.getContext("2d").drawImage(img, 0, 0, width, height);
+  URL.revokeObjectURL(img.src);
+  return new Promise((resolve) => canvas.toBlob(resolve, "image/jpeg", quality));
+}
+
 async function uploadImageIfNeeded(fileInputId, codigo, suffix) {
   const input = document.getElementById(fileInputId);
   const file = input.files[0];
   if (!file) return null;
-  const ext = file.name.split(".").pop().toLowerCase();
-  const path = `images/productos/${codigo}${suffix}.${ext}`;
-  const buffer = await file.arrayBuffer();
+  const blob = await compressImage(file);
+  const path = `images/productos/${codigo}${suffix}.jpg`;
+  const buffer = await blob.arrayBuffer();
   const base64 = arrayBufferToBase64(buffer);
   const existing = await ghGetFile(path);
   await ghPutFile(path, base64, `Actualizar foto de ${codigo}`, existing ? existing.sha : null);
