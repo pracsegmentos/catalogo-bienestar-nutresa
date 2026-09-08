@@ -167,13 +167,23 @@ async function uploadImageIfNeeded(fileInputId, codigo, suffix) {
   const path = `images/productos/${codigo}${suffix}.jpg`;
   const buffer = await blob.arrayBuffer();
   const base64 = arrayBufferToBase64(buffer);
-  const existing = await ghGetFile(path);
-  await ghPutFile(path, base64, `Actualizar foto de ${codigo}`, existing ? existing.sha : null);
+  const message = `Actualizar foto de ${codigo}`;
+  try {
+    const existing = await ghGetFile(path);
+    await ghPutFile(path, base64, message, existing ? existing.sha : null);
+  } catch (err) {
+    if (!/does not match/.test(err.message)) throw err;
+    const retry = await ghGetFile(path);
+    await ghPutFile(path, base64, message, retry ? retry.sha : null);
+  }
   return path;
 }
 
+let isSaving = false;
+
 async function handleSave(e) {
   e.preventDefault();
+  if (isSaving) return;
   const status = document.getElementById("form-status");
   const btn = document.getElementById("btn-guardar");
   const form = document.getElementById("product-form");
@@ -189,6 +199,7 @@ async function handleSave(e) {
     return;
   }
 
+  isSaving = true;
   btn.disabled = true;
   status.textContent = "Guardando...";
   try {
@@ -225,6 +236,7 @@ async function handleSave(e) {
   } catch (err) {
     status.textContent = "Error: " + err.message;
   } finally {
+    isSaving = false;
     btn.disabled = false;
   }
 }
