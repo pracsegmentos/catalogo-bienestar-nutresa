@@ -8,10 +8,15 @@ const money = (n) =>
   new Intl.NumberFormat("es-CO", { style: "currency", currency: "COP", maximumFractionDigits: 0 }).format(n);
 
 async function cargarProductos() {
-  const res = await fetch("data/products.json");
-  state.productos = await res.json();
-  poblarFiltros();
-  render();
+  try {
+    const res = await fetch("data/products.json");
+    state.productos = await res.json();
+    poblarFiltros();
+    render();
+  } catch (e) {
+    document.getElementById("results-count").textContent =
+      "Sin conexión y sin datos guardados en este dispositivo. Abre el catálogo una vez con internet para poder usarlo luego sin conexión.";
+  }
 }
 
 function poblarFiltros() {
@@ -151,3 +156,11 @@ document.addEventListener("DOMContentLoaded", () => {
     if (e.target.id === "modal-overlay") cerrarFicha();
   });
 });
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(() => {
+      /* si falla el registro, el sitio sigue funcionando normal con internet */
+    });
+  });
+}
