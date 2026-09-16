@@ -507,12 +507,12 @@
     "codigo": "2008565",
     "nombre": "Cápsulas de Vitamina E más Selenio x 30",
     "categoria": "Cápsulas",
-    "marca": "",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/2008565-nutricional.jpeg",
-    "ingredientes": "Otros Ingredientes: Cera de abejas oscura, lecitina de soya puriﬁcada, aceite vegetal, gelatina, glicerina, agua puriﬁcada, silicato de potasio, y aluminio 55-63%/dióxido de titanio CI 77891 37-45% (Candurin Silver Fine), azul #1 FD&C CI 42090, rojo #3 FD&C CI 45430. VÍA DE ADMINISTRACIÓN: Oral MODO DE USO: 1 cápsula dos veces al día.",
-    "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco 2008565 PV: $24.430 Cápsulas blandas Vitamina E + Selenio. La vitamina E es antioxidante y contribuye a la protección de las células del daño oxidativo. El selenio es antioxidante y por lo tanto ayuda a la protección de las células y tejidos del daño oxidativo. El selenio contribuye al mantenimiento del cabello y uñas en condiciones normales.",
-    "precio_empresa_cliente": null,
+    "marca": "BÉNET",
+    "imagen": "images/productos/2008565.jpg",
+    "imagen_tabla_nutricional": "images/productos/2008565-nutricional.jpg",
+    "ingredientes": "Gelatina 200 bloom (Gelatina de origen animal), Glicerina, Propilparabeno sódico, Metilparabeno sódico, Agua purificada.",
+    "por_que_recomendarlo": "Cápsulas blandas Vitamina E + Selenio. La vitamina E es antioxidante y contribuye a la protección de las células del daño oxidativo. El selenio es antioxidante y por lo tanto ayuda a la protección de las células y tejidos del daño oxidativo. El selenio contribuye al mantenimiento del cabello y uñas en condiciones normales.",
+    "precio_empresa_cliente": 24430,
     "precio_sugerido_publico": 34900
   },
   {
