@@ -42,8 +42,9 @@ function arrayBufferToBase64(buffer) {
 }
 
 async function ghGetFile(path) {
-  const res = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/${path}?ref=${BRANCH}`, {
+  const res = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/${path}?ref=${BRANCH}&_=${Date.now()}`, {
     headers: ghHeaders(),
+    cache: "no-store",
   });
   if (res.status === 404) return null;
   if (!res.ok) throw new Error(`No se pudo leer ${path} (${res.status})`);
