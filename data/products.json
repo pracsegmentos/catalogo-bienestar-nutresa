@@ -680,13 +680,13 @@
     "nombre": "GOMAS BENET MULTIV SINAZ 12UDSX150G R",
     "categoria": "Gomas",
     "marca": "BÉNET",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/2019269-nutricional.jpeg",
+    "imagen": "images/productos/2019269.jpg",
+    "imagen_miniatura": "images/productos/2019269-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2019269-nutricional.jpg",
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, fructooligosacáridos, vitaminas y minerales (vitamina C (ácido ascórbico), vitamina E (alfa tocofero acetato), vitamina B3 (niacinamida), vitamina B5 (pantotenato de calcio), vitamina B6 (hidrocloruro de piricoxina), vitamina B1 (mononitrato de tiamina), vitamina A (vitamina A palmitato), vitamina B9 (ácido fólico), biotina, vitamina D (colecalciferol), vitamina B12 (cobalamina), calcio (citrato de calcio magnesto (citrato de magnesto), zinc (citrato de zinc), yodo (yoduro de potasio)), geliﬁcante (gelatina), almidón de papa, sak ores (natural uva, natural manzana, natural y artiﬁcial de melocotón, natural dulce), edulcorante (manitol), reguladores de acidez (acido citrico, acido lactico), colorantes naturales (amarillo cúrcuma (E100), morado (antocianinas (E163), rojo licopeno (E160i)), SEGMENTOS edulcorante (glicosidos de esteviol).",
-    "por_que_recomendarlo": "Productos Nutricionales con conocimiento Código PSP: $48.900 2019269 ¿POR QUÉ RECOMENDARLO? Gomas de gelatina, vitamina A,C, D, B1, B3, B5, B6, B9, B12, calcio, magnesio, yodo y zinc sabores naturales a uva y manzana y sabor artiﬁcial a melocotón. Las vitaminas B3, B5, B6, B9 y B12 contribuyen a la reducción del cansancio y la fatiga. La vitamina A contribuye al mantenimiento de la visión normal. La vitamina C y D contribuyen al funcionamiento normal del sistema inmune. El calcio ayuda al mantenimiento de huesos y dientes. El zinc y el yodo contribuyen a la función cognitiva. El magnesio contribuye al funcionamiento normal del sistema nervioso.",
+    "por_que_recomendarlo": "Gomas de gelatina, vitamina A,C, D, B1, B3, B5, B6, B9, B12, calcio, magnesio, yodo y zinc sabores naturales a uva y manzana y sabor artificial a melocotón. Las vitaminas B3, B5, B6, B9 y B12 contribuyen a la reducción del cansancio y la fatiga. La vitamina A contribuye al mantenimiento de la visión normal. La vitamina C y D contribuyen al funcionamiento normal del sistema inmune. El calcio ayuda al mantenimiento de huesos y dientes. El zinc y el yodo contribuyen a la función cognitiva. El magnesio contribuye al funcionamiento normal del sistema nervioso.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 48900
   },
   {
     "codigo": "2019270",
