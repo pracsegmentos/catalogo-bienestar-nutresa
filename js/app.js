@@ -64,7 +64,7 @@ function render() {
       (p) => `
     <article class="card" data-codigo="${p.codigo}">
       <div class="card-image">
-        <img src="${p.imagen}" alt="${p.nombre}" loading="lazy" />
+        <img src="${p.imagen_miniatura || p.imagen}" alt="${p.nombre}" loading="lazy" decoding="async" />
       </div>
       <div class="card-body">
         <span class="tag">${p.categoria || "Sin categoría"}</span>

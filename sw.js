@@ -31,6 +31,7 @@ async function precacheImages() {
     const urls = new Set();
     products.forEach((p) => {
       if (p.imagen) urls.add(p.imagen);
+      if (p.imagen_miniatura) urls.add(p.imagen_miniatura);
       if (p.imagen_tabla_nutricional) urls.add(p.imagen_tabla_nutricional);
     });
     await Promise.all(

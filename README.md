@@ -24,15 +24,18 @@ El archivo `PENDIENTES_REVISION.csv` (en la raíz del proyecto) trae la lista de
 
 ## Cómo cambiar o agregar una foto
 
-Cada producto tiene **dos fotos independientes**:
+La forma más fácil es hacerlo desde **admin.html** (sube la foto arrastrándola y guarda solo). Esa vía genera automáticamente una versión liviana ("miniatura") de la foto de producto para que el catálogo cargue rápido.
 
-- `imagen`: la foto del producto.
+Si prefieres editarlo a mano en `data/products.json`, cada producto tiene **tres campos de foto**:
+
+- `imagen`: la foto del producto a tamaño completo (se usa en la ficha del producto).
+- `imagen_miniatura`: versión liviana de la misma foto (máx. 480px), usada solo en la cuadrícula del catálogo para que cargue rápido. Si no la tienes, deja el mismo valor que `imagen` — no es obligatorio que sea distinta.
 - `imagen_tabla_nutricional`: una foto de la tabla nutricional / información nutricional (normalmente una captura del empaque), ya que ese dato no viene como texto sino como imagen.
 
-Para cambiar cualquiera de las dos:
+Para cambiar cualquiera a mano:
 
 1. Sube el archivo de imagen a la carpeta `images/productos/` (arrastrándolo en la interfaz de GitHub). Nómbralo de forma clara, por ejemplo `1048822.jpg` o `1048822-nutricional.jpg`.
-2. En `data/products.json`, en el producto correspondiente, cambia el valor de `imagen` o `imagen_tabla_nutricional` para que apunte a `images/productos/NOMBRE-QUE-SUBISTE.jpg`.
+2. En `data/products.json`, en el producto correspondiente, cambia el valor del campo correspondiente para que apunte a `images/productos/NOMBRE-QUE-SUBISTE.jpg`.
 
 Si un producto todavía no tiene foto de tabla nutricional, el campo apunta a `images/placeholder-nutricion.svg` (un aviso de "imagen no disponible") — se reemplaza solo con subir la foto real y actualizar la ruta.
 
@@ -47,6 +50,7 @@ Copia este bloque, pégalo dentro de las llaves `[ ]` del archivo `products.json
   "categoria": "Categoría del producto",
   "marca": "Marca",
   "imagen": "images/productos/NOMBRE-ARCHIVO.jpg",
+  "imagen_miniatura": "images/productos/NOMBRE-ARCHIVO.jpg",
   "imagen_tabla_nutricional": "images/productos/NOMBRE-ARCHIVO-nutricional.jpg",
   "ingredientes": "Lista de ingredientes separados por coma.",
   "por_que_recomendarlo": "Texto corto explicando el beneficio principal.",

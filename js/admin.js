@@ -176,17 +176,27 @@ async function compressImage(file, maxDim = 1600, quality = 0.85) {
   return new Promise((resolve) => canvas.toBlob(resolve, "image/jpeg", quality));
 }
 
-async function uploadImageIfNeeded(fileInputId, codigo, suffix) {
+async function uploadBlob(blob, path, message) {
+  const buffer = await blob.arrayBuffer();
+  const base64 = arrayBufferToBase64(buffer);
+  await putFileWithRetry(path, base64, message);
+}
+
+async function uploadImageIfNeeded(fileInputId, codigo, suffix, { withThumb = false } = {}) {
   const input = document.getElementById(fileInputId);
   const file = input.files[0];
   if (!file) return null;
-  const blob = await compressImage(file);
   const path = `images/productos/${codigo}${suffix}.jpg`;
-  const buffer = await blob.arrayBuffer();
-  const base64 = arrayBufferToBase64(buffer);
-  const message = `Actualizar foto de ${codigo}`;
-  await putFileWithRetry(path, base64, message);
-  return path;
+  const blob = await compressImage(file, 1600, 0.85);
+  await uploadBlob(blob, path, `Actualizar foto de ${codigo}`);
+
+  let thumbPath = null;
+  if (withThumb) {
+    thumbPath = `images/productos/${codigo}${suffix}-thumb.jpg`;
+    const thumbBlob = await compressImage(file, 480, 0.75);
+    await uploadBlob(thumbBlob, thumbPath, `Actualizar miniatura de ${codigo}`);
+  }
+  return { path, thumbPath };
 }
 
 let isSaving = false;
@@ -213,8 +223,8 @@ async function handleSave(e) {
   btn.disabled = true;
   status.textContent = "Guardando...";
   try {
-    const nuevaImagen = await uploadImageIfNeeded("file-imagen", codigo, "");
-    const nuevaImagenNutricional = await uploadImageIfNeeded("file-imagen-nutricional", codigo, "-nutricional");
+    const fotoProducto = await uploadImageIfNeeded("file-imagen", codigo, "", { withThumb: true });
+    const fotoNutricional = await uploadImageIfNeeded("file-imagen-nutricional", codigo, "-nutricional");
 
     const existing = currentCodigo ? products.find((p) => p.codigo === currentCodigo) : null;
 
@@ -223,9 +233,10 @@ async function handleSave(e) {
       nombre: form.nombre.value.trim(),
       categoria: form.categoria.value.trim(),
       marca: form.marca.value.trim(),
-      imagen: nuevaImagen || existing?.imagen || "images/placeholder.svg",
+      imagen: fotoProducto?.path || existing?.imagen || "images/placeholder.svg",
+      imagen_miniatura: fotoProducto?.thumbPath || existing?.imagen_miniatura || existing?.imagen || "images/placeholder.svg",
       imagen_tabla_nutricional:
-        nuevaImagenNutricional || existing?.imagen_tabla_nutricional || "images/placeholder-nutricion.svg",
+        fotoNutricional?.path || existing?.imagen_tabla_nutricional || "images/placeholder-nutricion.svg",
       ingredientes: form.ingredientes.value.trim(),
       por_que_recomendarlo: form.por_que_recomendarlo.value.trim(),
       precio_empresa_cliente: form.precio_empresa_cliente.value === "" ? null : Number(form.precio_empresa_cliente.value),

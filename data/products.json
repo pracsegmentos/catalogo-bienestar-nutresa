@@ -9,7 +9,8 @@
     "ingredientes": "Cúrcuma en polvo",
     "por_que_recomendarlo": "La cúrcuma en polvo es una especia muy versátil que no solo añade sabor a tus comidas, sino que también puede tener numerosos beneﬁcios para tu salud: Naturalmente libre de gluten, 100% natural, 100% vegano, Sin azúcar añadido, Sin saborizantes ni colores artiﬁciales, Sin conservantes",
     "precio_empresa_cliente": 13416,
-    "precio_sugerido_publico": 19166
+    "precio_sugerido_publico": 19166,
+    "imagen_miniatura": "images/productos/1048822-thumb.jpg"
   },
   {
     "codigo": "1064202",
@@ -21,7 +22,8 @@
     "ingredientes": "Acaí en polvo",
     "por_que_recomendarlo": "El açaí o también conocido como acaí, en polvo es un superalimento que se ha vuelto muy popular en los últimos años gracias a sus múltiples beneﬁcios para la salud. Entre los 4 principales beneﬁcios del açaí se encuentran: ● Alto contenido de antioxidantes ● Fuente de ﬁbra y nutrientes ● Mejora la salud digestiva ● Potencial antiinﬂamatorio",
     "precio_empresa_cliente": 23040,
-    "precio_sugerido_publico": 32914
+    "precio_sugerido_publico": 32914,
+    "imagen_miniatura": "images/productos/1064202-thumb.jpg"
   },
   {
     "codigo": "1048821",
@@ -33,7 +35,8 @@
     "ingredientes": "Spirulina en polvo",
     "por_que_recomendarlo": "Alimento vegetal con 64% de proteína, aporta calcio, hierro, vitamina C y betacaroteno, baja en calorías y sodio; perfecto para tu alimentación diaria. La Spirulina Naturela es un superalimento en polvo derivado de la microalga verde-azulada Spirulina platensis, cultivada en agua dulce. Esta alga microscópica es una fuente excepcional de nutrientes, incluyendo proteínas, vitaminas, minerales y antioxidantes.",
     "precio_empresa_cliente": 39569,
-    "precio_sugerido_publico": 56527
+    "precio_sugerido_publico": 56527,
+    "imagen_miniatura": "images/productos/1048821-thumb.jpg"
   },
   {
     "codigo": "1058041",
@@ -45,7 +48,8 @@
     "ingredientes": "Maca en polvo x Mercado saludable",
     "por_que_recomendarlo": "La maca en polvo es un suplemento natural derivado de la raíz de Lepidium meyenii, una planta nativa de los Andes peruanos. Tradicionalmente utilizada por sus propiedades adaptogénicas, la maca ha ganado popularidad en los últimos años por sus potenciales beneﬁcios para la salud y el bienestar. La maca en polvo contiene una gran cantidad de ﬁtonutrientes funcionales, incluyendo: ● Glucosinolatos ● Alcaloides ● Saponinas ● Polifenoles ● Vitaminas y minerales: B, C, E, calcio, zinc, hierro y magnesio",
     "precio_empresa_cliente": 21282,
-    "precio_sugerido_publico": 30403
+    "precio_sugerido_publico": 30403,
+    "imagen_miniatura": "images/productos/1058041-thumb.jpg"
   },
   {
     "codigo": "1092719",
@@ -57,7 +61,8 @@
     "ingredientes": "Spirulina en cápsulas.",
     "por_que_recomendarlo": "Nuestras cápsulas de Spirulina son un suplemento dietario hecho a base de la microalga verde-azulada Spirulina platensis, cultivada en agua dulce y cuidadosamente encapsulada en celulosa vegetal. Cada cápsula contiene 500 mg de puro polvo de Spirulina, sin aditivos añadidos, lo que te proporciona una manera conveniente y precisa de obtener los beneﬁcios nutricionales de esta increíble alga.",
     "precio_empresa_cliente": 32241,
-    "precio_sugerido_publico": 46058
+    "precio_sugerido_publico": 46058,
+    "imagen_miniatura": "images/productos/1092719-thumb.jpg"
   },
   {
     "codigo": "1077745",
@@ -69,7 +74,8 @@
     "ingredientes": "Extracto de cúrcuma, extracto de pimienta",
     "por_que_recomendarlo": "La cúrcuma ha sido valorada ancestralmente por sus beneﬁcios para el cuerpo/organismo. En la medicina tradicional se le reconocen propiedades antiinﬂamatorias, antioxidantes, digestivas, inmunológicas, entre otras. Por otro lado, estudios han mostrado que la presencia de piperina en la pimienta negra podría mejorar la absorción de la curcumina que se encuentra en la cúrcuma.",
     "precio_empresa_cliente": 34690,
-    "precio_sugerido_publico": 49557
+    "precio_sugerido_publico": 49557,
+    "imagen_miniatura": "images/productos/1077745-thumb.jpg"
   },
   {
     "codigo": "1089824",
@@ -81,7 +87,8 @@
     "ingredientes": "Maca gelatinizada, complejo B (B1, B2, B6) y vitamina C",
     "por_que_recomendarlo": "Disfruta de un suplemento que combina el poder la ciencia moderna. Esta fórmula sinérgica integra maca gelatinizada de alta biodisponibilidad con vitaminas del complejo B (B1, B2, B6) y vitamina C, brindando un apoyo integral para tu energía, vitalidad y bienestar diario.Diseñadas para quienes buscan rendir más sin recurrir a estimulantes artificiales, estas cápsulas ofrecen una energía adaptógena que acompaña tu cuerpo de manera natural, ayudándolo a responder mejor al estrés físico y mental, sin generar picos ni caídas.",
     "precio_empresa_cliente": 31850,
-    "precio_sugerido_publico": 45501
+    "precio_sugerido_publico": 45501,
+    "imagen_miniatura": "images/productos/1089824-thumb.jpg"
   },
   {
     "codigo": "1058049",
@@ -93,7 +100,8 @@
     "ingredientes": "Banano, proteína de alverja, nuez de inchi, cacao, quinua, semillas de sésamo (ajonjolí).",
     "por_que_recomendarlo": "Explora una experiencia novedosa con los BITES DE PROTEÍNA VEGETAL, una barra de proteína en bocados blandos y deliciosos. Cuidadosamente elaborada con una mezcla poderosa de ingredientes naturales. Sumérgete en la suavidad de sus ingredientes, el balance perfecto de aminoácidos de la proteína de alverja y la spirulina, la textura crujiente de la nuez de inchi y la quinua. Déjate llevar por el intenso sabor a banano y cacao.",
     "precio_empresa_cliente": 34755,
-    "precio_sugerido_publico": 49650
+    "precio_sugerido_publico": 49650,
+    "imagen_miniatura": "images/productos/1058049-thumb.jpg"
   },
   {
     "codigo": "1065635",
@@ -105,7 +113,8 @@
     "ingredientes": "Proteína de arveja, Fructooligosacaridos (FOS), Inulina, Spirulina y Chlorella x Mercado saludable",
     "por_que_recomendarlo": "La proteína vegetal Naturela con spirulina y chlorella es una excelente opción para aquellos que buscan una fuente de proteína saludable y natural. Esta proteína es una alternativa ideal para aquellos que preﬁeren evitar los productos lácteos, el gluten, el azúcar y la maltodextrina en su dieta.",
     "precio_empresa_cliente": 30188,
-    "precio_sugerido_publico": 43126
+    "precio_sugerido_publico": 43126,
+    "imagen_miniatura": "images/productos/1065635-thumb.jpg"
   },
   {
     "codigo": "1057369",
@@ -117,7 +126,8 @@
     "ingredientes": "Proteína de alverja, proteína de arroz, inhulina (raíz de achicoria), extracto de remolacha, canela, betaglucanos de ganoderma.",
     "por_que_recomendarlo": "Pink Latte es una bebida saludable que inulina de raíz de achicoria, extracto de remolacha, canela y betaglucanos de ganoderma. Algunos de los beneﬁcios que se le atribuyen a esta bebida son: ● Fuente de proteínas vegetales: ● Promueve la saciedad ● Propiedades antiinﬂamatorias ● Ayuda a regular el azúcar en sangre ● Fortalece el sistema inmunológico",
     "precio_empresa_cliente": 26357,
-    "precio_sugerido_publico": 37653
+    "precio_sugerido_publico": 37653,
+    "imagen_miniatura": "images/productos/1057369-thumb.jpg"
   },
   {
     "codigo": "1058048",
@@ -129,7 +139,8 @@
     "ingredientes": "Cúrcuma, Canela, Cacao, Jengibre, Vainilla, Nuez moscada, Pimienta negra.",
     "por_que_recomendarlo": "Prepárate para disfrutar nuestra deliciosa y reconfortante Golden Latte con capas de sabores cálidos, para complacer tu gusto y cuidar tu bienestar, Golden Latte, es una bebida que se ha vuelto muy popular en los últimos años debido a sus numerosos beneficios para la salud. Esta bebida es la mezcla de cúrcuma, canela, jengibre, pimienta negra, cacao, y otras especias.",
     "precio_empresa_cliente": 26357,
-    "precio_sugerido_publico": 37653
+    "precio_sugerido_publico": 37653,
+    "imagen_miniatura": "images/productos/1058048-thumb.jpg"
   },
   {
     "codigo": "1065340",
@@ -141,7 +152,8 @@
     "ingredientes": "Linaza, Inulina, Piña, Spirulina, Aloe vera, Konjac, Bacillus coagulans.",
     "por_que_recomendarlo": "La fibra vegetal naturela es una mezcla que puede proporcionar muchos beneficios para la salud, desde mejorar la digestión hasta fortalecer el sistema inmunológico. Su combinación de ingredientes, como la linaza, la inulina, la piña, la spirulina, el aloe vera, el konjac y los bacillus coagulans, puede ser una excelente opción para aquellos que buscan aumentar su ingesta de fibra y mejorar su salud en general.",
     "precio_empresa_cliente": 21048,
-    "precio_sugerido_publico": 30068
+    "precio_sugerido_publico": 30068,
+    "imagen_miniatura": "images/productos/1065340-thumb.jpg"
   },
   {
     "codigo": "1057258",
@@ -153,7 +165,8 @@
     "ingredientes": "Agua, Menta natural, Cloroﬁla, Caroteno, Spirulina, Cúrcuma, Sabor natural menta hierbabuena, Stevia y Aceite esencial de menta",
     "por_que_recomendarlo": "La bebida verde para diluir es una excelente opción para mantenerse hidratado mientras se obtienen los beneﬁcios de ingredientes naturales como la menta, la cloroﬁla, la spirulina, la cúrcuma y la hierbabuena. Esta bebida es rica en antioxidantes y vitaminas, y su combinación de ingredientes puede ayudar a mejorar la digestión, la inmunidad y la energía. Además, la stevia y el aceite esencial de menta le dan un sabor fresco y dulce sin la necesidad de agregar azúcar.",
     "precio_empresa_cliente": 14713,
-    "precio_sugerido_publico": 21019
+    "precio_sugerido_publico": 21019,
+    "imagen_miniatura": "images/productos/1057258-thumb.jpg"
   },
   {
     "codigo": "1079389",
@@ -165,7 +178,8 @@
     "ingredientes": "Agua, Menta Natural, Cloroﬁla, Caroteno, Spirulina, Cúrcuma, Sabor Natural Menta Hierbabuena, Stevia y Aceite Escencial De Menta",
     "por_que_recomendarlo": "La bebida de cúrcuma Es una mezcla líquida lista para diluir, con el poder antioxidante y antiinﬂamatorio de la cúrcuma y la pimienta negra. Esta bebida ayuda a proteger, desinﬂamar y revitalizar el organismo de forma natural. Gracias a su contenido de curcuminoides y piperina, apoya la salud celular y contribuye al equilibrio del sistema inmunológico. Con un refrescante sabor a naranja y cúrcuma. Su envase con gotero facilita el consumo exacto en cualquier momento. Libre de gluten. Sin azúcar añadida. Sin calorías. Sin conservantes ni saborizantes artiﬁciales. En envase práctico y portátil, ideal",
     "precio_empresa_cliente": 15134,
-    "precio_sugerido_publico": 21621
+    "precio_sugerido_publico": 21621,
+    "imagen_miniatura": "images/productos/1079389-thumb.jpg"
   },
   {
     "codigo": "1058055",
@@ -177,7 +191,8 @@
     "ingredientes": "Té verde, Spirulina, Canela, Clavo, Cardamomo y Jengibre. *A disponibilidad de inventario*",
     "por_que_recomendarlo": "SpiruTé verde es una bebida deliciosa que no solo es agradable al paladar, sino que también ofrece una variedad de beneﬁcios para la salud gracias a sus ingredientes nutritivos y propiedades curativas. ¡Disfrútalo y aprovecha sus beneﬁcios para la salud! ● Digestivo natural ● Libre de laxantes ● 100% natural, sin saborizantes, colorantes y conservantes ● Libre de contraindicaciones",
     "precio_empresa_cliente": 12495,
-    "precio_sugerido_publico": 17850
+    "precio_sugerido_publico": 17850,
+    "imagen_miniatura": "images/productos/1058055-thumb.jpg"
   },
   {
     "codigo": "1089827",
@@ -189,7 +204,8 @@
     "ingredientes": "Te verde, Cacao, Cúrcuma, Jengibre, Spirulina y Pimienta.",
     "por_que_recomendarlo": "El Té dorado es una infusión natural y libre de cafeína que combina ingredientes como la Cúrcuma, Jengibre y Pimienta con una base de cacao y vainilla. El Spiruté de cúrcuma es una mezcla de té que contiene ingredientes como té verde, cacao, cúrcuma, jengibre, spirulina y pimienta, todos los cuales tienen beneﬁcios para la salud.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 9301
+    "precio_sugerido_publico": 9301,
+    "imagen_miniatura": "images/productos/1089827-thumb.jpg"
   },
   {
     "codigo": "1058057",
@@ -201,7 +217,8 @@
     "ingredientes": "Te verde, Cacao, Cúrcuma, Jengibre, Spirulina y Pimienta. *A disponibilidad de inventario*",
     "por_que_recomendarlo": "El Té dorado es una infusión natural y libre de cafeína que combina ingredientes como la Cúrcuma, Jengibre y Pimienta con una base de cacao y vainilla. El Spiruté de cúrcuma es una mezcla de té que contiene ingredientes como té verde, cacao, cúrcuma, jengibre, spirulina y pimienta, todos los cuales tienen beneﬁcios para la salud.",
     "precio_empresa_cliente": 12495,
-    "precio_sugerido_publico": 17850
+    "precio_sugerido_publico": 17850,
+    "imagen_miniatura": "images/productos/1058057-thumb.jpg"
   },
   {
     "codigo": "1077744",
@@ -213,7 +230,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "SpiruTé surtido, con ingredientes que aportan antioxidantes naturales, reconocidos porque favorecen el bienestar intestinal, 6 variedades de té e infusiones. Descubre las 3 variedades de sabores, colores y aromas de Spiruté. Un arcoíris de ingredientes funcionales con sabores frescos y cálidos para disfrutar todos los días. ● Spiruté Cúrcuma ● Spiruté Rooibos ● Spiruté Verde",
     "precio_empresa_cliente": 12495,
-    "precio_sugerido_publico": 17850
+    "precio_sugerido_publico": 17850,
+    "imagen_miniatura": "images/productos/1077744-thumb.jpg"
   },
   {
     "codigo": "1089826",
@@ -225,7 +243,8 @@
     "ingredientes": "Té Matcha,Té verde, Spirulina y Limón. Disponible para todas las regiones excepto Bogotá",
     "por_que_recomendarlo": "Nuestro SpiruTé puriﬁcante es una mezcla de ingredientes con antioxidantes que ayudan a promover tu bienestar general, brindándote una sensación de vitalidad. ● Energía natural ● Apoyo a la digestión ● Sabor refrescante ● Beneﬁcios Antioxidantes",
     "precio_empresa_cliente": 6930,
-    "precio_sugerido_publico": 9901
+    "precio_sugerido_publico": 9901,
+    "imagen_miniatura": "images/productos/1089826-thumb.jpg"
   },
   {
     "codigo": "1070410",
@@ -237,7 +256,8 @@
     "ingredientes": "Té Matcha,Té verde, Spirulina y Limón.",
     "por_que_recomendarlo": "Nuestro SpiruTé puriﬁcante es una mezcla de ingredientes con antioxidantes que ayudan a promover tu bienestar Disponible únicamente para Bogotá general, brindándote una sensación de vitalidad. ● Energía natural ● Apoyo a la digestión ● Sabor refrescante ● Beneﬁcios Antioxidantes",
     "precio_empresa_cliente": 9100,
-    "precio_sugerido_publico": 13000
+    "precio_sugerido_publico": 13000,
+    "imagen_miniatura": "images/productos/1070410-thumb.jpg"
   },
   {
     "codigo": "1089825",
@@ -249,7 +269,8 @@
     "ingredientes": "Linaza, Inulina, Piña, Spirulina, Aloe vera, Konjac, Bacillus coagulans.",
     "por_que_recomendarlo": "reconfortante infusión herbal elaborada con manzanilla, pasiﬂora, salvia y cidrón, ingredientes naturales cuidadosamente seleccionados por sus propiedades calmantes y restauradoras. Esta poderosa mezcla botánica actúa sobre el sistema nervioso, ayudando a reducir el estrés, relajar la mente y preparar el cuerpo para un descanso profundo, convirtiéndose en el aliado perfecto para tu bienestar diario.",
     "precio_empresa_cliente": 6510,
-    "precio_sugerido_publico": 9301
+    "precio_sugerido_publico": 9301,
+    "imagen_miniatura": "images/productos/1089825-thumb.jpg"
   },
   {
     "codigo": "1089828",
@@ -261,7 +282,8 @@
     "ingredientes": "Té verde, Spirulina, Canela, Clavo, Cardamomo y Jengibre.",
     "por_que_recomendarlo": "SpiruTé verde es una bebida deliciosa que no solo es agradable al paladar, sino que también ofrece una variedad de beneﬁcios para la salud gracias a sus ingredientes nutritivos y propiedades curativas. ¡Disfrútalo y aprovecha sus beneﬁcios para la salud! ● Digestivo natural ● Libre de laxantes ● 100% natural, sin saborizantes, colorantes y conservantes ● Libre de contraindicaciones",
     "precio_empresa_cliente": 6510,
-    "precio_sugerido_publico": 9301
+    "precio_sugerido_publico": 9301,
+    "imagen_miniatura": "images/productos/1089828-thumb.jpg"
   },
   {
     "codigo": "1067899",
@@ -273,7 +295,8 @@
     "ingredientes": "Arroz Integral, Queso, Semillas de Linaza y Chía y sal Marina. PSP x und: $4.685 x Mercado saludable",
     "por_que_recomendarlo": "nuestras rosquillas son una excelente fuente de ﬁbra, proteínas y ácidos grasos omega-3. Además, son libres de grasas trans y conservantes artiﬁciales, lo que las convierte en una opción saludable y natural para satisfacer tus antojos. ¡Llévalas contigo a donde quieras y disfruta de su sabor y nutrición en cualquier momento y lugar!",
     "precio_empresa_cliente": 19680,
-    "precio_sugerido_publico": 28114
+    "precio_sugerido_publico": 28114,
+    "imagen_miniatura": "images/productos/1067899-thumb.jpg"
   },
   {
     "codigo": "1048825",
@@ -285,7 +308,8 @@
     "ingredientes": "Arroz Integral, Queso, Semillas de Linaza y Chía y sal Marina. PSP x und: $7.463",
     "por_que_recomendarlo": "nuestras rosquillas son una excelente fuente de ﬁbra, proteínas y ácidos grasos omega-3. Además, son libres de grasas trans y conservantes artiﬁciales, lo que las convierte en una opción saludable y natural para satisfacer tus antojos. ¡Llévalas contigo a donde quieras y disfruta de su sabor y nutrición en cualquier momento y lugar!",
     "precio_empresa_cliente": 62696,
-    "precio_sugerido_publico": 89566
+    "precio_sugerido_publico": 89566,
+    "imagen_miniatura": "images/productos/1048825-thumb.jpg"
   },
   {
     "codigo": "1067900",
@@ -297,7 +321,8 @@
     "ingredientes": "Arroz Integral, Queso, Semillas de Linaza y Chía y sal Marina. PSP x und: $4.537",
     "por_que_recomendarlo": "nuestras rosquillas son una excelente fuente de ﬁbra, proteínas y ácidos grasos omega-3. Además, son libres de grasas trans y conservantes artiﬁciales, lo que las convierte en una opción saludable y natural para satisfacer tus antojos. ¡Llévalas contigo a donde quieras y disfruta de su sabor y nutrición en cualquier momento y lugar!",
     "precio_empresa_cliente": 38112,
-    "precio_sugerido_publico": 54446
+    "precio_sugerido_publico": 54446,
+    "imagen_miniatura": "images/productos/1067900-thumb.jpg"
   },
   {
     "codigo": "1065634",
@@ -309,7 +334,8 @@
     "ingredientes": "Arroz Integral, Queso, Semillas de Linaza y Chía y sal Marina.",
     "por_que_recomendarlo": "Elaboradas con ingredientes de calidad, fuente de ﬁbra, proteínas y ácidos grasos omega-3. Además, son libres de grasas trans y conservantes artiﬁciales, lo que las convierte en una opción saludable y natural para satisfacer tus antojos. ¡Llévalas contigo a donde quieras y disfruta de su sabor y nutrición en cualquier momento y lugar!",
     "precio_empresa_cliente": 17215,
-    "precio_sugerido_publico": 24593
+    "precio_sugerido_publico": 24593,
+    "imagen_miniatura": "images/productos/1065634-thumb.jpg"
   },
   {
     "codigo": "1067901",
@@ -321,7 +347,8 @@
     "ingredientes": "● Rosquillas Integrales de Arroz, Chía y Linaza: Arroz Integral, Queso, Semillas de Linaza y Chía y sal Marina. ● Rosquillas Integrales de Garbanzo, Arroz Integral, Semillas de Chía y Linaza: Arroz Integral, Garbanzos, PSP x und: Sagú, Semillas de Linaza, Semillas de $4.685 Chía, Panela Orgánica, Orégano, sal Marina y Jengibre. ● Rosquillas Integrales de Arroz SEGMENTOS Integral, Quinua, Amaranto y x Spirulina: Arroz integral, Queso, Quinua, Amaranto Maca, Spirulina y Tiendas naturistas Sal Marina.",
     "por_que_recomendarlo": "Snack saludable, ideal para acompañar tus días. Rosquillas artesanales listas para el consumo, que aportan nutrientes para fortalecer tu cuerpo. No importa cuál sea tu preferencia, nuestras rosquillas integrales son la opción perfecta para aquellos que buscan una alternativa saludable y sabrosa a los snacks convencionales.",
     "precio_empresa_cliente": 19680,
-    "precio_sugerido_publico": 28114
+    "precio_sugerido_publico": 28114,
+    "imagen_miniatura": "images/productos/1067901-thumb.jpg"
   },
   {
     "codigo": "1048816",
@@ -333,7 +360,8 @@
     "ingredientes": "Arroz Integral, Garbanzos, Sagú, Semillas de Linaza, Semillas de Chía, Orégano, Sal Marina y Jengibre. PSP x und: $4.419",
     "por_que_recomendarlo": "opción saludable y deliciosa para aquellos que buscan un snack nutritivo y sabroso. Elaboradas con una combinación de arroz integral, garbanzos, sagú, semillas de linaza y semillas de chía, estas rosquillas son ricas en ﬁbra, proteínas y otros nutrientes esenciales para una dieta equilibrada.",
     "precio_empresa_cliente": 18560,
-    "precio_sugerido_publico": 26514
+    "precio_sugerido_publico": 26514,
+    "imagen_miniatura": "images/productos/1048816-thumb.jpg"
   },
   {
     "codigo": "1082295",
@@ -345,7 +373,8 @@
     "ingredientes": "Spirulina, Cúrcuma, Cloroﬁla y Stevia",
     "por_que_recomendarlo": "Son las únicas mentas con spirulina en el mercado. Estas deliciosas mentas están endulzadas con stevia, lo que las hace una opción saludable y natural para refrescar el aliento. La spirulina, por su parte, es un superalimento rico en proteínas, antioxidantes y vitaminas que puede ayudar a aumentar la energía, mejorar la digestión y fortalecer el sistema inmunológico.",
     "precio_empresa_cliente": 67318,
-    "precio_sugerido_publico": 96169
+    "precio_sugerido_publico": 96169,
+    "imagen_miniatura": "images/productos/1082295-thumb.jpg"
   },
   {
     "codigo": "1068451",
@@ -357,7 +386,8 @@
     "ingredientes": "Maltodextrina, concentrado de proteína de suero, aceite vegetal, vitaminas y minerales (citrato de potasio, fosfato tricálcico, cloruro de potasio, citrato de magnesio, ácido ascórbico, bitartrato de colina, dióxido de silicio, zinc aminoquelado, cloruro de cromo, vitamina E, hierro bisglicinato, biotina, molibdato de sodio, niacinamida, palmitato de vitamina A, selenito de sodio, pantotenato de calcio, sulfato de manganeso, cobalamina, vitamina D3, sulfato de cobre, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ﬁtomenadiona, ácido fólico, yoduro de potasio), fructooligosacáridos, azúcar, sabores artiﬁciales (vainilla, leche), antiaglutinante (fosfato tricálcico), sabores naturales (natural, extracto de regaliz), espesante (goma xantana), caseinato de sodio. Contiene sulﬁtos, leche y soya. Puede contener trazas de gluten y nueces de SEGMENTOS árbol. RSA-0026067-2023",
     "por_que_recomendarlo": "Alimento en polvo con proteína, ﬁbra, vitaminas y minerales sabor artiﬁcial a vainilla. Alimento en polvo con proteína, ﬁbra, vitaminas y minerales para toda la familia. La proteína contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos. La ﬁbra contribuye a regular el tránsito intestinal. Las vitaminas B2, B3, B6 y B12 contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 50320,
-    "precio_sugerido_publico": 62900
+    "precio_sugerido_publico": 62900,
+    "imagen_miniatura": "images/productos/1068451-thumb.jpg"
   },
   {
     "codigo": "1068444",
@@ -369,7 +399,8 @@
     "ingredientes": "Maltodextrina, concentrado de proteína de suero, aceite vegetal, vitaminas y minerales (citrato de potasio, fosfato tricálcico, cloruro de potasio, citrato de magnesio, ácido ascórbico, bitartrato de colina, dióxido de silicio, zinc aminoquelado, cloruro de cromo, vitamina E, hierro bisglicinato, biotina, molibdato de sodio, niacinamida, palmitato de vitamina A, selenito de sodio, pantotenato de calcio, sulfato de manganeso, cobalamina, vitamina D3, sulfato de cobre, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ﬁtomenadiona, ácido fólico, yoduro de potasio), fructooligosacáridos, azúcar, sabores artiﬁciales (vainilla, leche), antiaglutinante (fosfato tricálcico), sabores naturales (natural, extracto de regaliz), espesante (goma xantana), caseinato de sodio. Contiene sulﬁtos, leche y soya. Puede contener trazas de gluten y nueces de SEGMENTOS árbol. RSA-0026067-2023",
     "por_que_recomendarlo": "Alimento en polvo con proteína, ﬁbra, vitaminas y minerales sabor artiﬁcial a vainilla. Alimento en polvo con proteína, ﬁbra, vitaminas y minerales para toda la familia. La proteína contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos. La ﬁbra contribuye a regular el tránsito intestinal. Las vitaminas B2, B3, B6 y B12 contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 36720,
-    "precio_sugerido_publico": 45900
+    "precio_sugerido_publico": 45900,
+    "imagen_miniatura": "images/productos/1068444-thumb.jpg"
   },
   {
     "codigo": "1059262",
@@ -381,7 +412,8 @@
     "ingredientes": "Maltodextrina, colágeno hidrolizado, vitaminas y minerales (ácido ascórbico, vitamina E acetato, selenito de sodio, vitamina A palmitato, biotina, piridoxina clorhidrato), antiaglutinante (fosfato tricálcico). Contiene sulﬁtos. Puede contener trazas de leche, soya, gluten y nueces de árbol. x Mercado saludable",
     "por_que_recomendarlo": "Mezcla en polvo con colágeno hidrolizado, excelente fuente de vitaminas A, C, B6, E y Selenio. La vitamina A ayuda al mantenimiento de la piel. El selenio contribuye al mantenimiento normal del cabello y uñas. La porción recomendada es un 1 sobre al día. No contiene sabor por tanto se puede mezclar con bebidas frías o calientes, su colágeno es de mayor absorción.",
     "precio_empresa_cliente": 34459,
-    "precio_sugerido_publico": 45900
+    "precio_sugerido_publico": 45900,
+    "imagen_miniatura": "images/productos/1059262-thumb.jpg"
   },
   {
     "codigo": "1064827",
@@ -393,7 +425,8 @@
     "ingredientes": "Agua, aislado de proteína de soya, aceite vegetal, concentrado de proteína de leche, sabor artiﬁcial (leche), estabilizante (gel de celulosa, goma de celulosa, carragenina), sabor artiﬁcial (frutos rojos), regulador de acidez (tripolifosfato de sodio), edulcorante no calórico (glicósidos de esteviol), color artiﬁcial (carmoisina), vitaminas (niacinamida, pantotenato de calcio, cobalamina, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ácido fólico), color artiﬁcial (rojo allura # 40). Contiene soya y leche. Puede contener trazas de gluten, nueces de árbol y sulﬁtos. RSA-0022875-2022 x Mercado saludable",
     "por_que_recomendarlo": "Bebida lista para consumir a base de proteína de soya, vitaminas B1, B2, B3, B5, B6, B9, B12 sabor a frutos rojos. Aporta 15 g de proteína de alta calidad que contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos.Vitamina B1 que contribuye al metabolismo de los carbohidratos ayudando a obtener energía. Vitaminas B2,B3,B5,B9 Y B12 que contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 8127,
-    "precio_sugerido_publico": 10800
+    "precio_sugerido_publico": 10800,
+    "imagen_miniatura": "images/productos/1064827-thumb.jpg"
   },
   {
     "codigo": "1068368",
@@ -405,7 +438,8 @@
     "ingredientes": "Concentrado de proteÌna de suero (whey protein), aislado de proteÌna de soya, sabores artiﬁciales (vainilla, leche), espesantes (goma guar, goma xantana), antiaglutinante (fosfato tric·lcico), sabor natural (natural), edulcorante no calórico (glicósidos de esteviol), vitaminas (niacinamida, pantotenato de calcio, cobalamina, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ácido fÛlico), sal. Contiene leche y soya. Puede contener trazas de gluten y nueces de ·árbol. RSA-0025824-2023 x Mercado saludable",
     "por_que_recomendarlo": "Polvo a base de proteína, vitaminas B1, B2, B3, B5, B6, B9, B12. Sabor artiﬁcial a Vainilla. Aporta 15 g de proteína que contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos. Las vitaminas B2,B3, B6 Y B12 contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 59856,
-    "precio_sugerido_publico": 79900
+    "precio_sugerido_publico": 79900,
+    "imagen_miniatura": "images/productos/1068368-thumb.jpg"
   },
   {
     "codigo": "1064828",
@@ -417,7 +451,8 @@
     "ingredientes": "Agua, aislado de proteína de soya, aceite vegetal, concentrado de proteína de leche, sabor artiﬁcial (leche), estabilizante (gel de celulosa, goma de celulosa, carragenina), sabor artiﬁcial (vainilla banano), regulador de acidez (tripolifosfato de sodio), edulcorante no calórico (glicósidos de esteviol), vitaminas (niacinamida, pantotenato de calcio, cobalamina, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ácido fólico). Contiene soya y leche. Puede contener trazas de gluten, nueces de árbol y sulﬁtos. RSA-0022875-2022",
     "por_que_recomendarlo": "Bebida lista para consumir a base de proteína de soya, vitaminas B1, B2, B3, B5, B6, B9, B12 sabor a frutos rojos. Aporta 15 g de proteína de alta calidad que contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos.Vitamina B1 que contribuye al metabolismo de los carbohidratos ayudando a obtener energía. Vitaminas B2,B3,B5,B9 Y B12 que contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 8127,
-    "precio_sugerido_publico": 10800
+    "precio_sugerido_publico": 10800,
+    "imagen_miniatura": "images/productos/1064828-thumb.jpg"
   },
   {
     "codigo": "1068387",
@@ -429,7 +464,8 @@
     "ingredientes": "Concentrado de proteína de suero (whey protein), aislado de proteína de soya, sabores artiﬁciales (capuccino, leche), espesantes (goma guar, goma xantana), antiaglutinante (fosfato tric·lcico), sabor natural (natural), edulcorante no calórico (glicósidos de esteviol), vitaminas (niacinamida, pantotenato de calcio, cobalamina, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ácido fÛlico), sal. Contiene leche y soya. Puede contener trazas de gluten y nueces de ·árbol. RSA-0025824-2023 x Mercado saludable",
     "por_que_recomendarlo": "Alimento en polvo a base de proteína, vitaminas B1, B2, B3, B5, B6, B9, B12. Sabor artiﬁcial a Vainilla. Aporta 15 g de proteína que contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos. Las vitaminas B2,B3, B6 Y B12 contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 63920,
-    "precio_sugerido_publico": 79900
+    "precio_sugerido_publico": 79900,
+    "imagen_miniatura": "images/productos/1068387-thumb.jpg"
   },
   {
     "codigo": "1064829",
@@ -441,7 +477,8 @@
     "ingredientes": "Agua, aislado de proteína de soya, aceite vegetal, concentrado de proteína de leche, sabor artiﬁcial (leche), estabilizante (gel de celulosa, goma de celulosa, carragenina), sabor artiﬁcial (capuccino), café soluble en polvo (saborizante), reguladores de la acidez (fosfato dipotásico, tripolifosfato de sodio), sabor natural (caramelo), edulcorante no calórico (glicósidos de esteviol), vitaminas (niacinamida, pantotenato de calcio, cobalamina, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ácido fólico). Contiene soya y leche. Puede contener trazas de gluten, nueces de árbol y sulﬁtos. RSA-0022875-2022 x Mercado saludable",
     "por_que_recomendarlo": "Bebida lista para consumir a base de proteína de soya, vitaminas B1, B2, B3, B5, B6, B9, B12 sabor a frutos rojos. Aporta 15 g de proteína de alta calidad que contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos. Vitamina B1 que contribuye al metabolismo de los carbohidratos ayudando a obtener energía. Vitaminas B2,B3,B5,B9 Y B12 que contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 8127,
-    "precio_sugerido_publico": 10800
+    "precio_sugerido_publico": 10800,
+    "imagen_miniatura": "images/productos/1064829-thumb.jpg"
   },
   {
     "codigo": "1068389",
@@ -453,7 +490,8 @@
     "ingredientes": "Concentrado de proteÌna de suero (whey protein), aislado de proteÌna de soya, sabores artiﬁciales (capuccino, leche), espesantes (goma guar, goma xantana), antiaglutinante (fosfato tric·lcico), sabor natural (natural), edulcorante no calórico (glicósidos de esteviol), vitaminas (niacinamida, pantotenato de calcio, cobalamina, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ácido fÛlico), sal. Contiene leche y soya. Puede contener trazas de gluten y nueces de ·árbol. RSA-0025824-2023 x Mercado saludable",
     "por_que_recomendarlo": "Alimento en polvo a base de proteína de suero, vitaminas B1, B2, B3, B5, B6, B9, B12. Sabor artiﬁcial a Vainilla. Aporta 15 g de proteína que contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos. Las vitaminas B2,B3, B6 Y B12 contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 39100,
-    "precio_sugerido_publico": 48900
+    "precio_sugerido_publico": 48900,
+    "imagen_miniatura": "images/productos/1068389-thumb.jpg"
   },
   {
     "codigo": "1065135",
@@ -465,7 +503,8 @@
     "ingredientes": "Agua, aislado de proteína de soya, aceite vegetal, concentrado de proteína de leche, sabor artiﬁcial (leche), estabilizante (gel de celulosa, goma de celulosa, carragenina), sabor artiﬁcial (frutos rojos), regulador de acidez (tripolifosfato de sodio), edulcorante no calórico (glicósidos de esteviol), color artiﬁcial (carmoisina), vitaminas (niacinamida, pantotenato de calcio, cobalamina, clorhidrato de piridoxina, mononitrato de tiamina, riboﬂavina, ácido fólico), color artiﬁcial (rojo allura # 40). Contiene soya y leche. Puede contener trazas de gluten, nueces de árbol y sulﬁtos. RSA-0022875-2022 x Mercado saludable",
     "por_que_recomendarlo": "Bebida lista para consumir a base de proteína de soya, vitaminas B1, B2, B3, B5, B6, B9, B12 sabor a frutos rojos. Aporta 15 g de proteína de alta calidad que contribuye a la formación y mantenimiento de tejidos del cuerpo como huesos y músculos.Vitamina B1 que contribuye al metabolismo de los carbohidratos ayudando a obtener energía. Vitaminas B2,B3,B5,B9 Y B12 que contribuyen a la reducción del cansancio y la fatiga.",
     "precio_empresa_cliente": 24720,
-    "precio_sugerido_publico": 30900
+    "precio_sugerido_publico": 30900,
+    "imagen_miniatura": "images/productos/1065135-thumb.jpg"
   },
   {
     "codigo": "1079155",
@@ -477,7 +516,8 @@
     "ingredientes": "Aislado de proteína de suero / whey protein (aislado de proteína de suero, lecitina de soya), péptidos de colágeno hidrolizado (proteínas de colágeno), arequipe en polvo (leche entera, azúcar, benzoato de sodio(conservante), lactasa (enzima), suero de leche en polvo, leche descremada), premezcla de vitaminas y minerales (fosfato dipotásico, carbonato de calcio, fosfato tricálcico, maltodextrina, óxido de magnesio, ácido ascórbico, sulfato de zinc, selenito de sodio, vitamina D (colecalciferol)), espesantes (goma guar, goma xantana), sabores naturales (helado de vainilla (vainilla, crema, leche), natural, caramelo (caramelo, vainilla, dulce)), antiaglutinante (fosfato tricálcico), edulcorante no calórico (glicósidos de esteviol). Contiene leche y soya. Puede contener trazas de gluten.",
     "por_que_recomendarlo": "Proteina en polvo Bénet Whey sabor helado de Vainilla. Bebida en polvo con una mezcla de carbohidratos simples de rápida absorción para iniciar tu entrenamiento con la energía que tu cuerpo necesita.",
     "precio_empresa_cliente": 115073,
-    "precio_sugerido_publico": 152900
+    "precio_sugerido_publico": 152900,
+    "imagen_miniatura": "images/productos/1079155-thumb.jpg"
   },
   {
     "codigo": "1071401",
@@ -489,7 +529,8 @@
     "ingredientes": "Concentrado de proteína de suero (whey protein), péptidos de colágeno, pulpa de frutos rojos (7,2%) (mora, fresa, cereza, pulpa de remolacha), azúcar, avena molida, espesantes (goma guar, goma xantana), sabores naturales (frutos rojos, extracto de regaliz), antiaglutinante (fosfato tricálcico), vitaminas y minerales (ácido ascórbico, sulfato de cobre, blisglicinato de zinc, alfa tocoferol acetato, acetato de retinilo, nicotinamida, selenito de sodio, biotina, riboﬂavina), colorante natural (rojo). Contiene leche, soy y gluten. Puede contener trazas de nueces de árbol.",
     "por_que_recomendarlo": "Esta proteína en polvo de la marca Bénet está diseñada para complementar la alimentación diaria y favorecer el bienestar general. Su fórmula combina proteína de suero de leche (Whey Protein) con péptidos de colágeno, lo que permite una mejor absorción y digestión. Además de su contenido proteico, aporta vitaminas y minerales esenciales que ayudan a fortalecer huesos, piel, cabello y uñas. Es un alimento listo para preparar en agua, ideal para quienes buscan mantener un estilo de vida activo y saludable.",
     "precio_empresa_cliente": 59856,
-    "precio_sugerido_publico": 79900
+    "precio_sugerido_publico": 79900,
+    "imagen_miniatura": "images/productos/1071401-thumb.jpg"
   },
   {
     "codigo": "1079620",
@@ -501,7 +542,8 @@
     "ingredientes": "Azúcar, maltodextrina, carbonato de calcio, sabores artiﬁciales (fresa, crema y dulce), regulador de acidez (ácido cítrico), sal, sabores naturales (Kola roja y vainilla), espesante (carboximetil celulosa de sodio), glicinato férrico, colorantes artiﬁciales (rojo No. 40 laca y rojo allura), vitamina B3 (niacinamida), palmitato de vitamina A, vitamina D3 (colecalciferol), vitamina B1 (mononitratoa de tiamina), vitamina B2 (riboﬂavina).",
     "por_que_recomendarlo": "Multivitamínico con sabor a fresa que actúa como un delicioso complemento para la alimentación diaria. Su fórmula es una fuente de Calcio, Hierro y 5 Vitaminas (A,B1, B2, B3, D), diseñada para aportar nutrientes esenciales en cada porción.",
     "precio_empresa_cliente": 15120,
-    "precio_sugerido_publico": 18900
+    "precio_sugerido_publico": 18900,
+    "imagen_miniatura": "images/productos/1079620-thumb.jpg"
   },
   {
     "codigo": "2008565",
@@ -513,7 +555,8 @@
     "ingredientes": "Gelatina 200 bloom (Gelatina de origen animal), Glicerina, Propilparabeno sódico, Metilparabeno sódico, Agua purificada.",
     "por_que_recomendarlo": "Cápsulas blandas Vitamina E + Selenio. La vitamina E es antioxidante y contribuye a la protección de las células del daño oxidativo. El selenio es antioxidante y por lo tanto ayuda a la protección de las células y tejidos del daño oxidativo. El selenio contribuye al mantenimiento del cabello y uñas en condiciones normales.",
     "precio_empresa_cliente": 24430,
-    "precio_sugerido_publico": 34900
+    "precio_sugerido_publico": 34900,
+    "imagen_miniatura": "images/productos/2008565-thumb.jpg"
   },
   {
     "codigo": "2019772",
@@ -525,7 +568,8 @@
     "ingredientes": "Colágeno Hidrolizado (371,6 mg), Vitamina C (27 mg) y Biotina (0.25 mg). Otros ingredientes de la cápsula: Almidón de Maíz, Estearato de Magnesio, Metilparabeno Sódico, Propilparabeno Sódico, Celulosa Microcristalina.",
     "por_que_recomendarlo": "Productos Nutricionales con Código conocimiento cientíﬁco Cápsulas Colágeno Hidrolizado Biotina + Vitamina C. La vitamina C contribuye a la formación del colágeno para la función normal de los huesos.",
     "precio_empresa_cliente": 28560,
-    "precio_sugerido_publico": 40900
+    "precio_sugerido_publico": 40900,
+    "imagen_miniatura": "images/productos/2019772-thumb.jpg"
   },
   {
     "codigo": "1078795",
@@ -537,7 +581,8 @@
     "ingredientes": "Carbonato de Calcio 489, 53 mg equivalente a 195,7 mg de Calcio; Vitamina D3 0,133 mg, equivalente a 66,5 UI; Citrato de Magnesio Anhidro 36 mg equivalente 4,1 mg de Magnesio. Otros ingredientes de la cápsula: Almidón de Maíz, Gelatina.",
     "por_que_recomendarlo": "Este producto es un suplemento dietario que acompañado de una buena alimentación nos puede aportar calcio, que es necesario para mantener sanos los huesos, músculos, el sistema nervioso, el corazón y los sistemas de coagulación de la sangre, además de Vitamina D o Colecalciferol participa en el metabolismo del calcio y del fósforo, aumenta su absorción en el intestino, incrementando el depósito de estos y del magnesio en el tejido óseo. Por su parte, el magnesio es uno de los mayores cationes intracelulares.",
     "precio_empresa_cliente": 22988,
-    "precio_sugerido_publico": 32900
+    "precio_sugerido_publico": 32900,
+    "imagen_miniatura": "images/productos/1078795-thumb.jpg"
   },
   {
     "codigo": "2019272",
@@ -549,7 +594,8 @@
     "ingredientes": "Ácidos Omega 3, aromatizante (aceite de limón), antioxidante (vitamina E-567 natural), formador de pelicula (gelatina), plastificante (solución sorbitol-sorbitán (SPI)), plastificante (glicerina), agua purificada USP.\n\nAceite obtenido a partir de las especies marinas: Engraulis ringens, Trachurus trachurus, Scomber scombrus y Sardina pilchardus.",
     "por_que_recomendarlo": "Estas gomas de Bénet combina las bondades de los ácidos grasos Omega 3 (EPA y DHA) con las propiedades del Zinc, ofreciendo un suplemento nutricional diseñado para proteger la salud cardiovascular y reforzar las defensas del sistema inmunológico. Gracias a su agradable sabor natural a limón y manzana, constituyen una alternativa práctica y fácil de consumir para complementar la alimentación diaria de los adultos, favoreciendo el bienestar general del organismo.",
     "precio_empresa_cliente": 39920,
-    "precio_sugerido_publico": 49900
+    "precio_sugerido_publico": 49900,
+    "imagen_miniatura": "images/productos/2019272-thumb.jpg"
   },
   {
     "codigo": "2019773",
@@ -561,7 +607,8 @@
     "ingredientes": "Vitamina D3 2000 UI Otros ingredientes de la Tableta: Almidón de maíz parcialmente pregelatinizado - Dióxido de silicio coloidal, Estearato de Magnesio, Sucralosa, Sabor frutos rojos, Propionato de Calcio.",
     "por_que_recomendarlo": "Aportan un beneficio fundamental para el bienestar general, ya que la Vitamina D3 favorece la adecuada absorción y fijación del calcio y el fósforo en el organismo, lo cual resulta indispensable para mantener la densidad, fuerza y salud de los huesos y dientes. Adicionalmente, esta vitamina juega un rol clave en el fortalecimiento del sistema inmunológico al estimular las defensas naturales del cuerpo, al mismo tiempo que contribuye al correcto funcionamiento muscular y ayuda a mantener la vitalidad diaria.",
     "precio_empresa_cliente": 22988,
-    "precio_sugerido_publico": 32900
+    "precio_sugerido_publico": 32900,
+    "imagen_miniatura": "images/productos/2019773-thumb.jpg"
   },
   {
     "codigo": "1078796",
@@ -573,7 +620,8 @@
     "ingredientes": "Cada tableta contiene: Vitamina B1 0,75 mg (Como Tiamina Clorhidrato 0,95 mg), Vitamina B2 0,85 mg (Como Riboflavina 5 Fosfato 1,03 mg) Vitamina B6 1,0 mg (Como Piridoxina Clorhidrato 1,21 mg), Vitamina B12 (Cianocobalamina) 3,0 mcg, Nicotinamida 10mg Vitamina C 30 mg, Calcio 195 mg (Como fosfato Bicálcico 662 mg), Zinc 7,5 mg (Como Sulfato de Zinc 18,5 mg). Otros ingredientes de la tableta: Dióxido de silicio coloidal, celulosa microcristalina, estearato de magnesio, almidón de maíz parcialmente pregelatinizado, laca amarillo # 6 FD&C Sunset, laca amarillo # 10 D&C.",
     "por_que_recomendarlo": "frecen una combinación integral para potenciar el rendimiento físico y mental diario. Su contenido de vitaminas del complejo B (B1, B2, B6, B12 y Nicotinamida) contribuye a la transformación de los alimentos en energía disponible y al adecuado funcionamiento del sistema nervioso. Al mismo tiempo, la Vitamina C actúa como antioxidante y fortalece el sistema inmunitario junto con el Zinc, mientras que el Calcio apoya el mantenimiento de la estructura ósea y la salud de los dientes.",
     "precio_empresa_cliente": 26320,
-    "precio_sugerido_publico": 32900
+    "precio_sugerido_publico": 32900,
+    "imagen_miniatura": "images/productos/1078796-thumb.jpg"
   },
   {
     "codigo": "1080785",
@@ -585,7 +633,8 @@
     "ingredientes": "Cada cápsula contiene: Vitamina A 1500 mcg, Vitamina C 35 mg, Nicotinamida 15 mg, Vitamina D3 10 mcg, Calcio 58.8 mg, Magnesio 30.3 mg, Hierro 18 mg, Vitamina B12 6 mcg, Vitamina B1 1.5 mg, Vitamina B6 2.0 mg, Vitamina B2 1.24 mg, Ácido Pantoténico 10 mg, Fósforo 45.5 mg, Zinc 15 mg.",
     "por_que_recomendarlo": "Las Cápsulas Multivitamínicas para Mujer de Bénet están diseñadas para apoyar la salud femenina de manera integral, aportando calcio y vitamina D3 para fortalecer huesos y dientes, ayudando a prevenir la pérdida de densidad ósea a largo plazo. Además, incluyen hierro para mantener óptimos niveles de energía y evitar la fatiga transportando oxígeno en el cuerpo, así como vitamina C, la cual actúa como un potente antioxidante que favorece la absorción del hierro y estimula la producción de colágeno para beneficiar la elasticidad de la piel, la salud del cabello y la firmeza de las articulaciones.",
     "precio_empresa_cliente": 29520,
-    "precio_sugerido_publico": 36900
+    "precio_sugerido_publico": 36900,
+    "imagen_miniatura": "images/productos/1080785-thumb.jpg"
   },
   {
     "codigo": "2037217",
@@ -597,7 +646,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), vinagre de manzana, agente geliﬁcante (gelatina), agua, acidulantes (ácido láctico, ácido cítrico), sabor artiﬁcial (manzana), colorante natural (carmín), agente de recubrimiento (cera carnauba), vitamina B6 (piridoxina) y vitamina B9 (ácido fólico). Puede contener trazas de leche, soya, crustáceos, sulﬁtos, gluten y sésamo.",
     "por_que_recomendarlo": "144g Productos Nutricionales con conocimiento cientíﬁco Código PSP: $48.900 2037217 ¿POR QUÉ RECOMENDARLO? El vinagre de manzana es el tipo de vinagre más popular en el campo de la comunidad de la salud natural. Se le atribuyen todo tipo de beneﬁcios, de los cuales cuentan con el respaldo de la ciencia. ● Bajo en calorías ● Puede matar diferentes bacterias ● Disminuye los niveles de azúcar en la sangre, lo que ayuda a controlar la diabetes ● Puede ayudar a mantener un peso balanceado y reducir la grasa abdominal ● Reduce el colesterol y mejora la salud cardíaca",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2037218",
@@ -609,7 +659,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, agente geliﬁcante (gelatina), citrato de magnesio, sabor natural (arándano azúl), acidulantes (ácido láctico, ácido cítrico), regulador de acidez (citrato de sodio), colorante natural (extracto de jagua y zanahoria negra), agente de recubrimiento (cera carnauba), selenito de sodio.",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento Código PSP: $48.900 2037218 ¿POR QUÉ RECOMENDARLO? El citrato de magnesio es un mineral que interviene en numerosos procesos corporales. Contribuye a 300 enzimas diferentes que el cuerpo necesita para la formación de huesos, el control del azúcar en sangre, la regulación de la función nerviosa y más. Mejora la calidad del sueño debido a sus propiedades relajantes y su capacidad para regular el sistema nervioso. El magnesio juega un papel importante en la producción de melatonina, la hormona que regula el sueño. Relaja los músculos, reduce calambres o espasmos. Ayuda a reducir el estrés y la ansiedad.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2019271",
@@ -621,7 +672,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, fructooligosacáridos, agente geliﬁcante (gelatina), colágeno y vitaminas (colágeno hidrolizado, vitamina E (alfa tocoferol acetato) biotina, vitamina C (ácido ascórbico), vitamina A (palmitato), selenio (seleniometionina)), reguladores de acidez (ácido láctico, ácido cítrico), edulcorante (manitol), sabor natural (frambuesa y fresa), colorante natural (antocianina (E163)), adulcorante (glicósidos de esteviol).",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco Código PSP: $48.900 2019271 ¿POR QUÉ RECOMENDARLO? Gomas de gelatina sin azúcar totales con mezcla única de nutrientes 200 mg de colágeno + Biotina y Vitamina E. Tiene un sabor natural a Frambuesa y Fresa. Porción recomendada 4 gomas diarias, producto recomendado para adultos. El selenio contribuye al mantenimiento normal del cabello y uñas. La vitamina A ayuda al mantenimiento de la piel. La vitamina E es antioxidante y por lo tanto ayuda a la protección de las células del daño oxidativo.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2019269",
@@ -633,7 +685,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, fructooligosacáridos, vitaminas y minerales (vitamina C (ácido ascórbico), vitamina E (alfa tocofero acetato), vitamina B3 (niacinamida), vitamina B5 (pantotenato de calcio), vitamina B6 (hidrocloruro de piricoxina), vitamina B1 (mononitrato de tiamina), vitamina A (vitamina A palmitato), vitamina B9 (ácido fólico), biotina, vitamina D (colecalciferol), vitamina B12 (cobalamina), calcio (citrato de calcio magnesto (citrato de magnesto), zinc (citrato de zinc), yodo (yoduro de potasio)), geliﬁcante (gelatina), almidón de papa, sak ores (natural uva, natural manzana, natural y artiﬁcial de melocotón, natural dulce), edulcorante (manitol), reguladores de acidez (acido citrico, acido lactico), colorantes naturales (amarillo cúrcuma (E100), morado (antocianinas (E163), rojo licopeno (E160i)), SEGMENTOS edulcorante (glicosidos de esteviol).",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento Código PSP: $48.900 2019269 ¿POR QUÉ RECOMENDARLO? Gomas de gelatina, vitamina A,C, D, B1, B3, B5, B6, B9, B12, calcio, magnesio, yodo y zinc sabores naturales a uva y manzana y sabor artiﬁcial a melocotón. Las vitaminas B3, B5, B6, B9 y B12 contribuyen a la reducción del cansancio y la fatiga. La vitamina A contribuye al mantenimiento de la visión normal. La vitamina C y D contribuyen al funcionamiento normal del sistema inmune. El calcio ayuda al mantenimiento de huesos y dientes. El zinc y el yodo contribuyen a la función cognitiva. El magnesio contribuye al funcionamiento normal del sistema nervioso.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2019270",
@@ -645,7 +698,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, polidextrosa, geliﬁcante (gelatina), vitaminas y minerales (vitamina C (ácido ascórbico), vitamina E (alfa tocoferol acetato), zinc (citrato de zinc)), reguladores de acidez (ácido láctico, ácido cítrico), edulcorante (manitol), sabor natural (naranja y sabor natural dulce), colorante artiﬁcial (amarillo ocaso FCF (E 110)), edulcorante (glicosidos de esteviol).",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento Código PV: $34.237 cientíﬁco 2019270 PSP: $48.900 Gomas de gelatina sin azúcar totales con mezcla única de nutrientes vitamina C + E y zinc ,aporta al 100% de requerimiento diario de vitamina C ( 60 mg) , contribuye al fortalecimiento del sistema inmune. Tiene un sabor natural a naranja. Porción recomendada 4 gomas diarias , producto recomendado para adultos. La vitamina C y el zinc contribuyen a la función normal del sistema inmune",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2023030",
@@ -657,7 +711,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, fructooligosacáridos, agente geliﬁcante (gelatina), colágeno y vitaminas (colágeno hidrolizado, vitamina E (alfa tocoferol acetato) biotina, vitamina C (ácido ascórbico), vitamina A (palmitato), selenio (seleniometionina)), reguladores de acidez (ácido láctico, ácido cítrico), edulcorante (manitol), sabor natural (frambuesa y fresa), colorante natural (antocianina (E163)), adulcorante (glicósidos de esteviol).",
     "por_que_recomendarlo": "12udsx40gomas Productos Nutricionales con conocimiento cientíﬁco Las Gomas Benet Cognitivo aportan Zinc y Omega 3, nutrientes esenciales para el desempeño mental. Su fórmula sin azúcares totales y con sabor a manzana y limón ofrece una opción práctica para el bienestar diario.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": 48900
+    "precio_sugerido_publico": 48900,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2018640",
@@ -669,7 +724,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, fri ctooligosacáridps, vitaminas y minerales (vitamina C (ácido ascórbico), vitamina E (alfa tocoferol acetato), vitamina B3 (niacinamida), vita nina B5 (pantcrenato de calcio), vitamina A (vitamina A palmitato), vitamina 86 (hidrocloruro de piricoxina), vitamina BL (mononitrato de lamina), vitamina 39 (acido folico), biotina, vitamina D (colecalciterol), vitamina B12 (cobalamina), calcio (citrato de calcio), zinc (citrato de zinc), hierro (ortofosfato férrico), yodo (yoduro de potasio)), gelinicante (gelatina, sabor natural dulce, almidón de papa, regulador de la acidez (ácido láctico), edulcorante (manitol), regulador de la acidez (ácido citrico), sabor natural (fresa y frambuesa), colorante natural (ai tocianina (E163)), edulcorante (glicósidos de esteviol).",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco Código PSP: $44.900 2018640 ¿POR QUÉ RECOMENDARLO? Gomas de gelatina, vitamina A,C, D, B1, B3, B5, B6, B9, B12, calcio, magnesio, yodo y zinc con sabor natural a fresa y frambuesa. La Vitamina D, B1, B3, ácido fólico y el calcio son necesarios para el crecimiento y desarrollo adecuado.",
     "precio_empresa_cliente": 32328,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2018640-thumb.jpg"
   },
   {
     "codigo": "2020557",
@@ -681,7 +737,8 @@
     "ingredientes": "Edulcorante (maltitol), fructooligosacáridos, agua, edulcorante (sorbitol), ácidos grasos omega 3, mineral (zinc (citrato de zinc)), geliﬁcante (gelatina), almidón de papa, acidulante (ácido cítrico), edulcorante (manitol), acidulante (ácido láctico), sabor natural (fresa y mandarina), colores naturales (rojo antocianina (E163), naranja paprika (E160C) y amarillo cúrcuma (E100)), enmascarador de sabor (natural), antioxidante (alfatocoferol acetato) y edulcorante (glicósidos de esteviol).",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento Código PSP: $44.900 Gomas de gelatina, DHA, Omega 3 y zinc sabor natural a fresa y mandarina. El zinc contribuye a la función cognitiva.",
     "precio_empresa_cliente": 32328,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2018639",
@@ -693,7 +750,8 @@
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, polidextrosa, geliﬁcante (gelatina), vitaminas y minerales (vitamina C (ácido ascórbico), vitamina E (alfa tocoferol acetato), zinc (citrato de zinc)), reguladores de acidez (ácido láctico, ácido cítrico), edulcorante (manitol), sabor natural (naranja y sabor natural dulce), colorante artiﬁcial (amarillo ocaso FCF (E 110)), edulcorante (glicosidos de esteviol).",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco 2018639 PV: $ 31.296 Gomas de gelatina sin azúcar totales con mezcla única de nutrientes vitamina C + E y zinc, aporta al 100% de requerimiento diario de vitamina C (60 mg), contribuye al fortalecimiento del sistema inmune. Tiene un sabor natural a naranja. Porción recomendada 4 gomas diarias, producto recomendado para adultos. La vitamina C y el zinc contribuyen a la función normal del sistema inmune",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 44900
+    "precio_sugerido_publico": 44900,
+    "imagen_miniatura": "images/productos/2018639-thumb.jpg"
   },
   {
     "codigo": "2015326",
@@ -705,7 +763,8 @@
     "ingredientes": "Edulcorantes (manitol, sorbitol), agua, fructooligoscacáridos, agente geliﬁcante (gelatina), acidulantes (ácido láctico, ácido cítrico), extracto de propóleo, sabor natural (limón y dulce), agente de recubrimiento (aceite mineral, cera de carnauba, cera de abejas), edulcorante no calórico (glicósidos de esteviol).",
     "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco Código PSP: $44.900 Ideales para cuidar a los más pequeños, las nuevas Gomas Kids Bénet para niños, fortalecen la nutrición de tus hijos con vitaminas y minerales.",
     "precio_empresa_cliente": 31296,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2015326-thumb.jpg"
   },
   {
     "codigo": "1080149",
@@ -717,7 +776,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Productos Nutricionales con Código Código conocimiento cientíﬁco 1080149 1059573 ¿POR QUÉ RECOMENDARLO? INGREDIENTES Citarto de magnesio ● Salud Digestiva: Facilita el transito intestinal en niñoscon tendencia al estreñimiento. ● Relajación y Sueño: Estimula la produccion de serotonina, lo que ayuda a reducir la inquietud, el nerviosismo, mejorando la calidad del sueño nocturno. ● Desarrollo Fisico: Contribuye al crecimineto y fortalecimiento de los huesos y dientes, ademas de prevenir calambres y dolores musculares. ● Función Cognitiva: Apoya el sistema nervisoso, ayudando a mejorar la concentración y la memoria. ● Sistema Inmunitario: Refuerza las defensas del organismo.",
     "precio_empresa_cliente": 32328,
-    "precio_sugerido_publico": 44900
+    "precio_sugerido_publico": 44900,
+    "imagen_miniatura": "images/productos/1080149-thumb.jpg"
   },
   {
     "codigo": "2033332",
@@ -729,7 +789,8 @@
     "ingredientes": "SEGMENTOS Manzanas seleccionadas, agua.",
     "por_que_recomendarlo": "● 100% Natural ● Sin ﬁltrar ● Sin pasteurizar ● Sin saborizantes ● Con la MADRE Se puede ver a La Madre como una sustancia turbia que ﬂota en las botellas de vinagre, la Madre es rica en proteínas naturales y pectinas y contiene bacterias y levaduras saludables, esta se forma naturalmente a medida que el vinagre orgánico crudo se fermenta, produciendo un vinagre turbio y parduzco.",
     "precio_empresa_cliente": 17430,
-    "precio_sugerido_publico": 24900
+    "precio_sugerido_publico": 24900,
+    "imagen_miniatura": "images/productos/2033332-thumb.jpg"
   },
   {
     "codigo": "1082933",
@@ -741,7 +802,8 @@
     "ingredientes": "x Contiene cocoa, melena de león (7%), emulsionante (lecitina de soya), mineral (bisglicinato de zinc) y vitamina B5 (ácido pantoténico)",
     "por_que_recomendarlo": "Mezcla de cacao 100% natural con Melena de León, vitaminas y minerales Buena fuente de vitamina B5 que contribuye al rendimiento mental Excelente fuente de Zinc que ayuda a la función cognitiva normal Melena de León ● Es un hongo (Hericium erinaceus) con ericeninas y hericenonas, asociadas a propiedades neuroprotectoras y antioxidantes. ● Favorece la regeneración neuronal. ● Estimula la producción de neurotransmisores GABA, que regulan el estado de ánimo, el estrés y la ansiedad. Con Vitamina B5 y Zinc: ● La Vitamina B5 contribuye al rendimiento mental normal. ● El Zinc contribuye a la función cognitiva.",
     "precio_empresa_cliente": 30000,
-    "precio_sugerido_publico": 39000
+    "precio_sugerido_publico": 39000,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "1083428",
@@ -753,7 +815,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Gomitas con Melena de León y Betaglucanos de Ganoderma (Reishi). Sabor natural a frutos rojos Buena fuente de Magnesio que contribuye al funcionamiento normal del sistema nervioso Excelente fuente de Zinc que contribuye a la función cognitiva normal Betaglucanos de ganoderma lucidum (Reishi) ● Ayuda a equilibrar la respuesta hormonal al estrés. ● El Reishi ha sido tradicionalmente utilizado para calmar la mente y facilitar un estado de relajación",
     "precio_empresa_cliente": 33653,
-    "precio_sugerido_publico": 43749
+    "precio_sugerido_publico": 43749,
+    "imagen_miniatura": "images/productos/1083428-thumb.jpg"
   },
   {
     "codigo": "1089250",
@@ -765,7 +828,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Coadyuvante en el tratamiento sintomático de venas varicosas, insuﬁciencia venosa crónica de las extremidades inferiores y hemorroides. El castaño es una de las madres de la sabiduría herbal, que se ha usado para tratar problemas venosos como várices, úlceras venosas y hemorroides. Tiene propiedades venotónicas, vasoconstrictoras y antiinﬂamatorias. Actúa directamente al sistema circulatorio y se han realizado estudios en los que se evidencia que tiene un efecto beneﬁcioso en el corazón y las arterias.",
     "precio_empresa_cliente": 24150,
-    "precio_sugerido_publico": 31500
+    "precio_sugerido_publico": 31500,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "1064569",
@@ -777,7 +841,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Los arándanos son reconocidos por ser antioxidantes. Además, aportan vitamina C, potasio y ﬁbra. Sus propiedades multivitamínicas ayudan a fortalecer el sistema inmunológico y ayudan a combatir infecciones. Es un medicamento ﬁtoterapéutico, no exceder su consumo",
     "precio_empresa_cliente": 26530,
-    "precio_sugerido_publico": 34500
+    "precio_sugerido_publico": 34500,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "1089228",
@@ -789,7 +854,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Colerético colagogo. Alivio sintomático de la dispepsia y disfunciones hepatobiliares menores. La alcachofa Es diurética. Ayuda a mejorar los niveles de azúcar en la sangre, facilita la digestión y protege el hígado. Contiene cinarina, que ayuda a combatir el colesterol malo y eleva el colesterol bueno. Es un medicamento ﬁtoterapéutico, no exceder su consumo.",
     "precio_empresa_cliente": 21140,
-    "precio_sugerido_publico": 27500
+    "precio_sugerido_publico": 27500,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "1065837",
@@ -801,7 +867,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Sedante, coadyuvante en el tratamiento de la ansiedad y trastornos del sueño de origen nervioso. Cientíﬁcamente, se ha comprobado que esta planta milenaria tiene propiedades sedantes, tranquilizantes e inductoras del sueño. Ha sido utilizada, desde hace muchos años como medicina en la tradición herbal de América Central, del Norte y en México para tratar el insomnio, la epilepsia y la histeria.",
     "precio_empresa_cliente": 17430,
-    "precio_sugerido_publico": 22700
+    "precio_sugerido_publico": 22700,
+    "imagen_miniatura": "images/productos/1065837-thumb.jpg"
   },
   {
     "codigo": "2020824",
@@ -813,7 +880,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Nuestra esencia ﬂoral Calma es una mezcla de las ﬂores: mímulo y manzanilla. Es ideal para encontrar serenidad en momentos de estrés. Ofrece una terapia enegetica ideal para mejorar el estado de ánimo en momentos difíciles.",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900
+    "precio_sugerido_publico": 20900,
+    "imagen_miniatura": "images/productos/2020824-thumb.jpg"
   },
   {
     "codigo": "2024663",
@@ -825,7 +893,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Nuestra esencia ﬂoral Enfoque es una mezcla de las ﬂores: white chestnut, Isopogón, Sundew, entre otras. Ideal para favorecer la claridad mental y la concentración. Por su composición, es ideal para enfocarse en las actividades que se realizan durante el día para vivirlas de una manera consciente y presente.",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900
+    "precio_sugerido_publico": 20900,
+    "imagen_miniatura": "images/productos/2024663-thumb.jpg"
   },
   {
     "codigo": "2020825",
@@ -837,7 +906,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Nuestra esencia ﬂoral Rescate es una mezcla de las ﬂores: clematis, impaciencia, Cherry Plum, entre otras. Es ideal para encontrar armonía en situaciones difíciles y de crisis. Por su composición es ideal para aliviar las emociones y pensamientos negativos que vienen después de una pérdida o una situación difícil. Ayuda a disipar la ansiedad, el miedo y la tensión acumulada, permitiendo que la mente y el cuerpo se relajen",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900
+    "precio_sugerido_publico": 20900,
+    "imagen_miniatura": "images/productos/2020825-thumb.jpg"
   },
   {
     "codigo": "2024665",
@@ -849,7 +919,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Nuestra esencia ﬂoral Control de Emociones es una mezcla de las ﬂores: Impaciencia y patiens. Ideal para favorecer el equilibro emocional y del estado de ánimo. Neutraliza la emociones negativas, promoviendo el buen estado de ánimo. Ayuda a combatir la irritabilidad y los altibajos emocionales.",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900
+    "precio_sugerido_publico": 20900,
+    "imagen_miniatura": "images/productos/2024665-thumb.jpg"
   },
   {
     "codigo": "1065840",
@@ -861,7 +932,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Nuestro aceite esencial de lavanda te brindará un efecto calmante, reconfortante y tranquilizante. Esta poderosa planta te proporciona serenidad cuando sientas tensión emocional, preocupación e intranquilidad. La lavanda es una maravillosa planta milenaria que se ha reconocido por su aromática fragancia y poder para brindarte beneﬁcios a nivel mental y emocional, ya que te aporta sensación de calma y relajación PROPIEDADES ● Sensación de tranquilidad y serenidad. SEGMENTOS ● Efecto calmante y relajante. x ● Ayuda a dormir y descansar mejor. x ● Ayuda a disminuir dolores de cabeza.",
     "precio_empresa_cliente": 25830,
-    "precio_sugerido_publico": 33600
+    "precio_sugerido_publico": 33600,
+    "imagen_miniatura": "images/productos/1065840-thumb.jpg"
   },
   {
     "codigo": "1065842",
@@ -873,7 +945,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Conocido ancestralmente por su característico aroma fresco y vivaz. Brinda un efecto refrescante y sensación de aire puro. Su aroma también te ayuda a enfocarte en las diferentes actividades del día a día. El eucalipto es una planta milenaria de origen australiano que ha sido usada tradicionalmente en casos de afecciones respiratorias. También, se ha convertido en el aliado perfecto para crear ambientes frescos y relajantes. PROPIEDADES ● Efecto refrescante. SEGMENTOS ● Sensación de aire puro.",
     "precio_empresa_cliente": 25830,
-    "precio_sugerido_publico": 33600
+    "precio_sugerido_publico": 33600,
+    "imagen_miniatura": "images/productos/1065842-thumb.jpg"
   },
   {
     "codigo": "2020873",
@@ -885,7 +958,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de lavanda, limón y bergamota para evocar momentos de descanso, plenitud y serenidad. Esta combinación perfecta de aceites le brinda a tu cuerpo una sensación de bienestar y relajación profunda. PROPIEDADES ● Te proporciona un efecto relajante. ● Ayuda a descansar profundamente. ● Revitaliza tus ambientes. ● Equilibra la energía.",
     "precio_empresa_cliente": 23030,
-    "precio_sugerido_publico": 29950
+    "precio_sugerido_publico": 29950,
+    "imagen_miniatura": "images/productos/2020873-thumb.jpg"
   },
   {
     "codigo": "2020875",
@@ -897,7 +971,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de bergamota, hojas de té verde y lavanda. Las notas cítricas y frescas de esta bruma envolverán tus espacios para ayudarte a mejorar tu actitud, brindándote una sensación de felicidad. PROPIEDADES ● Mejora el estado de ánimo. ● Genera sensación de vitalidad. ● Refresca el ambiente. ● Equilibra la energía. ● Es ideal para usar en momentos donde necesitas optimismo y felicidad.",
     "precio_empresa_cliente": 23030,
-    "precio_sugerido_publico": 29950
+    "precio_sugerido_publico": 29950,
+    "imagen_miniatura": "images/productos/2020875-thumb.jpg"
   },
   {
     "codigo": "2020874",
@@ -909,7 +984,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de eucalipto, menta y lavanda para evocar momentos de frescura, concentración y vitalidad. Esta combinación es perfecta para generar una sensación de bienestar, concentración y conexión profunda. PROPIEDADES ● Por su aroma fresco es ideal para favorecer la concentración ● Genera sensación de frescura y vitalidad ● Revitaliza el ambiente ● Equilibra la energía",
     "precio_empresa_cliente": 23030,
-    "precio_sugerido_publico": 29950
+    "precio_sugerido_publico": 29950,
+    "imagen_miniatura": "images/productos/2020874-thumb.jpg"
   },
   {
     "codigo": "1065843",
@@ -921,7 +997,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Nuestro aceite esencial de árbol de té es ideal para sanar afecciones en la piel, mejorar su textura y tratar heridas leves. Su uso tópico te ayudará a mejorar la textura de la dermis y su aroma te envolverá en un ambiente boscoso y tranquilizante. El árbol de té ha sido tradicionalmente reconocido por sus propiedades puriﬁcantes, antisépticas, antibacterianas y antioxidantes. PROPIEDADES *hasta agotar existencias* ● Antiséptico y antibacteriano. ● Fungicida. ● Cicatrizante. ● Repelente de insectos.",
     "precio_empresa_cliente": 28351,
-    "precio_sugerido_publico": 36900
+    "precio_sugerido_publico": 36900,
+    "imagen_miniatura": "images/productos/1065843-thumb.jpg"
   },
   {
     "codigo": "2025071",
@@ -933,7 +1010,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "La centella asiática es una planta reconocida por sus propiedades calmantes e hidratantes. Ayuda a mejorar la apariencia de la piel. Por otro lado, el castaño de indias Es reconocida por sus propiedades antioxidantes y antiinﬂamatorias. Ayuda a proteger la piel. PROPIEDADES ● Ayuda a reducir la inﬂamación. ● Mejora la apariencia de la piel. ● Proporciona alivio a las piernas cansadas.",
     "precio_empresa_cliente": 20230,
-    "precio_sugerido_publico": 26300
+    "precio_sugerido_publico": 26300,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2008862",
@@ -945,7 +1023,8 @@
     "ingredientes": "100% Aceite de Oliva extra virgen.",
     "por_que_recomendarlo": "¿POR QUÉ RECOMENDARLOS? Es un producto de origen natural, se destaca por la calidad de la oliva y su fruto, elaborado a partir de la extracción en frío lo que le permite conservar su sabor y aroma ideales, de origen máxima del 0,5% punto recomendado donde conserva todos sus beneﬁcios organolépticos y funcionales, no es desodorizado. Es apto para veganos, vegetarianos y celíacos, libre de grasas trans, y aditivos. Reconocido con el galardón de dos estrellas al sabor superior en el ITQI de Bruselas. Punto de humo 200°C.",
     "precio_empresa_cliente": 23526,
-    "precio_sugerido_publico": 30600
+    "precio_sugerido_publico": 30600,
+    "imagen_miniatura": "images/productos/2008862-thumb.jpg"
   },
   {
     "codigo": "2030793",
@@ -957,7 +1036,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "desempeño superior",
     "precio_empresa_cliente": 11567,
-    "precio_sugerido_publico": 15100
+    "precio_sugerido_publico": 15100,
+    "imagen_miniatura": "images/productos/2030793-thumb.jpg"
   },
   {
     "codigo": "2018288",
@@ -969,7 +1049,8 @@
     "ingredientes": "100% Aceite de Oliva extra virgen.",
     "por_que_recomendarlo": "acidez máxima del 0,5% punto recomendado donde conserva todos sus beneﬁcios organolépticos y funcionales, no es desodorizado. Es humo 200°C.",
     "precio_empresa_cliente": 81058,
-    "precio_sugerido_publico": 105375
+    "precio_sugerido_publico": 105375,
+    "imagen_miniatura": "images/productos/2018288-thumb.jpg"
   },
   {
     "codigo": "2037219",
@@ -981,7 +1062,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Ingredientes de calidad, sabor y desempeño superior",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2037219-thumb.jpg"
   },
   {
     "codigo": "2019815",
@@ -993,7 +1075,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Ingredientes de calidad, sabor y desempeño superior",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2019815-thumb.jpg"
   },
   {
     "codigo": "2030794-2",
@@ -1005,7 +1088,8 @@
     "ingredientes": "Aceite de coco Extra Virgen, contiene nueces de árbol.",
     "por_que_recomendarlo": "PVP: $48.000 Elaborado a partir de la pulpa fresca y madura del coco mediante un proceso de prensado en frío, el cual permite conservar todos sus PVP: $15.500 nutrientes. Es un producto 100% natural, no contiene colesterol, ni químicos o aditivos, que alteran su composición básica. Es apto para veganos, vegetarianos y celíacos, libre de grasas trans, un acompañante saludable y original que va bien con cualquier preparación, incluso con el café o té en las mañanas. Reconocido con el máximo galardón de 3 estrellas por su sabor superior en el ITQI de Bruselas.",
     "precio_empresa_cliente": 11899,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2030794-2-thumb.jpg"
   },
   {
     "codigo": "2019814",
@@ -1017,7 +1101,8 @@
     "ingredientes": "Aceite de aguacate extra virgen, antioxidante natural (Tocoferol)",
     "por_que_recomendarlo": "Ingredientes de calidad, sabor y desempeño superior 2019814 ¿POR QUÉ RECOMENDARLO? Es un producto 100% natural, elaborado a partir de la cuidadosa selección de aguacate 100% hass y mediante el proceso de extracción en frío que permite conservar sus beneﬁcios, sabor y aroma ideales. No contiene conservantes ni aditivos, libre de grasas trans, excelente fuente de Omega 3. Se destaca por su gran aporte de ácido oleico que ayuda a prevenir enfermedades cardiovasculares. Es apto para veganos, vegetarianos y celíacos. Punto de humo entre 175°C y 190°C.",
     "precio_empresa_cliente": 31481,
-    "precio_sugerido_publico": 42500
+    "precio_sugerido_publico": 42500,
+    "imagen_miniatura": "images/productos/2019814-thumb.jpg"
   },
   {
     "codigo": "2012326",
@@ -1029,7 +1114,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "",
     "precio_empresa_cliente": 14908,
-    "precio_sugerido_publico": 18600
+    "precio_sugerido_publico": 18600,
+    "imagen_miniatura": "images/productos/2012326-thumb.jpg"
   },
   {
     "codigo": "2018288-2",
@@ -1041,7 +1127,8 @@
     "ingredientes": "Mosto de uva cocido 51% (contiene sulﬁtos), vinagre de vino 49% (contiene sulﬁtos).",
     "por_que_recomendarlo": "Elaborado a partir del mosto de la uva, es un producto de origen natural, se destaca por su calidad y su sabor excepcional, no contiene azúcar añadida, libre de grasas trans, aditivos y conservantes. Es apto para veganos, vegetarianos y celíacos. Reconocido con el máximo galardón de 3 estrellas por su sabor superior en el ITQI de Bruselas. Ideal para darle un toque único a cualquier preparación, brinda un aroma agridulce que acompaña muy bien carnes, verduras, ensaladas, quesos y hasta postres.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2018288-2-thumb.jpg"
   },
   {
     "codigo": "2038964",
@@ -1053,7 +1140,8 @@
     "ingredientes": "Menta piperita, Manzanilla, Hinojo fruto, Jengibre raíz y Sabor natural a menta. x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
     "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y balanceada Contiene una Mezcla de ingredientes, menta, manzanilla, hinojo y jengibre, ideal para la digestión, después de las comidas. Es un producto con Ingredientes 100% naturales, sin azúcar, Sin calorías y Sin sabores ni conservantes artiﬁciales",
     "precio_empresa_cliente": 7919,
-    "precio_sugerido_publico": 10250
+    "precio_sugerido_publico": 10250,
+    "imagen_miniatura": "images/productos/2038964-thumb.jpg"
   },
   {
     "codigo": "2030246",
@@ -1065,7 +1153,8 @@
     "ingredientes": "Manzanilla, Cidrón, Jengibre y Maca x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
     "por_que_recomendarlo": "Código Vivir en armonía por medio de una alimentación sana y balanceada Las mezclas funcionales en las infusiones se han vuelto cada vez más populares debido a su enfoque en proporcionar una ayuda natural y holística. Para crear Momento Serenidad elegimos plantas adaptógenas, como: el SAÚCO y la MACA, una combinación poderosa que conecta tu cuerpo y tu mente.",
     "precio_empresa_cliente": 7919,
-    "precio_sugerido_publico": 10295
+    "precio_sugerido_publico": 10295,
+    "imagen_miniatura": "images/productos/2030246-thumb.jpg"
   },
   {
     "codigo": "2031417",
@@ -1077,7 +1166,8 @@
     "ingredientes": "toronjil, hoja de naranjo, manzanilla, pasionaria y ﬂor de espliego (lavanda) x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
     "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y balanceada es la pausa natural perfecta para desconectar del estrés y restaurar tu equilibrio diario. Su mezcla cuidadosamente seleccionada de hierbas relajantes alivia las tensiones acumuladas, preparándote para un descanso profundo y reparador al ﬁnal de la jornada.",
     "precio_empresa_cliente": 7919,
-    "precio_sugerido_publico": 10250
+    "precio_sugerido_publico": 10250,
+    "imagen_miniatura": "images/productos/2031417-thumb.jpg"
   },
   {
     "codigo": "2031414",
@@ -1089,7 +1179,8 @@
     "ingredientes": "Manzana, jengibre, limón y miel. x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
     "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 2031414 balanceada es la combinación ideal para revitalizar tu cuerpo y reconfortar tu garganta en cualquier momento del día. El toque picante del jengibre se equilibra a la perfección con la frescura del limón y el dulzor suave de la manzana y la miel, brindándote una bebida tan deliciosa como funcional para fortalecer tus defensas de forma natural.",
     "precio_empresa_cliente": 7919,
-    "precio_sugerido_publico": 10250
+    "precio_sugerido_publico": 10250,
+    "imagen_miniatura": "images/productos/2031414-thumb.jpg"
   },
   {
     "codigo": "2039219",
@@ -1101,7 +1192,8 @@
     "ingredientes": "Té verde (Camellia sinensis), Hierbabuena, Sabor natural de hierbabuena. x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
     "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y balanceada Con todos los beneﬁcios naturales del Té verde, contiene antioxidantes naturales y por su contenido de teína, mejora el estado de alerta y la concentración. Es un producto con Ingredientes 100% naturales, Sin azúcar, Sin calorías y Sin sabores ni conservantes artiﬁciales",
     "precio_empresa_cliente": 8960,
-    "precio_sugerido_publico": 11200
+    "precio_sugerido_publico": 11200,
+    "imagen_miniatura": "images/productos/2039219-thumb.jpg"
   },
   {
     "codigo": "2026757",
@@ -1113,7 +1205,8 @@
     "ingredientes": "Té verde (Camellia sinensis) con Flor de Jamaica x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
     "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 2026757 balanceada La ﬂor de jamaica es una planta medicinal a la que se le atribuyen muchos beneﬁcios para la salud. Tiene propiedades diuréticas, antihipertensivas, antiparasitarias y ligeramente laxantes. Asociadas a bajar de peso y mantener una buena salud Es un producto con Ingredientes 100% naturales, sin azúcar, sin calorías y Sin sabores ni conservantes artiﬁciales.",
     "precio_empresa_cliente": 8960,
-    "precio_sugerido_publico": 11200
+    "precio_sugerido_publico": 11200,
+    "imagen_miniatura": "images/productos/2026757-thumb.jpg"
   },
   {
     "codigo": "2031244",
@@ -1125,7 +1218,8 @@
     "ingredientes": "Flor de Jamaica (hibisco), manzana, fresa, mora y arándanos (con sabor natural a frutos rojos). x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
     "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y balanceada es una opción deliciosa y refrescante, ideal para cuidar tu cuerpo gracias a su alto poder antioxidante. Su equilibrado perﬁl de sabores combina notas ácidas y dulces que transforman cualquier pausa del día en una experiencia revitalizante, cuidando de ti de forma 100% natural.",
     "precio_empresa_cliente": 8960,
-    "precio_sugerido_publico": 11200
+    "precio_sugerido_publico": 11200,
+    "imagen_miniatura": "images/productos/2031244-thumb.jpg"
   },
   {
     "codigo": "2017348",
@@ -1137,7 +1231,8 @@
     "ingredientes": "Manzanilla *Producto en racionalización* x No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre Código de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Omega 3, Halai (permitido comunidad musulmana)) Es un producto libre de cafeína y ayuda a mantener una sana digestión porque es una hierba que contiene efectos tranquilizantes, No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales.",
     "precio_empresa_cliente": 7557,
-    "precio_sugerido_publico": 10400
+    "precio_sugerido_publico": 10400,
+    "imagen_miniatura": "images/productos/2017348-thumb.jpg"
   },
   {
     "codigo": "2017469",
@@ -1149,7 +1244,8 @@
     "ingredientes": "Menta *Producto en racionalización* No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre Código de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Omega 3, Halai (permitido comunidad musulmana)) Es un producto libre de cafeína y es realiza por hojas de mentas por tanto te ayuda a tener una digestión sana, No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales.",
     "precio_empresa_cliente": 7557,
-    "precio_sugerido_publico": 10400
+    "precio_sugerido_publico": 10400,
+    "imagen_miniatura": "images/productos/2017469-thumb.jpg"
   },
   {
     "codigo": "2015886",
@@ -1161,7 +1257,8 @@
     "ingredientes": "Atún, agua, sal x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "Lomos de atún sin conservantes, Excelente fuente de proteína. Es ideal para deportistas o personas que controlan la ingesta de calorías y grasas. Pesca responsable.",
     "precio_empresa_cliente": 7021,
-    "precio_sugerido_publico": 8500
+    "precio_sugerido_publico": 8500,
+    "imagen_miniatura": "images/productos/2015886-thumb.jpg"
   },
   {
     "codigo": "1044674",
@@ -1173,7 +1270,8 @@
     "ingredientes": "MANÍ, ALMENDRA, CEBADA Y TRIGO (GLUTEN), SOYA. Puede contener trazas de nueces de árbol, leche y albúmina de huevo. x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 1044674 balanceada Es un producto perfecto en cualquier momento del día, especialmente cuando quieres comer algo bueno para ti, con todos los beneﬁcios de la ﬁbra y sin azúcar adicionada. Para calmar el hambre entre comidas o mientras entrenas. Es un producto Naturalmente libre de grasas trans, 0% Colesterol, Bajo en sodio y 100% libres de sellos con ley 810.",
     "precio_empresa_cliente": 10640,
-    "precio_sugerido_publico": 13300
+    "precio_sugerido_publico": 13300,
+    "imagen_miniatura": "images/productos/1044674-thumb.jpg"
   },
   {
     "codigo": "1044670",
@@ -1185,7 +1283,8 @@
     "ingredientes": "MANÍ, ALMENDRA, CEBADA Y TRIGO (GLUTEN), SOYA. Puede contener trazas de nueces de árbol, leche y albúmina de huevo. x Mercado saludable",
     "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 1044670 balanceada Es un producto perfecto en cualquier momento del día, especialmente cuando quieres comer algo bueno para ti, con todos los beneﬁcios de la ﬁbra y sin azúcar adicionada. Para calmar el hambre entre comidas o mientras entrenas. Es un producto Naturalmente libre de grasas trans, 0% Colesterol, Bajo en sodio y 100% libres de sellos con ley 810.",
     "precio_empresa_cliente": 10640,
-    "precio_sugerido_publico": 13300
+    "precio_sugerido_publico": 13300,
+    "imagen_miniatura": "images/productos/1044670-thumb.jpg"
   },
   {
     "codigo": "1044672",
@@ -1197,7 +1296,8 @@
     "ingredientes": "MANÍ, ALMENDRA, CEBADA Y TRIGO (GLUTEN), SOYA. Puede contener trazas de nueces de árbol, leche y albúmina de huevo. x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 1044672 balanceada Es un producto perfecto en cualquier momento del día, especialmente cuando quieres comer algo bueno para ti, con todos los beneﬁcios de la ﬁbra y sin azúcar adicionada. Para calmar el hambre entre comidas o mientras entrenas. Es un producto Naturalmente libre de grasas trans, 0% Colesterol, Bajo en sodio y 100% libres de sellos con ley 810.",
     "precio_empresa_cliente": 10640,
-    "precio_sugerido_publico": 13300
+    "precio_sugerido_publico": 13300,
+    "imagen_miniatura": "images/productos/1044672-thumb.jpg"
   },
   {
     "codigo": "1044671",
@@ -1209,7 +1309,8 @@
     "ingredientes": "Mezcla de cereales (avena, arroz inﬂado, maíz), cobertura de chocolate (o gotas de chocolate), ﬁbra natural y endulzante x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y 1044671 balanceada es el snack saludable perfecto para calmar los antojos dulces sin descuidar tu alimentación. Su textura crujiente a base de cereales combinada con la cobertura de chocolate ofrece un equilibrio ideal entre nutrición, energía y practicidad para llevar a cualquier lugar.",
     "precio_empresa_cliente": 11600,
-    "precio_sugerido_publico": 14500
+    "precio_sugerido_publico": 14500,
+    "imagen_miniatura": "images/productos/1044671-thumb.jpg"
   },
   {
     "codigo": "2020120",
@@ -1221,7 +1322,8 @@
     "ingredientes": "Agua, Pasta de Almendra, Saborizantes Naturales, Carbonato de Calcio, Regulador de Acidez (Citrato de Sodio), Estabilizantes (Goma Xantana, Carboximetilcelulosa), Vitamina D. Contiene Almendra. Manufacturado en una planta que procesa productos a base de Leche, Avena, Avellana, Coco, Macadamia y Soja. x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una Código alimentación sana y balanceada Es un producto sin azúcar, 100% libres de sellos, perfecta para incluir en todos tus días, son libres de lactosa, libre de colesterol y grasa trans, buena fuente de calcio y vitamina D, no tienen colores ni sabores artiﬁciales. Tan solo 50 calorías por porción.",
     "precio_empresa_cliente": 13305,
-    "precio_sugerido_publico": 17300
+    "precio_sugerido_publico": 17300,
+    "imagen_miniatura": "images/productos/2020120-thumb.jpg"
   },
   {
     "codigo": "2020121",
@@ -1233,7 +1335,8 @@
     "ingredientes": "Agua, Crema de Coco en Polvo (Sólidos de Jarabe de Maíz, Crema de Coco, Antioxidante (alfa tocoferol)), Carbonato de Calcio, Estabilizantes (Goma Xantana, Carboximetilcelulosa), Saborizante Natural, Sal, Vitamina D. Contiene Coco. Manufacturado en una planta que procesa productos a base de leche, Avena, Avellana, Almendra, Macadamia y Soja. x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada perfecto para incluir en todos tus días, son libres de lactosa, libre de colesterol y grasa trans, buena fuente de calcio y vitamina D, no tienen colores ni sabores artiﬁciales. Tan solo 69 calorías por porción.",
     "precio_empresa_cliente": 13305,
-    "precio_sugerido_publico": 17300
+    "precio_sugerido_publico": 17300,
+    "imagen_miniatura": "images/productos/2020121-thumb.jpg"
   },
   {
     "codigo": "2020775",
@@ -1245,7 +1348,8 @@
     "ingredientes": "Agua, Pasta de Almendra, Harina de Avena, Saborizante Natural, Carbonato de Calcio, Regulador de Acidez (Citrato de Sodio), Estabilizantes (Goma Xantan, Carboximetilcelulosa), Sal, Vitamina D**. Contiene Almendra y Avena. Manufacturado en una planta que procesa productos a base de Leche, Avellana, Macadamia, Coco y Soja. x Mercado saludable",
     "por_que_recomendarlo": "LITRO CAJA X12 Vivir en Armonía por medio de Código una alimentación sana y balanceada Es un producto sin azúcar, 100% libre de sellos, perfecta para incluir en todos tus días, son libres de lactosa, libre de colesterol y grasa trans, buena fuente de calcio y vitamina D, no tienen colores ni sabores artiﬁciales. Tan solo 45 calorías por porción.",
     "precio_empresa_cliente": 14318,
-    "precio_sugerido_publico": 17900
+    "precio_sugerido_publico": 17900,
+    "imagen_miniatura": "images/productos/2020775-thumb.jpg"
   },
   {
     "codigo": "1051954",
@@ -1257,7 +1361,8 @@
     "ingredientes": "100% Cacao x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 1051954 balanceada Es un producto de 100% Cacao. Se puede preparar en bebidas frías o calientes, postres, tortas y galletas. Es libre de grasas trans, sin colores ni sabores artiﬁciales, 0% azúcar y 100% libres de sellos con ley 810",
     "precio_empresa_cliente": 15502,
-    "precio_sugerido_publico": 18200
+    "precio_sugerido_publico": 18200,
+    "imagen_miniatura": "images/productos/1051954-thumb.jpg"
   },
   {
     "codigo": "1063538",
@@ -1269,7 +1374,8 @@
     "ingredientes": "Cacao en polvo, emulsionante (lecitina de soya), espesante (carragenina), sabores naturales (clavos y canela) y sabor artiﬁcial (etilvainilla). x Mercado saludable",
     "por_que_recomendarlo": "Delicioso, sin azúcar Delicioso Chocolate sin azúcar, con el mínimo de calorías. Muy fácil de preparar, elige la base que deseas, 1 cucharadita, revuelve y listo! Un placer sin azúcar",
     "precio_empresa_cliente": 14681,
-    "precio_sugerido_publico": 18350
+    "precio_sugerido_publico": 18350,
+    "imagen_miniatura": "images/productos/1063538-thumb.jpg"
   },
   {
     "codigo": "1036046",
@@ -1281,7 +1387,8 @@
     "ingredientes": "SEGMENTOS Café x No le aplica la Resolución 810 por ser de un solo x Tiendas naturistas ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "- Cientíﬁcamente comprobado. - Ayuda a disminuir el riesgo de padecer 1036046 enfermedades del corazón. - Aporta 4 veces más antioxidantes que Café Sello Rojo Vive aporta 4 veces más antioxidantes que nuestro café tradicional. Es el primer café cientíﬁcamente comprobado que ayuda a disminuir el riesgo de padecer enfermedades del corazón, consumiendo mínimo 4 tazas de 100 ml diarias. Está diseñado para que personas sanas protejan su corazón y tengan un efecto preventivo más no curativo sobre enfermedades del corazón. Es un café diferente y único en el mercado colombiano. Gracias a su proceso es naturalmente rico en antioxidantes, un café cardioprotector, 100% natural que no contiene químicos ni aditivos. Conoce más información en cafesellorojo.com",
     "precio_empresa_cliente": 26044,
-    "precio_sugerido_publico": 30000
+    "precio_sugerido_publico": 30000,
+    "imagen_miniatura": "images/productos/1036046-thumb.jpg"
   },
   {
     "codigo": "1060184",
@@ -1293,7 +1400,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 1060184 PV: $10.320 La granola avena y pasas tiene un estilo artesanal, con ingredientes naturales, sin colorantes ni saborizantes artiﬁciales, con solo 100 calorías. Su ingrediente especial es la canela en polvo que le da un sabor único. Asimismo tiene Buena Fuente de Fibra y 0% Colesterol. x Mercado saludable",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 12900
+    "precio_sugerido_publico": 12900,
+    "imagen_miniatura": "images/productos/1060184-thumb.jpg"
   },
   {
     "codigo": "1060185",
@@ -1305,7 +1413,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio Código de una alimentación sana y 1060185 balanceada La granola semillas y chía tiene un estilo artesanal con ingredientes naturales, sin colorantes ni saborizantes artiﬁciales. Asimismo tiene Buena Fuente de Fibra y 0% Colesterol. x Mercado saludable",
     "precio_empresa_cliente": 10320,
-    "precio_sugerido_publico": 12900
+    "precio_sugerido_publico": 12900,
+    "imagen_miniatura": "images/productos/1060185-thumb.jpg"
   },
   {
     "codigo": "1064075",
@@ -1317,7 +1426,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 1064075 PV: $13.840 La Granola Crunchy Frutos Rojos TOSH es una excelente opción nutricional para el desayuno o como snack saludable, gracias a su alto contenido de ﬁbra y su perﬁl libre de sellos de advertencia. Su combinación de granos enteros y trozos reales de frutas deshidratadas aporta energía de liberación gradual y una textura crujiente ideal para acompañar con leche, yogur o bebidas vegetales. x Mercado saludable",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 17300
+    "precio_sugerido_publico": 17300,
+    "imagen_miniatura": "images/productos/1064075-thumb.jpg"
   },
   {
     "codigo": "2034603",
@@ -1329,7 +1439,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio Código de una alimentación sana y 2034603 balanceada La Granola Crunchy Piña Coco TOSH destaca por su innovadora combinación de sabores tropicales que transforma el desayuno y las meriendas en una experiencia fresca y crocante. Es una alternativa altamente recomendable por ser rica en ﬁbra natural, baja en sodio y elaborada con granos enteros, ideal para quienes buscan mantener un estilo de vida saludable sin sacriﬁcar sabor. x Mercado saludable",
     "precio_empresa_cliente": 10320,
-    "precio_sugerido_publico": 12900
+    "precio_sugerido_publico": 12900,
+    "imagen_miniatura": "images/productos/2034603-thumb.jpg"
   },
   {
     "codigo": "1041647",
@@ -1341,7 +1452,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "de una alimentación sana y balanceada 1041647 PV: $9.897 ¿POR ¿POR QUÉ RECOMENDARLO? Es una es la alternativa ideal para disfrutar un de avena desayuno o snack delicioso, crujiente y adicionada balanceado sin culpa. Combina todo el sellos con placer del cacao con la ligereza de los x Mercado saludable",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 11400
+    "precio_sugerido_publico": 11400,
+    "imagen_miniatura": "images/productos/1041647-thumb.jpg"
   },
   {
     "codigo": "2020371",
@@ -1353,7 +1465,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio Vivir en Armonía por medio de una alimentación sana y Código balanceada 2020371 QUÉ RECOMENDARLO? Mezcla lista con harina y arroz, Sin azúcar y 100% libres de ley 810",
     "precio_empresa_cliente": 17040,
-    "precio_sugerido_publico": 21300
+    "precio_sugerido_publico": 21300,
+    "imagen_miniatura": "images/productos/2020371-thumb.jpg"
   },
   {
     "codigo": "2020372",
@@ -1365,7 +1478,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "afrontar el día de manera saludable. x Mercado saludable",
     "precio_empresa_cliente": 23439,
-    "precio_sugerido_publico": 29300
+    "precio_sugerido_publico": 29300,
+    "imagen_miniatura": "images/productos/2020372-thumb.jpg"
   },
   {
     "codigo": "2020369",
@@ -1377,7 +1491,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "",
     "precio_empresa_cliente": 15120,
-    "precio_sugerido_publico": 19800
+    "precio_sugerido_publico": 19800,
+    "imagen_miniatura": "images/productos/2020369-thumb.jpg"
   },
   {
     "codigo": "2020370",
@@ -1389,7 +1504,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "real deshidratada. Es una una fuente natural de ﬁbra y proteínas recomendación clave para el consumo vegetales, bajo en grasa saturada y cotidiano por su bajo aporte en grasa, fortiﬁcado con micronutrientes ser fuente de ﬁbra y estar fortiﬁcado esenciales que favorecen la salud con vitaminas y minerales esenciales. digestiva y el bienestar general. x Mercado saludable",
     "precio_empresa_cliente": 21840,
-    "precio_sugerido_publico": 27300
+    "precio_sugerido_publico": 27300,
+    "imagen_miniatura": "images/productos/2020370-thumb.jpg"
   },
   {
     "codigo": "2020384",
@@ -1401,7 +1517,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio Vivir en Armonía por medio de una alimentación sana y Código de una alimentación sana y balanceada 2020384 balanceada ¿POR QUÉ RECOMENDARLO? ¿POR QUÉ RECOMENDARLO? El Cereal TOSH Almendra ofrece una El Cereal TOSH Fresa es una opción combinación crujiente y nutritiva de liviana y balanceada pensada para el hojuelas integrales con ﬁnas láminas bienestar diario, destacando por sus de almendra seleccionada, ideal para hojuelas crujientes de arroz y trigo arrancar el día con energía sostenida.",
     "precio_empresa_cliente": 15120,
-    "precio_sugerido_publico": 18900
+    "precio_sugerido_publico": 18900,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2020385",
@@ -1413,7 +1530,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "x Mercado saludable",
     "precio_empresa_cliente": 21840,
-    "precio_sugerido_publico": 27300
+    "precio_sugerido_publico": 27300,
+    "imagen_miniatura": "images/productos/2020385-thumb.jpg"
   },
   {
     "codigo": "2042648",
@@ -1425,7 +1543,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 2042648 PV: $8.222 El ajonjolí en grano Tosh es una semilla pequeña con mucho por ofrecer. Naturalmente excelente fuente de proteína y ﬁbra, es el ingrediente que le da el toque ﬁnal a cualquier preparación, dulce o salada. Úsalo para decorar, darle textura o simplemente elevar lo que ya estás haciendo. Versátil, natural y bueno para ti. x Mercado saludable",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 10300
+    "precio_sugerido_publico": 10300,
+    "imagen_miniatura": "images/productos/2042648-thumb.jpg"
   },
   {
     "codigo": "2042651",
@@ -1437,7 +1556,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio Código de una alimentación sana y 2042651 balanceada La quinua en hojuelas Tosh es la forma más fácil y rápida de sumarle nutrición a tu día. Naturalmente excelente fuente de proteína y ﬁbra, tiene todo lo bueno de la quinua pero lista para usar sin cocción. Agrégala a tu yogur, avena, batidos, granola o úsala para darle cuerpo a tus postres. Sin pasos extra, sin tiempo de cocina, solo abre y listo. x Mercado saludable",
     "precio_empresa_cliente": 11311,
-    "precio_sugerido_publico": 14150
+    "precio_sugerido_publico": 14150,
+    "imagen_miniatura": "images/productos/2042651-thumb.jpg"
   },
   {
     "codigo": "2042652",
@@ -1449,7 +1569,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 2042652 PV: $9.4200 La quinua en grano Tosh es uno de los ingredientes más completos que puedes tener en tu cocina. Naturalmente excelente fuente de proteína y ﬁbra, es de los pocos alimentos de origen vegetal que le da a tu cuerpo todo lo que necesita de una sola vez. Prepárala como base de tus platos, en ensaladas y bowls, o úsala en postres, tortillas y hasta hamburguesas vegetarianas. Y lo mejor: se cocina igual que el arroz. Versátil, deliciosa y fácil de incluir en tu día a día. x Mercado saludable",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 11765
+    "precio_sugerido_publico": 11765,
+    "imagen_miniatura": "images/productos/2042652-thumb.jpg"
   },
   {
     "codigo": "2042648-2",
@@ -1461,7 +1582,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio Código de una alimentación sana y 2042648 balanceada La linaza molida Tosh es cuidado en su forma más simple. Naturalmente excelente fuente de proteína y ﬁbra, la linaza es conocida por favorecer la digestión y aportar ácidos grasos esenciales que tu cuerpo agradece todos los días. Al estar molida, se integra fácil a cualquier preparación. Mézclala en batidos, panes, tortillas y hasta tortas o wafﬂes y listo. Simple, natural y buena para ti. x Mercado saludable",
     "precio_empresa_cliente": 8222,
-    "precio_sugerido_publico": 10300
+    "precio_sugerido_publico": 10300,
+    "imagen_miniatura": "images/productos/2042648-2-thumb.jpg"
   },
   {
     "codigo": "2042649",
@@ -1473,7 +1595,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 2042649 PV: $19.400 La chía en grano Tosh no es cualquier semilla, es considerada un superalimento por algo. Naturalmente excelente fuente de proteína y ﬁbra, te ayuda a mantenerte satisfecho por más tiempo y a cuidarte sin complicarte la vida. Lo mejor es que puedes consumirla como quieras: en agua, yogurt, avena, jugos, ensaladas o postres. Se adapta a todo y siempre suma. x Mercado saludable",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 24202
+    "precio_sugerido_publico": 24202,
+    "imagen_miniatura": "images/productos/2042649-thumb.jpg"
   },
   {
     "codigo": "1051111",
@@ -1485,7 +1608,8 @@
     "ingredientes": "100% maní tostado sin sal x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 1051111 PV: $15.120 Es un producto hecho con un sólo ingrediente , sin azúcar adicionada, tiene alta fuente de proteína y es en bajo en Sodio. Se usa comúnmente en snacks y desayunos y repostería.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 18900
+    "precio_sugerido_publico": 18900,
+    "imagen_miniatura": "images/productos/1051111-thumb.jpg"
   },
   {
     "codigo": "1059256",
@@ -1497,7 +1621,8 @@
     "ingredientes": "100% almendras tostadas sin sal x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio Código de una alimentación sana y 1059256 balanceada Es un producto hecho con un sólo ingrediente , sin azúcar adicionada, tiene alta fuente de proteína y es en bajo en Sodio. Se usa comúnmente en snacks y desayunos y repostería.",
     "precio_empresa_cliente": 27920,
-    "precio_sugerido_publico": 34900
+    "precio_sugerido_publico": 34900,
+    "imagen_miniatura": "images/productos/1059256-thumb.jpg"
   },
   {
     "codigo": "1058815",
@@ -1509,7 +1634,8 @@
     "ingredientes": "100% almendras tostadas sin sal x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 1058815 PV: $15.120 Es un producto hecho con un sólo ingrediente , sin azúcar adicionada, tiene alta fuente de proteína y es en bajo en Sodio. Se usa comúnmente en snacks y desayunos y repostería.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 18900
+    "precio_sugerido_publico": 18900,
+    "imagen_miniatura": "images/productos/1058815-thumb.jpg"
   },
   {
     "codigo": "2017467",
@@ -1521,7 +1647,8 @@
     "ingredientes": "Ajo, Agua, Aceite de Oliva Extra Virgen, Ácido Cítrico, Benzoato de Sodio (conservante). x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y comunidad musulmana) ● Es un producto que cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten. ● Es ideal para pasta, arroces, carnes y verduras. ● Es un producto que te brinda practicidad para evitar quedar con las manos olores a ajo y no estar picando constantemente. ● Es mezclado con aceite de oliva, el cual ya está listo para usar.",
     "precio_empresa_cliente": 13697,
-    "precio_sugerido_publico": 23000
+    "precio_sugerido_publico": 23000,
+    "imagen_miniatura": "images/productos/2017467-thumb.jpg"
   },
   {
     "codigo": "2017449",
@@ -1533,7 +1660,8 @@
     "ingredientes": "Jengibre SEGMENTOS SEGMENTOS No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $12.600 Omega 3, Halai (permitido comunidad musulmana) El jengibre cristalizado es estupendo para sus productos horneados, para acompañar ensaladas o para comerlo directamente de la bolsa. ¡A su total elección! El azúcar que se utiliza es caña orgánica. Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. Es usado para snacks, ensaladas, repostería y platos horneados. Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 8568,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2017449-thumb.jpg"
   },
   {
     "codigo": "2017340",
@@ -1545,7 +1673,8 @@
     "ingredientes": "Leche de coco (pulpa de coco maduro), agua, goma guar, monoestearato de sorbitán y metabisulﬁto de sodio. x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher PV: $ $ 15.470 (comunidad judía), Ácidos grasos y comunidad musulmana) La leche de coco Badia destaca por ser libre de lactosa, gluten y azúcares añadidos, convirtiéndose en una alternativa cremosa ideal para dietas veganas, keto y paleo. Aporta grasas saludables que beneﬁcian la nutrición diaria y funciona como el sustituto perfecto de los lácteos tradicionales en currys, batidos y repostería.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 22000
+    "precio_sugerido_publico": 22000,
+    "imagen_miniatura": "images/productos/2017340-thumb.jpg"
   },
   {
     "codigo": "2017214",
@@ -1557,7 +1686,8 @@
     "ingredientes": "Estigmas puros de azafrán (Crocus sativus). x No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher PV: $ $23.666 (comunidad judía), Ácidos grasos y Código PSP: $34.050 Omega 3, Halai (permitido comunidad musulmana) El azafrán español Badia destaca por su pureza e intenso poder aromático, siendo la especia gourmet por excelencia para aportar sabor, aroma y un característico color dorado natural a platillos como paellas, risottos, sopas y mariscos. Su formato en estigmas enteros garantiza su autenticidad y máxima potencia culinaria sin mezclas artiﬁciales.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2017214-thumb.jpg"
   },
   {
     "codigo": "2017237",
@@ -1569,7 +1699,8 @@
     "ingredientes": "Ajo en polvo. No le aplica la Resolución x Mercado saludable 810 por ser de un solo x ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "de Glutamato monosódico, Kosher Código Omega 3, Halai (permitido comunidad musulmana) El Ajo en Polvo puro de Badia transforma tu cocina con un sabor distintivo y una rica herencia de uso medicinal. Desde el primer toque, este condimento esencial realza pastas, arroces, aves, carnes, mariscos, guisos y verduras con su sabor profundo y auténtico.",
     "precio_empresa_cliente": 9200,
-    "precio_sugerido_publico": 13050
+    "precio_sugerido_publico": 13050,
+    "imagen_miniatura": "images/productos/2017237-thumb.jpg"
   },
   {
     "codigo": "2017251",
@@ -1581,7 +1712,8 @@
     "ingredientes": "Pimienta roja No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $18.250 Omega 3, Halai (permitido comunidad musulmana) La pimienta cayena es conocida como un chile moderadamente picante molido. Es un producto orgánico porque No se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. Es usada para platos mexicanos Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 11190,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2017251-thumb.jpg"
   },
   {
     "codigo": "2017451",
@@ -1593,7 +1725,8 @@
     "ingredientes": "Cúrcuma x No le aplica la Resolución 810 por ser de un solo x Tiendas naturistas ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre (comunidad judía), Ácidos grasos y Código Omega 3, Halai (permitido comunidad musulmana) La cúrcuma, especia de color brillante es de uso común en platos del sur de Asia y Medio Oriente. Da un toque exótico a platos de aves, vegetales y arroz. Es un ingrediente esencial para los curris y las mostazas. Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. La cúrcuma se utiliza para realizar la leche dorada, es de uso común , da un toque exótico a platos de aves , vegetales y arroz. Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 17936,
-    "precio_sugerido_publico": 29100
+    "precio_sugerido_publico": 29100,
+    "imagen_miniatura": "images/productos/2017451-thumb.jpg"
   },
   {
     "codigo": "2017450",
@@ -1605,7 +1738,8 @@
     "ingredientes": "Canela No le aplica la Resolución x Mercado saludable 810 por ser de un solo x Tiendas naturistas ingrediente y no Establecimientos deportivos contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $38.600 Omega 3, Halai (permitido comunidad musulmana) Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. Este producto es de origen directamente desde Srilanka , siendo así un ingrediente de origen y de mejor calidad. Al ser un producto natural logra un rendimiento doble vs los productos referentes del mercado. Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 18735,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2017450-thumb.jpg"
   },
   {
     "codigo": "2017247",
@@ -1617,7 +1751,8 @@
     "ingredientes": "Pimentón rojo molido (Capsicum annuum). No le aplica la Resolución x Mercado saludable 810 por ser de un solo x Tiendas naturistas ingrediente y no Establecimientos deportivos contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $38.600 Omega 3, Halai (permitido comunidad musulmana) El Pimentón Badia es un condimento indispensable que aporta un color rojo vibrante y un profundo sabor ahumado a guisos, carnes, adobos, arroces y vegetales asados. Su textura ﬁna y pureza lo convierten en el aliado perfecto para realzar el perﬁl gastronómico de cualquier preparación sin necesidad de colorantes ni saborizantes artiﬁciales.",
     "precio_empresa_cliente": 18735,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2017247-thumb.jpg"
   },
   {
     "codigo": "2017277",
@@ -1629,7 +1764,8 @@
     "ingredientes": "Hojuelas de chile rojo seco triturado (Capsicum annuum). No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $24.300 Omega 3, Halai (permitido comunidad musulmana) La Pimienta Roja en Escamas Badia ofrece el equilibrio perfecto entre picante intenso y textura crunch, siendo el ingrediente ideal para sazonar pizzas, pastas, tacos, sopas y adobos. Sus hojuelas de chile triturado liberan sabor de forma directa y uniforme, aportando un toque cálido y un color vistoso a cualquier plato sin alterar su base.",
     "precio_empresa_cliente": 17175,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2017277-thumb.jpg"
   },
   {
     "codigo": "2017249",
@@ -1641,7 +1777,8 @@
     "ingredientes": "Pimienta negra pura molida (Piper nigrum) x No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre (comunidad judía), Ácidos grasos y Código Omega 3, Halai (permitido comunidad musulmana) La Pimienta Negra Molida Badia es un básico imprescindible en la cocina que aporta un picor fresco, aromático y equilibrado para realzar el sabor natural de carnes, aves, sopas, salsas y ensaladas. Su molienda ﬁna asegura una distribución homogénea en cualquier preparación, garantizando la máxima intensidad organoléptica en cada bocado.",
     "precio_empresa_cliente": 19392,
-    "precio_sugerido_publico": 25000
+    "precio_sugerido_publico": 25000,
+    "imagen_miniatura": "images/productos/2017249-thumb.jpg"
   },
   {
     "codigo": "2017262",
@@ -1653,7 +1790,8 @@
     "ingredientes": "Granos enteros de pimienta negra (Piper nigrum). No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $37.300 Omega 3, Halai (permitido comunidad musulmana) La Pimienta Negra Molino Badia ofrece la máxima frescura y potencia aromática al moler el grano entero al instante sobre carnes, ensaladas, pastas y sopas. Su práctico pimentero ajustable permite elegir el grosor del corte, conservando los aceites esenciales del grano para liberar un sabor intenso, penetrante y recién cosechado.",
     "precio_empresa_cliente": 29148,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2017262-thumb.jpg"
   },
   {
     "codigo": "2017239",
@@ -1665,7 +1803,8 @@
     "ingredientes": "Raíz de jengibre puro molido (Zingiber ofﬁcinale). No le aplica la Resolución 810 por ser de un solo x Tiendas naturistas ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre (comunidad judía), Ácidos grasos y Código Omega 3, Halai (permitido comunidad musulmana) El Jengibre Molido Badia aporta un toque cítrico, picante y aromático característico que transforma al instante infusiones, currys, repostería, adobos y salteados. Su presentación en polvo ﬁno facilita una integración uniforme en preparaciones dulces y saladas, ofreciendo toda la intensidad y versatilidad de la raíz fresca sin complicaciones.",
     "precio_empresa_cliente": 10711,
-    "precio_sugerido_publico": 17400
+    "precio_sugerido_publico": 17400,
+    "imagen_miniatura": "images/productos/2017239-thumb.jpg"
   },
   {
     "codigo": "2012154",
@@ -1677,7 +1816,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "6 6 sellos (Gluten Free, Orgánico, Libre ¿POR QUÉ La Sal Rosada una opción común, ya natural, no directamente",
     "precio_empresa_cliente": 10500,
-    "precio_sugerido_publico": 13500
+    "precio_sugerido_publico": 13500,
+    "imagen_miniatura": "images/productos/2012154-thumb.jpg"
   },
   {
     "codigo": "2036554",
@@ -1689,7 +1829,8 @@
     "ingredientes": "Sal de roca (cloruro de Sal rosada del Himalaya y ajo negro traza). deshidratado. x No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales",
     "por_que_recomendarlo": "y equilibrado capacidad de realzar carnes a la elevando el parrilla, vegetales asados, pastas y y vegetales mariscos, aportando un toque presentación soﬁsticado y reduciendo la necesidad de saborizantes artiﬁciales.",
     "precio_empresa_cliente": 12600,
-    "precio_sugerido_publico": 15800
+    "precio_sugerido_publico": 15800,
+    "imagen_miniatura": "images/productos/2036554-thumb.jpg"
   },
   {
     "codigo": "2017474",
@@ -1701,7 +1842,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y (comunidad judía), Ácidos grasos y Omega 3, Halai (permitido Código Omega 3, Halai (permitido comunidad musulmana) comunidad musulmana) RECOMENDARLO? del Himalaya Badia es El sazonador de Ajo Negro y Sal ideal frente a la sal reﬁnada Rosada Badia es una opción gourmet que es un sazonador 100% excepcional que combina el sabor procesado y extraído umami, dulce y ahumado del ajo de depósitos salinos negro fermentado con la pureza Su riqueza en minerales y mineral de la sal rosada del Himalaya. aporta un sabor limpio a cualquier preparación, perﬁl de carnes, ensaladas mientras mantiene una limpia y atractiva. rosada pura del Himalaya sodio natural con minerales No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no contener aditivos Establecimientos deportivos adicionales",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 23800
+    "precio_sugerido_publico": 23800,
+    "imagen_miniatura": "images/productos/2017474-thumb.jpg"
   },
   {
     "codigo": "2017383",
@@ -1713,7 +1855,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y 2017383 Omega 3, Halai (permitido comunidad musulmana) La Sazón Completa Badia (Complete Seasoning) es una mezcla icónica que combina ajo, cebolla, comino y hierbas aromáticas, diseñada para simpliﬁcar la cocina diaria al sazonar todo tipo de",
     "precio_empresa_cliente": 38616,
-    "precio_sugerido_publico": 49900
+    "precio_sugerido_publico": 49900,
+    "imagen_miniatura": "images/placeholder.svg"
   },
   {
     "codigo": "2017232",
@@ -1725,7 +1868,8 @@
     "ingredientes": "Sal, verduras deshidratadas (ajo y Código cebolla), acentuador de sabor 2017232 (glutamato monosódico), especias (incluyendo comino), hierbas aromáticas (perejil) y dióxido de silicio (como antiaglomerante). No le aplica la Resolución x Mercado saludable 810 por ser de un solo x Tiendas naturistas ingrediente y no Establecimientos deportivos contener aditivos adicionales",
     "por_que_recomendarlo": "793.8 g es altamente recomendable por su gran rendimiento en el hogar y en cocinas comerciales, aportando un perﬁl de sabor caribeño y latino de forma rápida y equilibrada.",
     "precio_empresa_cliente": 9825,
-    "precio_sugerido_publico": 15450
+    "precio_sugerido_publico": 15450,
+    "imagen_miniatura": "images/productos/2017232-thumb.jpg"
   },
   {
     "codigo": "1051746",
@@ -1737,7 +1881,8 @@
     "ingredientes": "Harina Fortiﬁcada (Harina de Trigo (27.3%), Niacina, Hierro, Tiamina, Riboﬂavina, Ácido Fólico), Edulcorantes Artiﬁciales (Isomalt, Glucosidos de Esteviol), Grasa Vegetal (Canola, Girasol, Emulsiﬁcantes (Mono y Diglicéridos de Ácidos Grasos, Lecitina de Soja), Antioxidantes (Ascorbil Palmitato y Tocoferoles)), Almidón de Yuca, Cocoa (4.8%), Aceite Vegetal de Palma, Harina de Avena (2.7%), Salvado de Trigo (2.2%), Licor de Chocolate (1.6%), Harina de Arroz (1.4%), Agua, Emulsiﬁcante (Lecitina de Soja), Leudante (Bicarbonato de Sodio), Sal, Saborizante Natural, Antioxidante (Vitamina E), Leche en Polvo. Contiene trigo (gluten), soja, avena, leche y trazas de nueces de árbol. x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y Código PV: $9.188 balanceada 1051746 PSP: $10.800 Las Galletas wafer multicereal bolsa x6 unidades, perfectas para cuidarte con un delicioso sabor a cacao y a fresa acai. Con un beneﬁcio muy importante: Sin azúcar, endulzadas con Stevia. No tienen colores ni sabores artiﬁciales. Con fruta natural, con trigo, avena y arroz.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1051746-thumb.jpg"
   },
   {
     "codigo": "1041295",
@@ -1749,7 +1894,8 @@
     "ingredientes": "Harina Fortiﬁcada (Harina de Trigo (28.8%), Niacina, Hierro, Tiamina, Riboﬂavina, Ácido Fólico), Edulcorantes Artiﬁciales (Isomalt, Glucosidos de Esteviol), Grasa Vegetal (Canola, Girasol, Emulsiﬁcantes (Mono y Diglicéridos de Ácidos Grasos, Lecitina de Soja), Antioxidantes (Ascorbil Palmitato y Tocoferoles)), Almidón de Yuca, Aceite Vegetal de Palma, Harina de Avena (2.9%), Salvado de Trigo (2.3%), Leche en Polvo, Harina de Arroz (1.5%), Água, Saborizantes Naturales, Yogurt en Polvo sin Azúcar (0.5%), Mezcla de Fresa y Açaí en Polvo (0.3%), Emulsiﬁcante (Lecitina de Soja), Leudante (Bicarbonato de Sodio), Sal, Acidulantes (Ácido Láctico, Ácido Cítrico), Antioxidante (Vitamina E), Colorantes Naturales (Carmín, Curcumina). Contiene trigo (gluten), soja, avena, leche y trazas de nueces de árbol. x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada Las Galletas wafer multicereal bolsa x6 unidades, perfectas para cuidarte con un delicioso sabor a cacao y a fresa acai. Con un beneﬁcio muy importante: Sin azúcar, endulzadas con Stevia. No tienen colores ni sabores artiﬁciales. Con fruta natural, con trigo, avena y arroz.",
     "precio_empresa_cliente": 9188,
-    "precio_sugerido_publico": 10800
+    "precio_sugerido_publico": 10800,
+    "imagen_miniatura": "images/productos/1041295-thumb.jpg"
   },
   {
     "codigo": "1035439",
@@ -1761,7 +1907,8 @@
     "ingredientes": "Mezcla multicereal (trigo, avena, maíz, arroz), grasa vegetal, ﬁbra dietaria, endulzantes, coco rallado (o sabor natural a coco), sal y lecitina de soya. x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y Código PV: $9.188 balanceada 1035439 PSP: $10.800 son el antojo liviano e indulgente ideal para disfrutar a cualquier hora. Su textura crocante combina la ligereza de una wafer multicereal con un cremoso relleno con sabor a coco, ofreciendo un equilibrio perfecto entre crocancia, practicidad y un toque tropical delicioso para tus pausas del día.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1035439-thumb.jpg"
   },
   {
     "codigo": "1035440",
@@ -1773,7 +1920,8 @@
     "ingredientes": "Mezcla multicereal (trigo, avena, maíz, arroz), grasa vegetal, ﬁbra dietaria, endulzantes, sabor natural/idéntico al natural a kiwi, sal y lecitina de soya. x Mercado saludable",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada son un snack innovador y liviano que sorprende con un toque frutal único. Su textura supercrocante a base de granos enteros combina perfectamente con un suave relleno sabor a kiwi, brindándote una opción refrescante, práctica y equilibrada para saciar el antojo durante el día.",
     "precio_empresa_cliente": 9188,
-    "precio_sugerido_publico": 10800
+    "precio_sugerido_publico": 10800,
+    "imagen_miniatura": "images/productos/1035440-thumb.jpg"
   },
   {
     "codigo": "1080968",
@@ -1785,7 +1933,8 @@
     "ingredientes": "Agentes de cría de leche (bicarbonato de sodio, fosfato de calcio), sal, emulsionante (lecitina de soja, estearoil-2-lactilato de sodio), sabor natural de chocolate, edulcorante (glucósidos de esteviol), antioxidante (vitamina E). x Tiendas naturistas",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada La galleta tipo sandwich cremada de TOSH con sabor natural a chocolate nos encanta, y ahora contiene 50% menos azúcar. Sin colorantes ni saborizantes artiﬁciales y 0% colesterol. Son el acompañante perfecto para tu día, como postre después del almuerzo o en cualquier momento del día. Consiéntete y cuídate como te gusta con TOSH",
     "precio_empresa_cliente": 7346,
-    "precio_sugerido_publico": 9200
+    "precio_sugerido_publico": 9200,
+    "imagen_miniatura": "images/productos/1080968-thumb.jpg"
   },
   {
     "codigo": "1001563",
@@ -1797,7 +1946,8 @@
     "ingredientes": "Azúcar Almidón de yuca, Edulcorantes (Sorbitol. Polidextrosa, glucósidos de esteviol), azúcar invertido, agua, leche, agentes de aumento (bicarbonato de sodio, fosfato de calcio), emulsionante de sal lecitina de soja), sabor natural de vainilla. x Tiendas naturistas",
     "por_que_recomendarlo": "Vivir en Armonía por medio balanceada Código PSP: $9.200 Para esos días en los que tienes un antojo de dulce, pero no sabes qué comer, elige nuestras galletas sandwich de vainilla. Te van a encantar porque son la porción perfecta para cuidarte como te gusta, y más con una opción que contiene 50% menos azúcar.",
     "precio_empresa_cliente": 7346,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1001563-thumb.jpg"
   },
   {
     "codigo": "1004079",
@@ -1809,7 +1959,8 @@
     "ingredientes": "Masa de cacao, azúcar, cacao en polvo, manteca de cacao, emulsiﬁcante (lecitina de soya), sabor natural (vainilla). Contiene: soya. Puede contener trazas de maní, nueces de árbol y leche. x Mercado saludable x Establecimientos deportivos",
     "por_que_recomendarlo": "Chocolate de Origen Es chocolate premium 100% colombiano gracias a la mezcla armoniosa de cacao trinitario y criollo. Esta referencia tiene un porcentaje de 65% cacao que resalta todas las características de un buen chocolate oscuro.",
     "precio_empresa_cliente": 192311,
-    "precio_sugerido_publico": 231000
+    "precio_sugerido_publico": 231000,
+    "imagen_miniatura": "images/productos/1004079-thumb.jpg"
   },
   {
     "codigo": "1004078",
@@ -1821,7 +1972,8 @@
     "ingredientes": "Masa de cacao, azúcar, cacao en polvo, manteca de cacao, emulsiﬁcante (lecitina de soya), sabor natural (vainilla). Contiene: soya. Puede contener trazas de maní, nueces de árbol y leche. x Mercado saludable",
     "por_que_recomendarlo": "Chocolate de Origen Es chocolate premium 100% colombiano gracias a la mezcla armoniosa de cacao trinitario y criollo. Esta referencia tiene un porcentaje de 70% cacao que resalta todas las características de un buen chocolate oscuro.",
     "precio_empresa_cliente": 192311,
-    "precio_sugerido_publico": 231000
+    "precio_sugerido_publico": 231000,
+    "imagen_miniatura": "images/productos/1004078-thumb.jpg"
   },
   {
     "codigo": "1003837",
@@ -1833,7 +1985,8 @@
     "ingredientes": "Incrementadores de volumen (maltitol y polidextrosa), manteca de cacao, sólidos de leche, masa de cacao, avellanas molidas, emulsiﬁcante (lecitina de soya), sal, edulcorantes artiﬁciales no calóricos (acesulfame de potasio y aspartame) y sabor artiﬁcial (etilvainillina). x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "Código PSP: $25.850 1003837 ¿POR QUÉ RECOMENDARLO? Si eres de los que quieren cuidarse y endulzar tus días de una manera deliciosa, ahora podrás disfrutar del chocolate sin limitaciones. Esto es posible con Jet Lyne, una chocolatina con el rico sabor de Jet y un 25% menos calorías.",
     "precio_empresa_cliente": 20673,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1003837-thumb.jpg"
   },
   {
     "codigo": "1063339",
@@ -1845,7 +1998,8 @@
     "ingredientes": "Maltitol, manteca de cacao, sólidos de leche, masa de cacao, avellanas molidas, emulsiﬁcante (lecitina de soya), sal, edulcorantes artiﬁciales no calóricos y sabor artiﬁcial vainilla. x Mercado saludable x Tiendas naturistas",
     "por_que_recomendarlo": "No te quedes con las ganas y pruébame. Seguro te voy a encantar, porque soy esa barrita de chocolate con leche que puedes llevar y disfrutar fácilmente donde y cuando quieras gracias a mi tamaño.",
     "precio_empresa_cliente": 13750,
-    "precio_sugerido_publico": 16800
+    "precio_sugerido_publico": 16800,
+    "imagen_miniatura": "images/productos/1063339-thumb.jpg"
   },
   {
     "codigo": "1057140",
@@ -1857,7 +2011,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada Código PSP: $15.900 Es un producto que sirve para snacks , con Buena Fuente de Proteína y Fibra, 0% Colesterol y 100% libres de sellos con ley 810.",
     "precio_empresa_cliente": 12720,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1057140-thumb.jpg"
   },
   {
     "codigo": "1058119",
@@ -1869,7 +2024,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada Código PSP: $15.900 aportan grasas saludables y proteína vegetal gracias a la inclusión de frutos secos, favoreciendo la saciedad y la salud cardiovascular. Además, su riqueza en ﬁbra proveniente de cereales integrales apoya una digestión óptima y mantiene estables tus niveles de energía a lo largo del día, convirtiéndolas en el snack ideal para un estilo de vida activo y saludable.",
     "precio_empresa_cliente": 12720,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1058119-thumb.jpg"
   },
   {
     "codigo": "1046879",
@@ -1881,7 +2037,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Código PSP: $74.400 Mani La Especial. Mezcla de Nueces x 40 gr. Mezcla de nueces: Mani, almendra, marañones. El snack ideal para calmar el hambre en cualquier lugar con algo bueno para ti, presentación ideal para compartir.",
     "precio_empresa_cliente": 59518,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1046879-thumb.jpg"
   },
   {
     "codigo": "2006350",
@@ -1893,7 +2050,8 @@
     "ingredientes": "Harina de arroz, almidón de tapioca y Carboximetil celulosa (estabilizantes), cúrcuma y annatto (como colorantes naturales).",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables Son productos a base de arroz y libres de gluten, ideales para celíacos. Naturalmente libres de saturadas y aditivos. Avalados por el sello kosher (certiﬁcación de alimentación de la comunidad judía), contienen menos de 15 ppm (partes por millón) de gliadina y son libres de T.A.C.C. (sin trigo, avena, cebada y centeno), que los hacen aptos para veganos y vegetarianos. Además, ofrecen un excelente desempeño en la cocción.",
     "precio_empresa_cliente": 8411,
-    "precio_sugerido_publico": 9900
+    "precio_sugerido_publico": 9900,
+    "imagen_miniatura": "images/productos/2006350-thumb.jpg"
   },
   {
     "codigo": "2006351",
@@ -1905,7 +2063,8 @@
     "ingredientes": "Harina de arroz, almidón de tapioca y Carboximetil celulosa (estabilizantes), cúrcuma y annatto (como colorantes naturales).",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables Código PSP: $9.900 Son productos a base de arroz y libres de gluten, ideales para celíacos. Naturalmente libres de grasas trans, colesterol, grasas saturadas y aditivos. Avalados por el sello kosher (certiﬁcación de alimentación de la comunidad judía), contienen menos de 15 ppm (partes por millón) de gliadina y son libres de T.A.C.C. (sin trigo, avena, cebada y centeno), que los hacen aptos para veganos y vegetarianos. Además, ofrecen un excelente desempeño en la cocción.",
     "precio_empresa_cliente": 8411,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/2006351-thumb.jpg"
   },
   {
     "codigo": "2024697",
@@ -1917,7 +2076,8 @@
     "ingredientes": "Harina de arroz y harina de lenteja. *Producto en racionalización*",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias Código y saludables completa al combinar el cereal (arroz) con la leguminosa (lenteja), ideal para fortalecer la masa muscular y mantener una alimentación equilibrada. Además, son ricos en hierro y ﬁbra digestiva, lo que ayuda a combatir la fatiga, mejora el tránsito intestinal y genera una saciedad duradera, todo con la textura y el sabor suave de una pasta tradicional.",
     "precio_empresa_cliente": 11894,
-    "precio_sugerido_publico": 14868
+    "precio_sugerido_publico": 14868,
+    "imagen_miniatura": "images/productos/2024697-thumb.jpg"
   },
   {
     "codigo": "2024696",
@@ -1929,7 +2089,8 @@
     "ingredientes": "Harina de arroz, harina de maíz y harina de quinua. *Producto en racionalización*",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables permite disfrutar de una comida clásica y reconfortante con una excelente digestibilidad, siendo la opción perfecta para personas celíacas o sensibles al gluten. Gracias a su combinación de cereales y granos, aporta carbohidratos de absorción gradual que brindan energía constante, además de ﬁbra que favorece la salud intestinal y ayuda a mantener la saciedad por más tiempo.",
     "precio_empresa_cliente": 15200,
-    "precio_sugerido_publico": 18900
+    "precio_sugerido_publico": 18900,
+    "imagen_miniatura": "images/productos/2024696-thumb.jpg"
   },
   {
     "codigo": "2008860",
@@ -1941,7 +2102,8 @@
     "ingredientes": "Harina de arroz, harina de quinoa (10%), chía (2,6%), almidón de tapioca, goma CMC y almidón de arroz (como estabilizantes), cúrcuma y annatto (como colorantes naturales).",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias Código y saludables Pasta elaborada con arroz, diseñada producto se elabora con una cuidadosa selección de nuestros mejores granos ancestrales que aportan componentes esenciales para una buena nutrición y fácil digestión. Es naturalmente libre de grasas trans, azúcar y colesterol.",
     "precio_empresa_cliente": 10878,
-    "precio_sugerido_publico": 12800
+    "precio_sugerido_publico": 12800,
+    "imagen_miniatura": "images/productos/2008860-thumb.jpg"
   },
   {
     "codigo": "2024698",
@@ -1953,7 +2115,8 @@
     "ingredientes": "Harina de maíz, harina de arroz, harina de quinua, semillas de chía y fortiﬁcantes *Producto en racionalización*",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables son una excelente alternativa nutritiva y de fácil digestión, ideal para personas celíacas, con sensibilidad al gluten o que buscan cuidar su alimentación. La combinación de quinua y chía aporta proteína vegetal de alto valor biológico, omega-3 y una buena dosis de ﬁbra, ayudando a prolongar la sensación de saciedad, mejorar el tránsito intestinal y mantener niveles constantes de energía sin pesadez.",
     "precio_empresa_cliente": 10878,
-    "precio_sugerido_publico": 12800
+    "precio_sugerido_publico": 12800,
+    "imagen_miniatura": "images/productos/2024698-thumb.jpg"
   },
   {
     "codigo": "1001470",
@@ -1965,7 +2128,8 @@
     "ingredientes": "Mezcla de cereales (harina de arroz, harina de maíz, harina de avena y harina de cebada), ﬁbra prebiótica (polidextrosa), agua y mezcla de nutrientes (hierro, niacina, vitamina B1, vitamina B2, ácido fólico).",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables las pastas largas más completas, ya que contiene ﬁbra de cinco cereales: arroz, cebada, maíz, avena y trigo. Ideal para quienes buscan consumir alimentos ricos en ﬁbra para mejorar su digestión.",
     "precio_empresa_cliente": 5607,
-    "precio_sugerido_publico": 6600
+    "precio_sugerido_publico": 6600,
+    "imagen_miniatura": "images/productos/1001470-thumb.jpg"
   },
   {
     "codigo": "2026249",
@@ -1977,7 +2141,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables Las pastas Vermicelli y Tallarines Doria Sin Gluten se elaboran a base de arroz, son libres de gluten y constituyen buenas fuentes de proteína. Son ideales para usar en preparaciones Mercado saludable inspiradas en la cocina asiática como x salteados, ensaladas o ramen. Estos x productos son aptos para veganos y están libres de sellos de advertencia",
     "precio_empresa_cliente": 6000,
-    "precio_sugerido_publico": 7500
+    "precio_sugerido_publico": 7500,
+    "imagen_miniatura": "images/productos/2026249-thumb.jpg"
   },
   {
     "codigo": "2026248",
@@ -1989,7 +2154,8 @@
     "ingredientes": "Arroz y Agua",
     "por_que_recomendarlo": "Marca líder en Código soluciones alimenticias 2026248 y saludables",
     "precio_empresa_cliente": 8327,
-    "precio_sugerido_publico": 10900
+    "precio_sugerido_publico": 10900,
+    "imagen_miniatura": "images/productos/2026248-thumb.jpg"
   },
   {
     "codigo": "1080268",
@@ -2001,7 +2167,8 @@
     "ingredientes": "",
     "por_que_recomendarlo": "Ingredientes de calidad, sabor y desempeño superior ¿POR QUÉ RECOMENDARLAS? Código PSP: $9.100",
     "precio_empresa_cliente": 7497,
-    "precio_sugerido_publico": 9100
+    "precio_sugerido_publico": 9100,
+    "imagen_miniatura": "images/productos/1080268-thumb.jpg"
   },
   {
     "codigo": "1080269",
@@ -2013,6 +2180,7 @@
     "ingredientes": "Sémola y/o harina de trigo durum, fortiﬁcada con: Niacina (55 mg/kg), Hierro (44 mg/ kg), Vitamina B1 (6 mg/kg), Vitamina B2 (4 mg/kg); Ácido Fólico (1,54 mg/kg); otros cereales (Maíz, Arroz, Avena, Cebada (15%)), Fibra prebiótica (Polidextrosa 6,0%) Sémola Integral de Trigo. SEGMENTOS SEGMENTOS Mercado saludable x Mercado saludable Tiendas naturistas Tiendas naturistas Establecimientos deportivos Establecimientos deportivos",
     "por_que_recomendarlo": "gran aporte de ﬁbra, la cual contribuye a regular el tránsito intestinal, vitaminas y minerales los cuales contribuyen al funcionamiento del sistema inmune y la metabolización de los carbohidratos ayudando a obtener energía, Tiempo de cocción 10 - 12 minutos. Ideal para entradas, plato principal, ensaladas, ceviches, pasabocas, montaditos y bocados puede combinarse con cualquier salsa y proteína.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": null,
+    "imagen_miniatura": "images/productos/1080269-thumb.jpg"
   }
 ]
