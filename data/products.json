@@ -556,12 +556,12 @@
     "nombre": "Tabletas Benet Vitamina D3 15udsx60",
     "categoria": "Tabletas",
     "marca": "BÉNET",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/2019773-nutricional.jpeg",
-    "ingredientes": "Almidón de maíz parcialmente pregelatinizado - Dióxido de silicio coloidal, Estearato de Magnesio, Sucralosa, sabor frutos rojos, Propionato de Calcio. VÍA DE ADMINISTRACIÓN: Oral MODO DE USO: Tomar 1 tableta, una vez al día. Población a la que va dirigida: Adultos.",
-    "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco 2019773 PSP: $32.900 Tabletas masticables Vitamina D3 La vitamina D contribuye a la función normal del sistema inmune. La vitamina D ayuda al mantenimiento de los huesos en condiciones normales",
+    "imagen": "images/productos/2019773.jpg",
+    "imagen_tabla_nutricional": "images/productos/2019773-nutricional.jpg",
+    "ingredientes": "Vitamina D3 2000 UI Otros ingredientes de la Tableta: Almidón de maíz parcialmente pregelatinizado - Dióxido de silicio coloidal, Estearato de Magnesio, Sucralosa, Sabor frutos rojos, Propionato de Calcio.",
+    "por_que_recomendarlo": "Aportan un beneficio fundamental para el bienestar general, ya que la Vitamina D3 favorece la adecuada absorción y fijación del calcio y el fósforo en el organismo, lo cual resulta indispensable para mantener la densidad, fuerza y salud de los huesos y dientes. Adicionalmente, esta vitamina juega un rol clave en el fortalecimiento del sistema inmunológico al estimular las defensas naturales del cuerpo, al mismo tiempo que contribuye al correcto funcionamiento muscular y ayuda a mantener la vitalidad diaria.",
     "precio_empresa_cliente": 22988,
-    "precio_sugerido_publico": null
+    "precio_sugerido_publico": 32900
   },
   {
     "codigo": "1078796",
