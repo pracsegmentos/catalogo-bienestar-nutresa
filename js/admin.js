@@ -65,6 +65,23 @@ async function ghPutFile(path, base64Content, message, sha) {
   return res.json();
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function putFileWithRetry(path, base64Content, message, maxAttempts = 4) {
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const existing = await ghGetFile(path);
+    try {
+      return await ghPutFile(path, base64Content, message, existing ? existing.sha : null);
+    } catch (err) {
+      const isConflict = /does not match|sha/i.test(err.message);
+      if (!isConflict || attempt === maxAttempts) throw err;
+      await sleep(300 * attempt);
+    }
+  }
+}
+
 async function loadProducts() {
   const file = await ghGetFile(DATA_PATH);
   productsSha = file.sha;
@@ -74,7 +91,7 @@ async function loadProducts() {
 
 async function saveProducts(message) {
   const content = utf8ToBase64(JSON.stringify(products, null, 2));
-  const result = await ghPutFile(DATA_PATH, content, message, productsSha);
+  const result = await putFileWithRetry(DATA_PATH, content, message);
   productsSha = result.content.sha;
 }
 
@@ -168,14 +185,7 @@ async function uploadImageIfNeeded(fileInputId, codigo, suffix) {
   const buffer = await blob.arrayBuffer();
   const base64 = arrayBufferToBase64(buffer);
   const message = `Actualizar foto de ${codigo}`;
-  try {
-    const existing = await ghGetFile(path);
-    await ghPutFile(path, base64, message, existing ? existing.sha : null);
-  } catch (err) {
-    if (!/does not match/.test(err.message)) throw err;
-    const retry = await ghGetFile(path);
-    await ghPutFile(path, base64, message, retry ? retry.sha : null);
-  }
+  await putFileWithRetry(path, base64, message);
   return path;
 }
 
