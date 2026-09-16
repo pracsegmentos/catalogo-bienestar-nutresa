@@ -654,13 +654,13 @@
     "nombre": "Gomas BENET Magnesio 12uds x 144g",
     "categoria": "Gomas",
     "marca": "BÉNET",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/2037218-nutricional.jpeg",
+    "imagen": "images/productos/2037218.jpg",
+    "imagen_miniatura": "images/productos/2037218-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2037218-nutricional.jpg",
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, agente geliﬁcante (gelatina), citrato de magnesio, sabor natural (arándano azúl), acidulantes (ácido láctico, ácido cítrico), regulador de acidez (citrato de sodio), colorante natural (extracto de jagua y zanahoria negra), agente de recubrimiento (cera carnauba), selenito de sodio.",
-    "por_que_recomendarlo": "Productos Nutricionales con conocimiento Código PSP: $48.900 2037218 ¿POR QUÉ RECOMENDARLO? El citrato de magnesio es un mineral que interviene en numerosos procesos corporales. Contribuye a 300 enzimas diferentes que el cuerpo necesita para la formación de huesos, el control del azúcar en sangre, la regulación de la función nerviosa y más. Mejora la calidad del sueño debido a sus propiedades relajantes y su capacidad para regular el sistema nervioso. El magnesio juega un papel importante en la producción de melatonina, la hormona que regula el sueño. Relaja los músculos, reduce calambres o espasmos. Ayuda a reducir el estrés y la ansiedad.",
+    "por_que_recomendarlo": "El citrato de magnesio es un mineral que interviene en numerosos procesos corporales. Contribuye a 300 enzimas diferentes que el cuerpo necesita para la formación de huesos, el control del azúcar en sangre, la regulación de la función nerviosa y más. Mejora la calidad del sueño debido a sus propiedades relajantes y su capacidad para regular el sistema nervioso. El magnesio juega un papel importante en la producción de melatonina, la hormona que regula el sueño. Relaja los músculos, reduce calambres o espasmos. Ayuda a reducir el estrés y la ansiedad.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 48900
   },
   {
     "codigo": "2019271",
