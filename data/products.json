@@ -667,13 +667,13 @@
     "nombre": "GOMAS BENET COLÁGENO 12 UDSX150G R",
     "categoria": "Gomas",
     "marca": "BÉNET",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/2019271-nutricional.jpeg",
+    "imagen": "images/productos/2019271.jpg",
+    "imagen_miniatura": "images/productos/2019271-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2019271-nutricional.jpg",
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, fructooligosacáridos, agente geliﬁcante (gelatina), colágeno y vitaminas (colágeno hidrolizado, vitamina E (alfa tocoferol acetato) biotina, vitamina C (ácido ascórbico), vitamina A (palmitato), selenio (seleniometionina)), reguladores de acidez (ácido láctico, ácido cítrico), edulcorante (manitol), sabor natural (frambuesa y fresa), colorante natural (antocianina (E163)), adulcorante (glicósidos de esteviol).",
-    "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco Código PSP: $48.900 2019271 ¿POR QUÉ RECOMENDARLO? Gomas de gelatina sin azúcar totales con mezcla única de nutrientes 200 mg de colágeno + Biotina y Vitamina E. Tiene un sabor natural a Frambuesa y Fresa. Porción recomendada 4 gomas diarias, producto recomendado para adultos. El selenio contribuye al mantenimiento normal del cabello y uñas. La vitamina A ayuda al mantenimiento de la piel. La vitamina E es antioxidante y por lo tanto ayuda a la protección de las células del daño oxidativo.",
+    "por_que_recomendarlo": "Gomas de gelatina sin azúcar totales con mezcla única de nutrientes 200 mg de colágeno  + Biotina  y Vitamina E. Tiene un sabor natural a Frambuesa y Fresa. Porción recomendada 4 gomas diarias, producto recomendado para adultos. \nEl selenio contribuye al mantenimiento normal del cabello y uñas. La vitamina A ayuda al mantenimiento de la piel. La vitamina E es antioxidante y por lo tanto ayuda a la protección de las células del daño oxidativo.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 48900
   },
   {
     "codigo": "2019269",
