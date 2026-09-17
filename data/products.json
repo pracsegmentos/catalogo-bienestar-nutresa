@@ -706,13 +706,13 @@
     "nombre": "Gomas BENET Cognitivo Adu",
     "categoria": "Gomas",
     "marca": "BÉNET",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/2023030-nutricional.jpeg",
+    "imagen": "images/productos/2023030.jpg",
+    "imagen_miniatura": "images/productos/2023030-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2023030-nutricional.jpg",
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, fructooligosacáridos, agente geliﬁcante (gelatina), colágeno y vitaminas (colágeno hidrolizado, vitamina E (alfa tocoferol acetato) biotina, vitamina C (ácido ascórbico), vitamina A (palmitato), selenio (seleniometionina)), reguladores de acidez (ácido láctico, ácido cítrico), edulcorante (manitol), sabor natural (frambuesa y fresa), colorante natural (antocianina (E163)), adulcorante (glicósidos de esteviol).",
-    "por_que_recomendarlo": "12udsx40gomas Productos Nutricionales con conocimiento cientíﬁco Las Gomas Benet Cognitivo aportan Zinc y Omega 3, nutrientes esenciales para el desempeño mental. Su fórmula sin azúcares totales y con sabor a manzana y limón ofrece una opción práctica para el bienestar diario.",
+    "por_que_recomendarlo": "Las Gomas de Citrato de Magnesio + Selenio de Bénet están diseñadas para apoyar el funcionamiento muscular y del sistema nervioso, ayudando a reducir la fatiga, promover la relajación muscular y prevenir calambres o tensiones. Además, gracias al aporte del selenio, actúan como un potente antioxidante que fortalece el sistema inmunitario y protege las células del daño oxidativo, ofreciendo una alternativa práctica y con agradable sabor a mora para complementar la ingesta diaria de minerales de forma sencilla.",
     "precio_empresa_cliente": 34237,
-    "precio_sugerido_publico": 48900,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 48900
   },
   {
     "codigo": "2018640",
