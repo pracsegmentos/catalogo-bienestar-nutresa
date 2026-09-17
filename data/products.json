@@ -887,14 +887,14 @@
     "codigo": "2024663",
     "nombre": "Esencia Floral Enfoque 20udsx30ml",
     "categoria": "Esencia",
-    "marca": "",
-    "imagen": "images/productos/2024663.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2024663-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Nuestra esencia ﬂoral Enfoque es una mezcla de las ﬂores: white chestnut, Isopogón, Sundew, entre otras. Ideal para favorecer la claridad mental y la concentración. Por su composición, es ideal para enfocarse en las actividades que se realizan durante el día para vivirlas de una manera consciente y presente.",
+    "marca": "Haka",
+    "imagen": "images/productos/2024663.jpg",
+    "imagen_miniatura": "images/productos/2024663-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2024663-nutricional.jpg",
+    "ingredientes": "Mezcla de flores: Clematis, White Chestnut, Isopogón, Sundew, Bush Fucsia",
+    "por_que_recomendarlo": "Se recomienda la Esencia Floral Enfoque porque es una solución natural diseñada para favorecer la claridad mental y la concentración durante el día. Su fórmula combina flores como white chestnut, isopogón y sundew, las cuales ayudan a enfocar la atención y estar más presente en cada actividad. Resulta un complemento ideal para quienes buscan optimizar su rendimiento diario de manera consciente y equilibrada.",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900,
-    "imagen_miniatura": "images/productos/2024663-thumb.jpg"
+    "precio_sugerido_publico": 20900
   },
   {
     "codigo": "2020825",
