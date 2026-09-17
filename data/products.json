@@ -875,13 +875,13 @@
     "nombre": "Esencia Floral HAKA Calma 20plex30ml",
     "categoria": "Esencias",
     "marca": "Haka",
-    "imagen": "images/productos/2020824.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2020824-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Nuestra esencia ﬂoral Calma es una mezcla de las ﬂores: mímulo y manzanilla. Es ideal para encontrar serenidad en momentos de estrés. Ofrece una terapia enegetica ideal para mejorar el estado de ánimo en momentos difíciles.",
+    "imagen": "images/productos/2020824.jpg",
+    "imagen_miniatura": "images/productos/2020824-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020824-nutricional.jpg",
+    "ingredientes": "Mezcla de flores: Mímulus y Matricaria chamomilla",
+    "por_que_recomendarlo": "Se recomienda porque ofrece una alternativa natural y sin contraindicaciones para gestionar momentos de estrés y ansiedad. Su fórmula a base de mímulo y manzanilla promueve el equilibrio emocional, ayudando a neutralizar emociones negativas y a encontrar serenidad de forma suave. Además, funciona como un complemento práctico que contribuye a mejorar el estado de ánimo diario.",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900,
-    "imagen_miniatura": "images/productos/2020824-thumb.jpg"
+    "precio_sugerido_publico": 20900
   },
   {
     "codigo": "2024663",
