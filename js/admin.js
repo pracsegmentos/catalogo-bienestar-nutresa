@@ -172,7 +172,10 @@ async function compressImage(file, maxDim = 1600, quality = 0.85) {
   const canvas = document.createElement("canvas");
   canvas.width = width;
   canvas.height = height;
-  canvas.getContext("2d").drawImage(img, 0, 0, width, height);
+  const ctx = canvas.getContext("2d");
+  ctx.fillStyle = "#ffffff";
+  ctx.fillRect(0, 0, width, height);
+  ctx.drawImage(img, 0, 0, width, height);
   URL.revokeObjectURL(img.src);
   return new Promise((resolve) => canvas.toBlob(resolve, "image/jpeg", quality));
 }
