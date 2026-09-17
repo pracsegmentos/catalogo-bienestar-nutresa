@@ -768,16 +768,16 @@
   },
   {
     "codigo": "1080149",
-    "nombre": "Gomas Benet Kids VitC SinAz 12Udsx120g R",
+    "nombre": "Bénet Gomas Kids Magnesio Tarro x 144g",
     "categoria": "Gomas",
     "marca": "BÉNET",
-    "imagen": "images/productos/1080149.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1080149-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Productos Nutricionales con Código Código conocimiento cientíﬁco 1080149 1059573 ¿POR QUÉ RECOMENDARLO? INGREDIENTES Citarto de magnesio ● Salud Digestiva: Facilita el transito intestinal en niñoscon tendencia al estreñimiento. ● Relajación y Sueño: Estimula la produccion de serotonina, lo que ayuda a reducir la inquietud, el nerviosismo, mejorando la calidad del sueño nocturno. ● Desarrollo Fisico: Contribuye al crecimineto y fortalecimiento de los huesos y dientes, ademas de prevenir calambres y dolores musculares. ● Función Cognitiva: Apoya el sistema nervisoso, ayudando a mejorar la concentración y la memoria. ● Sistema Inmunitario: Refuerza las defensas del organismo.",
+    "imagen": "images/productos/1080149.jpg",
+    "imagen_miniatura": "images/productos/1080149-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1080149-nutricional.jpg",
+    "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, agente gelificante (gelatina), magnesio (citrato\nde magnesio), sabor natural (arándano azul), acidulantes (ácido láctico, ácido cítrico),\nregulador de acidez (citrato de sodio), colorante natural (extracto de jagua y zanahoria\nnegra), agente de recubrimiento (cera carnauba), selenito de sodio.",
+    "por_que_recomendarlo": "Las Gomas Citrato de Magnesio Kids Sabor Mora de Bénet están diseñadas para niños mayores de 4 años y sirven para favorecer la calma, promover un descanso reparador y respaldar el desarrollo saludable del sistema muscular y nervioso en su crecimiento diario. Además, su aporte de citrato de magnesio y selenio ayuda a reducir la fatiga y proteger las células frente al daño oxidativo, todo presentado en un práctico formato masticable con un delicioso sabor natural a mora que facilita su consumo diario.",
     "precio_empresa_cliente": 32328,
-    "precio_sugerido_publico": 44900,
-    "imagen_miniatura": "images/productos/1080149-thumb.jpg"
+    "precio_sugerido_publico": 44900
   },
   {
     "codigo": "2033332",
