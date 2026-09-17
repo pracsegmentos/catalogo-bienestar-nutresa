@@ -810,13 +810,13 @@
     "nombre": "Gomas Melena de Leon Haka 12 uds x 144g",
     "categoria": "Alimentos",
     "marca": "Haka",
-    "imagen": "images/productos/1083428.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1083428-nutricional.jpeg",
-    "ingredientes": "",
+    "imagen": "images/productos/1083428.jpg",
+    "imagen_miniatura": "images/productos/1083428-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1083428-nutricional.jpg",
+    "ingredientes": "Edulcorantes (maltitol, D-sorbitol), agua, agente gelificante (gelatina), minerales (citrato de magnesio y citrato de zinc), melena de león (Hericium eri\nnaceus), almidón modificado de maíz, sabor natural (frutos rojos), regulador de acidez (ácido cítrico), betaglucanos de Ganoderma lucidum, colorantes naturales (rojo carmín y morado (azul de jagua y extracto de zanahoria)) y agente de recubrimiento (cera carnauba).",
     "por_que_recomendarlo": "Gomitas con Melena de León y Betaglucanos de Ganoderma (Reishi). Sabor natural a frutos rojos Buena fuente de Magnesio que contribuye al funcionamiento normal del sistema nervioso Excelente fuente de Zinc que contribuye a la función cognitiva normal Betaglucanos de ganoderma lucidum (Reishi) ● Ayuda a equilibrar la respuesta hormonal al estrés. ● El Reishi ha sido tradicionalmente utilizado para calmar la mente y facilitar un estado de relajación",
     "precio_empresa_cliente": 33653,
-    "precio_sugerido_publico": 43749,
-    "imagen_miniatura": "images/productos/1083428-thumb.jpg"
+    "precio_sugerido_publico": 43749
   },
   {
     "codigo": "1089250",
