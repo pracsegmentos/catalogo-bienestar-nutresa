@@ -797,13 +797,13 @@
     "nombre": "Cocoa Melena de Leon Haka 9uds x 120gr",
     "categoria": "Alimentos",
     "marca": "Haka",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/1082933-nutricional.jpeg",
-    "ingredientes": "x Contiene cocoa, melena de león (7%), emulsionante (lecitina de soya), mineral (bisglicinato de zinc) y vitamina B5 (ácido pantoténico)",
-    "por_que_recomendarlo": "Mezcla de cacao 100% natural con Melena de León, vitaminas y minerales Buena fuente de vitamina B5 que contribuye al rendimiento mental Excelente fuente de Zinc que ayuda a la función cognitiva normal Melena de León ● Es un hongo (Hericium erinaceus) con ericeninas y hericenonas, asociadas a propiedades neuroprotectoras y antioxidantes. ● Favorece la regeneración neuronal. ● Estimula la producción de neurotransmisores GABA, que regulan el estado de ánimo, el estrés y la ansiedad. Con Vitamina B5 y Zinc: ● La Vitamina B5 contribuye al rendimiento mental normal. ● El Zinc contribuye a la función cognitiva.",
+    "imagen": "images/productos/1082933.jpg",
+    "imagen_miniatura": "images/productos/1082933-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1082933-nutricional.jpg",
+    "ingredientes": "Contiene cocoa, melena de león (7%), emulsionante (lecitina de soya), mineral (bisglicinato de zinc) y vitamina B5 (ácido pantoténico)",
+    "por_que_recomendarlo": "Mezcla de cacao 100% natural con Melena de León, vitaminas y minerales Buena fuente de vitamina B5 que contribuye al rendimiento mental Excelente fuente de Zinc que ayuda a la función cognitiva normal.\n Melena de León:\n ● Es un hongo (Hericium erinaceus) con ericeninas y hericenonas, asociadas a propiedades neuroprotectoras y antioxidantes. ● Favorece la regeneración neuronal. ● Estimula la producción de neurotransmisores GABA, que regulan el estado de ánimo, el estrés y la ansiedad. \nCon Vitamina B5 y Zinc: \n● La Vitamina B5 contribuye al rendimiento mental normal. ● El Zinc contribuye a la función cognitiva.",
     "precio_empresa_cliente": 30000,
-    "precio_sugerido_publico": 39000,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 39000
   },
   {
     "codigo": "1083428",
