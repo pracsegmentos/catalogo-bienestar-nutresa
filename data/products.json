@@ -758,13 +758,13 @@
     "nombre": "GOMAS BENET KIDS PROPOLEO SINAZ 12/120G",
     "categoria": "Gomas",
     "marca": "BÉNET",
-    "imagen": "images/productos/2015326.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2015326-nutricional.jpeg",
+    "imagen": "images/productos/2015326.jpg",
+    "imagen_miniatura": "images/productos/2015326-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2015326-nutricional.jpg",
     "ingredientes": "Edulcorantes (manitol, sorbitol), agua, fructooligoscacáridos, agente geliﬁcante (gelatina), acidulantes (ácido láctico, ácido cítrico), extracto de propóleo, sabor natural (limón y dulce), agente de recubrimiento (aceite mineral, cera de carnauba, cera de abejas), edulcorante no calórico (glicósidos de esteviol).",
-    "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco Código PSP: $44.900 Ideales para cuidar a los más pequeños, las nuevas Gomas Kids Bénet para niños, fortalecen la nutrición de tus hijos con vitaminas y minerales.",
+    "por_que_recomendarlo": "Las Gomas de Propóleo Niños de Bénet están formuladas para reforzar de forma natural el sistema inmunológico y proteger la salud respiratoria de los niños entre 4 y 14 años. Gracias al extracto de propóleo, este suplemento aporta antioxidantes, vitaminas, minerales y compuestos fenólicos que ayudan a fortalecer las defensas del organismo y combatir los radicales libres, ofreciendo una presentación práctica, deliciosa y fácil de consumir en la rutina diaria.",
     "precio_empresa_cliente": 31296,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2015326-thumb.jpg"
+    "precio_sugerido_publico": 44900
   },
   {
     "codigo": "1080149",
