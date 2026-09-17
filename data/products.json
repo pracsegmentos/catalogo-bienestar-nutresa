@@ -823,13 +823,13 @@
     "nombre": "Cap HAKA Castaño 24 uds x 60 tabs",
     "categoria": "Cápsulas",
     "marca": "Haka",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/1089250-nutricional.jpeg",
-    "ingredientes": "",
+    "imagen": "images/productos/1089250.jpg",
+    "imagen_miniatura": "images/productos/1089250-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1089250-nutricional.jpg",
+    "ingredientes": "Contiene 300mg de Castaño de Indias por cápsula.",
     "por_que_recomendarlo": "Coadyuvante en el tratamiento sintomático de venas varicosas, insuﬁciencia venosa crónica de las extremidades inferiores y hemorroides. El castaño es una de las madres de la sabiduría herbal, que se ha usado para tratar problemas venosos como várices, úlceras venosas y hemorroides. Tiene propiedades venotónicas, vasoconstrictoras y antiinﬂamatorias. Actúa directamente al sistema circulatorio y se han realizado estudios en los que se evidencia que tiene un efecto beneﬁcioso en el corazón y las arterias.",
     "precio_empresa_cliente": 24150,
-    "precio_sugerido_publico": 31500,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 31500
   },
   {
     "codigo": "1064569",
