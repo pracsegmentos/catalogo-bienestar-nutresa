@@ -745,13 +745,13 @@
     "nombre": "Gomas Benet Kids VitC SinAz 12Udsx120g R",
     "categoria": "Gomas",
     "marca": "BÉNET",
-    "imagen": "images/productos/2018639.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2018639-nutricional.jpeg",
+    "imagen": "images/productos/2018639.jpg",
+    "imagen_miniatura": "images/productos/2018639-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2018639-nutricional.jpg",
     "ingredientes": "Edulcorantes (maltitol, sorbitol), agua, polidextrosa, geliﬁcante (gelatina), vitaminas y minerales (vitamina C (ácido ascórbico), vitamina E (alfa tocoferol acetato), zinc (citrato de zinc)), reguladores de acidez (ácido láctico, ácido cítrico), edulcorante (manitol), sabor natural (naranja y sabor natural dulce), colorante artiﬁcial (amarillo ocaso FCF (E 110)), edulcorante (glicosidos de esteviol).",
-    "por_que_recomendarlo": "Productos Nutricionales con conocimiento cientíﬁco 2018639 PV: $ 31.296 Gomas de gelatina sin azúcar totales con mezcla única de nutrientes vitamina C + E y zinc, aporta al 100% de requerimiento diario de vitamina C (60 mg), contribuye al fortalecimiento del sistema inmune. Tiene un sabor natural a naranja. Porción recomendada 4 gomas diarias, producto recomendado para adultos. La vitamina C y el zinc contribuyen a la función normal del sistema inmune",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 44900,
-    "imagen_miniatura": "images/productos/2018639-thumb.jpg"
+    "por_que_recomendarlo": "Las Gomas de Vitamina C + Zinc sin azúcar para niños de Bénet están formuladas para proteger la salud de niños de 4 a 14 años, principalmente al fortalecer las defensas del sistema inmunológico gracias a la acción conjunta de la vitamina C y el zinc. Además, el zinc aporta a la función cognitiva, apoya la visión, contribuye al correcto metabolismo de nutrientes como proteínas, grasas y carbohidratos, y protege las células frente al daño oxidativo, todo mediante una alternativa sin azúcar con agradable sabor a naranja ideal para el día a día.",
+    "precio_empresa_cliente": 31296,
+    "precio_sugerido_publico": 44900
   },
   {
     "codigo": "2015326",
