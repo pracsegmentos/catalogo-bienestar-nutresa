@@ -836,13 +836,13 @@
     "nombre": "Cap HAKA Arandanos granel 24udsx60caps",
     "categoria": "Cápsulas",
     "marca": "Haka",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/1064569-nutricional.jpeg",
-    "ingredientes": "",
+    "imagen": "images/productos/1064569.jpg",
+    "imagen_miniatura": "images/productos/1064569-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1064569-nutricional.jpg",
+    "ingredientes": "Componente activo: Frutos.\nComposición: Pulpa de arándanos . Cada cápsula contiene 140 mg de arándanos que equivale a 35mg de antocianidinas.",
     "por_que_recomendarlo": "Los arándanos son reconocidos por ser antioxidantes. Además, aportan vitamina C, potasio y ﬁbra. Sus propiedades multivitamínicas ayudan a fortalecer el sistema inmunológico y ayudan a combatir infecciones. Es un medicamento ﬁtoterapéutico, no exceder su consumo",
     "precio_empresa_cliente": 26530,
-    "precio_sugerido_publico": 34500,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 34500
   },
   {
     "codigo": "1089228",
