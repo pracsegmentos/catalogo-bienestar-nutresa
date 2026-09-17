@@ -862,13 +862,13 @@
     "nombre": "Extracto HAKA Passiﬂora 24 uds x 60 ml",
     "categoria": "Extractos",
     "marca": "Haka",
-    "imagen": "images/productos/1065837.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1065837-nutricional.jpeg",
-    "ingredientes": "",
+    "imagen": "images/productos/1065837.jpg",
+    "imagen_miniatura": "images/productos/1065837-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1065837-nutricional.jpg",
+    "ingredientes": "Componente activo: Hojas.\nComposición: Polvo de hojas secas de Passiflora. Contiene 200mg de extracto de pasiflora por 1 ml",
     "por_que_recomendarlo": "Sedante, coadyuvante en el tratamiento de la ansiedad y trastornos del sueño de origen nervioso. Cientíﬁcamente, se ha comprobado que esta planta milenaria tiene propiedades sedantes, tranquilizantes e inductoras del sueño. Ha sido utilizada, desde hace muchos años como medicina en la tradición herbal de América Central, del Norte y en México para tratar el insomnio, la epilepsia y la histeria.",
     "precio_empresa_cliente": 17430,
-    "precio_sugerido_publico": 22700,
-    "imagen_miniatura": "images/productos/1065837-thumb.jpg"
+    "precio_sugerido_publico": 22700
   },
   {
     "codigo": "2020824",
