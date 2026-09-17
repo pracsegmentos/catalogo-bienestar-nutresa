@@ -849,13 +849,13 @@
     "nombre": "Tab HAKA Alcachofa 24 uds x 60 caps",
     "categoria": "Tabletas",
     "marca": "Haka",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/1089228-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Colerético colagogo. Alivio sintomático de la dispepsia y disfunciones hepatobiliares menores. La alcachofa Es diurética. Ayuda a mejorar los niveles de azúcar en la sangre, facilita la digestión y protege el hígado. Contiene cinarina, que ayuda a combatir el colesterol malo y eleva el colesterol bueno. Es un medicamento ﬁtoterapéutico, no exceder su consumo.",
+    "imagen": "images/productos/1089228.jpg",
+    "imagen_miniatura": "images/productos/1089228-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1089228-nutricional.jpg",
+    "ingredientes": "Componente activo: Hojas.\nComposición: Polvo de hojas secas de Alcachofa . Contiene 500mg de Alcachofa por tableta.",
+    "por_que_recomendarlo": "Las Tabletas de Alcachofa de Haka son un producto fitoterapéutico diseñado principalmente para favorecer la salud digestiva y el funcionamiento hepático. Tienen una acción colerética y colagoga, lo que significa que estimulan la producción y expulsión de bilis para facilitar la digestión y el metabolismo de las grasas, ayudando a aliviar la dispepsia, la pesadez estomacal, la hinchazón y las disfunciones hepatobiliares menores. Además, contribuyen a la protección del hígado, ayudan a disminuir los niveles de colesterol en la sangre y apoyan los procesos depurativos naturales del organismo.",
     "precio_empresa_cliente": 21140,
-    "precio_sugerido_publico": 27500,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 27500
   },
   {
     "codigo": "1065837",
