@@ -784,13 +784,13 @@
     "nombre": "Vinagre de Manzana HAKA x24und x500ml",
     "categoria": "Alimentos",
     "marca": "Haka",
-    "imagen": "images/productos/2033332.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2033332-nutricional.jpeg",
-    "ingredientes": "SEGMENTOS Manzanas seleccionadas, agua.",
-    "por_que_recomendarlo": "● 100% Natural ● Sin ﬁltrar ● Sin pasteurizar ● Sin saborizantes ● Con la MADRE Se puede ver a La Madre como una sustancia turbia que ﬂota en las botellas de vinagre, la Madre es rica en proteínas naturales y pectinas y contiene bacterias y levaduras saludables, esta se forma naturalmente a medida que el vinagre orgánico crudo se fermenta, produciendo un vinagre turbio y parduzco.",
+    "imagen": "images/productos/2033332.jpg",
+    "imagen_miniatura": "images/productos/2033332-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2033332-nutricional.jpg",
+    "ingredientes": "Manzanas seleccionadas, agua.",
+    "por_que_recomendarlo": "● 100% Natural ● Sin ﬁltrar ● Sin pasteurizar ● Sin saborizantes ● Con la MADRE \nSe puede ver a La Madre como una sustancia turbia que ﬂota en las botellas de vinagre, la Madre es rica en proteínas naturales y pectinas y contiene bacterias y levaduras saludables, esta se forma naturalmente a medida que el vinagre orgánico crudo se fermenta, produciendo un vinagre turbio y parduzco.",
     "precio_empresa_cliente": 17430,
-    "precio_sugerido_publico": 24900,
-    "imagen_miniatura": "images/productos/2033332-thumb.jpg"
+    "precio_sugerido_publico": 24900
   },
   {
     "codigo": "1082933",
