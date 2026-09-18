@@ -1041,16 +1041,16 @@
   },
   {
     "codigo": "2037219",
-    "nombre": "Aceite de Oliva MONTICELLO x 1000ml/ x2000 ml",
+    "nombre": "Aceite de Oliva MONTICELLO x2000 ml",
     "categoria": "Aceites",
     "marca": "Monticello",
-    "imagen": "images/productos/2037219.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Ingredientes de calidad, sabor y desempeño superior",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2037219-thumb.jpg"
+    "imagen": "images/productos/2037219.jpg",
+    "imagen_miniatura": "images/productos/2037219-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2037219-nutricional.jpg",
+    "ingredientes": "100% Aceite de oliva extra virgen",
+    "por_que_recomendarlo": "Es un producto de origen natural, se destaca por la calidad de la oliva y su fruto, elaborado a partir de la extracción en frío lo que le permite conservar su sabor y aroma ideales, de origen español, contiene una acidez máxima del 0,5% punto recomendado donde conserva todos sus beneficios organolépticos y funcionales, no es desodorizado. Es apto para veganos, vegetarianos y celíacos, libre de grasas trans, y aditivos. Reconocido al sabor superior  en el ITQI de Bruselas. Punto de humo  200°C.",
+    "precio_empresa_cliente": 127401,
+    "precio_sugerido_publico": 169000
   },
   {
     "codigo": "2019815",
