@@ -940,13 +940,13 @@
     "nombre": "Aceite HAKA Eucalipto 48 uds x 10 ml",
     "categoria": "Aceites Esenciales",
     "marca": "Haka",
-    "imagen": "images/productos/1065842.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1065842-nutricional.jpeg",
+    "imagen": "images/productos/1065842.jpg",
+    "imagen_miniatura": "images/productos/1065842-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1065842-nutricional.jpg",
     "ingredientes": "",
-    "por_que_recomendarlo": "Conocido ancestralmente por su característico aroma fresco y vivaz. Brinda un efecto refrescante y sensación de aire puro. Su aroma también te ayuda a enfocarte en las diferentes actividades del día a día. El eucalipto es una planta milenaria de origen australiano que ha sido usada tradicionalmente en casos de afecciones respiratorias. También, se ha convertido en el aliado perfecto para crear ambientes frescos y relajantes. PROPIEDADES ● Efecto refrescante. SEGMENTOS ● Sensación de aire puro.",
+    "por_que_recomendarlo": "Conocido ancestralmente por su característico aroma fresco y vivaz. Brinda un efecto refrescante y sensación de aire puro. Su aroma también te ayuda a enfocarte en las diferentes actividades del día a día. El eucalipto es una planta milenaria de origen australiano que ha sido usada tradicionalmente en casos de afecciones respiratorias. También, se ha convertido en el aliado perfecto para crear ambientes frescos y relajantes. \nPROPIEDADES \n● Efecto refrescante. \n● Sensación de aire puro.",
     "precio_empresa_cliente": 25830,
-    "precio_sugerido_publico": 33600,
-    "imagen_miniatura": "images/productos/1065842-thumb.jpg"
+    "precio_sugerido_publico": 33600
   },
   {
     "codigo": "2020873",
