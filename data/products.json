@@ -1096,13 +1096,13 @@
     "nombre": "Vinagre Balsamico Monticello x 250ml",
     "categoria": "Vinagre",
     "marca": "Monticello",
-    "imagen": "images/productos/2012326.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2012326-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "",
+    "imagen": "images/productos/2012326.jpg",
+    "imagen_miniatura": "images/productos/2012326-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2012326-nutricional.jpg",
+    "ingredientes": "Mosto de uva cocido 51% (contiene sulfitos), vinagre de vino 49% (contiene sulfitos).",
+    "por_que_recomendarlo": "Elaborado a partir del mosto de la uva, es un producto de origen natural, se destaca por su calidad  y su sabor excepcional, no contiene  azúcar añadida, libre de grasas trans, aditivos y conservantes. Es apto para veganos, vegetarianos y celíacos. Reconocido con el máximo galardón de 3 estrellas por su sabor superior en el ITQI de Bruselas. Ideal para darle un toque único a cualquier preparación, brinda un aroma agridulce que acompaña muy bien carnes, verduras, ensaladas, quesos y hasta postres.",
     "precio_empresa_cliente": 14908,
-    "precio_sugerido_publico": 18600,
-    "imagen_miniatura": "images/productos/2012326-thumb.jpg"
+    "precio_sugerido_publico": 18600
   },
   {
     "codigo": "2018288-2",
