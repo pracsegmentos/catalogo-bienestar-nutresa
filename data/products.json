@@ -1005,13 +1005,13 @@
     "nombre": "Aceite de Oliva MONTICELLO x 250ml",
     "categoria": "Aceites",
     "marca": "Monticello",
-    "imagen": "images/productos/2008862.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2008862-nutricional.jpeg",
+    "imagen": "images/productos/2008862.jpg",
+    "imagen_miniatura": "images/productos/2008862-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2008862-nutricional.jpg",
     "ingredientes": "100% Aceite de Oliva extra virgen.",
-    "por_que_recomendarlo": "¿POR QUÉ RECOMENDARLOS? Es un producto de origen natural, se destaca por la calidad de la oliva y su fruto, elaborado a partir de la extracción en frío lo que le permite conservar su sabor y aroma ideales, de origen máxima del 0,5% punto recomendado donde conserva todos sus beneﬁcios organolépticos y funcionales, no es desodorizado. Es apto para veganos, vegetarianos y celíacos, libre de grasas trans, y aditivos. Reconocido con el galardón de dos estrellas al sabor superior en el ITQI de Bruselas. Punto de humo 200°C.",
+    "por_que_recomendarlo": "Es un producto de origen natural, se destaca por la calidad de la oliva y su fruto, elaborado a partir de la extracción en frío lo que le permite conservar su sabor y aroma ideales, de origen máxima del 0,5% punto recomendado donde conserva todos sus beneﬁcios organolépticos y funcionales, no es desodorizado. Es apto para veganos, vegetarianos y celíacos, libre de grasas trans, y aditivos. Reconocido con el galardón de dos estrellas al sabor superior en el ITQI de Bruselas. Punto de humo 200°C.",
     "precio_empresa_cliente": 23526,
-    "precio_sugerido_publico": 30600,
-    "imagen_miniatura": "images/productos/2008862-thumb.jpg"
+    "precio_sugerido_publico": 30600
   },
   {
     "codigo": "2030793",
