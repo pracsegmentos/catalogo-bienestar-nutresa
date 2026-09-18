@@ -1028,16 +1028,16 @@
   },
   {
     "codigo": "2018288",
-    "nombre": "Es un producto de origen natural, se destaca por la calidad de la oliva y",
-    "categoria": "¿POR QUÉ RECOMENDARLOS?",
-    "marca": "",
-    "imagen": "images/productos/2018288.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2018288-nutricional.jpeg",
+    "nombre": "Aceite de Oliva MONTICELLO x1000 ml",
+    "categoria": "Aceites",
+    "marca": "Monticello",
+    "imagen": "images/productos/2018288.jpg",
+    "imagen_miniatura": "images/productos/2018288-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2018288-nutricional.jpg",
     "ingredientes": "100% Aceite de Oliva extra virgen.",
-    "por_que_recomendarlo": "acidez máxima del 0,5% punto recomendado donde conserva todos sus beneﬁcios organolépticos y funcionales, no es desodorizado. Es humo 200°C.",
+    "por_que_recomendarlo": "Es un producto de origen natural, se destaca por la calidad de la oliva y su fruto, elaborado a partir de la extracción en frío lo que le permite conservar su sabor y aroma ideales, de origen español, contiene una acidez máxima del 0,5% punto recomendado donde conserva todos sus beneficios organolépticos y funcionales, no es desodorizado. Es apto para veganos, vegetarianos y celíacos, libre de grasas trans, y aditivos. Reconocido al sabor superior  en el ITQI de Bruselas. Punto de humo  200°C.",
     "precio_empresa_cliente": 81058,
-    "precio_sugerido_publico": 105375,
-    "imagen_miniatura": "images/productos/2018288-thumb.jpg"
+    "precio_sugerido_publico": 105357
   },
   {
     "codigo": "2037219",
