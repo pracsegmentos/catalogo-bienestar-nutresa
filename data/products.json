@@ -1083,13 +1083,13 @@
     "nombre": "Aceite de Aguacate Vi MONTICELLO x 250ml",
     "categoria": "Aceites",
     "marca": "Monticello",
-    "imagen": "images/productos/2019814.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2019814-nutricional.jpeg",
+    "imagen": "images/productos/2019814.jpg",
+    "imagen_miniatura": "images/productos/2019814-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2019814-nutricional.jpg",
     "ingredientes": "Aceite de aguacate extra virgen, antioxidante natural (Tocoferol)",
-    "por_que_recomendarlo": "Ingredientes de calidad, sabor y desempeño superior 2019814 ¿POR QUÉ RECOMENDARLO? Es un producto 100% natural, elaborado a partir de la cuidadosa selección de aguacate 100% hass y mediante el proceso de extracción en frío que permite conservar sus beneﬁcios, sabor y aroma ideales. No contiene conservantes ni aditivos, libre de grasas trans, excelente fuente de Omega 3. Se destaca por su gran aporte de ácido oleico que ayuda a prevenir enfermedades cardiovasculares. Es apto para veganos, vegetarianos y celíacos. Punto de humo entre 175°C y 190°C.",
+    "por_que_recomendarlo": "Es un producto 100% natural, elaborado a partir de la cuidadosa selección de aguacate 100% hass y mediante el proceso de extracción en frío que permite conservar  sus beneficios, sabor y aroma ideales. No contiene conservantes ni aditivos, libre de grasas trans, excelente fuente de Omega 3. Se destaca por su gran aporte de ácido oleico que ayuda a prevenir enfermedades cardiovasculares. Es apto para veganos, vegetarianos y celíacos. Punto de humo entre 175°C y 190°C.",
     "precio_empresa_cliente": 31481,
-    "precio_sugerido_publico": 42500,
-    "imagen_miniatura": "images/productos/2019814-thumb.jpg"
+    "precio_sugerido_publico": 42500
   },
   {
     "codigo": "2012326",
