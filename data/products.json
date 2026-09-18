@@ -1015,16 +1015,16 @@
   },
   {
     "codigo": "2030793",
-    "nombre": "Ingredientes de calidad, sabor y",
-    "categoria": "Aceite de Oliva MONTICELLO X 100ml",
-    "marca": "",
-    "imagen": "images/productos/2030793.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2030793-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "desempeño superior",
+    "nombre": "Aceite de Oliva MONTICELLO X 100ml",
+    "categoria": "Aceites",
+    "marca": "MONTICELLO",
+    "imagen": "images/productos/2030793.jpg",
+    "imagen_miniatura": "images/productos/2030793-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2030793-nutricional.jpg",
+    "ingredientes": "100% aceite de oliva extra",
+    "por_que_recomendarlo": "Es un producto de origen natural, se destaca por la calidad de la oliva y su fruto, elaborado a partir de la extracción en frío lo que le permite conservar su sabor y aroma ideales, de origen español, contiene una acidez máxima del 0,5% punto recomendado donde conserva todos sus beneficios organolépticos y funcionales, no es desodorizado. Es apto para veganos, vegetarianos y celíacos, libre de grasas trans, y aditivos. Reconocido con el galardón de dos estrellas al sabor superior  en el ITQI de Bruselas. Punto de humo  200°C.",
     "precio_empresa_cliente": 11567,
-    "precio_sugerido_publico": 15100,
-    "imagen_miniatura": "images/productos/2030793-thumb.jpg"
+    "precio_sugerido_publico": 15100
   },
   {
     "codigo": "2018288",
