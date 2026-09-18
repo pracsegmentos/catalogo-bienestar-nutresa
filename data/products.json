@@ -953,13 +953,13 @@
     "nombre": "Agua Linos Lavanda HAKA 48udsx200ml",
     "categoria": "Aceites Esenciales",
     "marca": "Haka",
-    "imagen": "images/productos/2020873.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2020873-nutricional.jpeg",
+    "imagen": "images/productos/2020873.jpg",
+    "imagen_miniatura": "images/productos/2020873-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020873-nutricional.jpg",
     "ingredientes": "",
-    "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de lavanda, limón y bergamota para evocar momentos de descanso, plenitud y serenidad. Esta combinación perfecta de aceites le brinda a tu cuerpo una sensación de bienestar y relajación profunda. PROPIEDADES ● Te proporciona un efecto relajante. ● Ayuda a descansar profundamente. ● Revitaliza tus ambientes. ● Equilibra la energía.",
+    "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de lavanda, limón y bergamota para evocar momentos de descanso, plenitud y serenidad. Esta combinación perfecta de aceites le brinda a tu cuerpo una sensación de bienestar y relajación profunda. \nPROPIEDADES \n● Te proporciona un efecto relajante. \n● Ayuda a descansar profundamente. \n● Revitaliza tus ambientes. \n● Equilibra la energía.",
     "precio_empresa_cliente": 23030,
-    "precio_sugerido_publico": 29950,
-    "imagen_miniatura": "images/productos/2020873-thumb.jpg"
+    "precio_sugerido_publico": 29950
   },
   {
     "codigo": "2020875",
