@@ -992,13 +992,13 @@
     "nombre": "Crema Piernas HAKA Centella 8udsx200ml",
     "categoria": "Cremas Corporales",
     "marca": "Haka",
-    "imagen": "images/placeholder.svg",
-    "imagen_tabla_nutricional": "images/productos/2025071-nutricional.jpeg",
+    "imagen": "images/productos/2025071.jpg",
+    "imagen_miniatura": "images/productos/2025071-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2025071-nutricional.jpg",
     "ingredientes": "",
-    "por_que_recomendarlo": "La centella asiática es una planta reconocida por sus propiedades calmantes e hidratantes. Ayuda a mejorar la apariencia de la piel. Por otro lado, el castaño de indias Es reconocida por sus propiedades antioxidantes y antiinﬂamatorias. Ayuda a proteger la piel. PROPIEDADES ● Ayuda a reducir la inﬂamación. ● Mejora la apariencia de la piel. ● Proporciona alivio a las piernas cansadas.",
+    "por_que_recomendarlo": "La centella asiática es una planta reconocida por sus propiedades calmantes e hidratantes. Ayuda a mejorar la apariencia de la piel. Por otro lado, el castaño de indias Es reconocida por sus propiedades antioxidantes y antiinﬂamatorias. Ayuda a proteger la piel. \nPROPIEDADES \n● Ayuda a reducir la inﬂamación. \n● Mejora la apariencia de la piel. \n● Proporciona alivio a las piernas cansadas.",
     "precio_empresa_cliente": 20230,
-    "precio_sugerido_publico": 26300,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 26300
   },
   {
     "codigo": "2008862",
