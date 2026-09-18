@@ -1105,19 +1105,6 @@
     "precio_sugerido_publico": 18600
   },
   {
-    "codigo": "2018288-2",
-    "nombre": "desempeño superior",
-    "categoria": "Ingredientes de calidad, sabor y",
-    "marca": "",
-    "imagen": "images/productos/2018288-2.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Mosto de uva cocido 51% (contiene sulﬁtos), vinagre de vino 49% (contiene sulﬁtos).",
-    "por_que_recomendarlo": "Elaborado a partir del mosto de la uva, es un producto de origen natural, se destaca por su calidad y su sabor excepcional, no contiene azúcar añadida, libre de grasas trans, aditivos y conservantes. Es apto para veganos, vegetarianos y celíacos. Reconocido con el máximo galardón de 3 estrellas por su sabor superior en el ITQI de Bruselas. Ideal para darle un toque único a cualquier preparación, brinda un aroma agridulce que acompaña muy bien carnes, verduras, ensaladas, quesos y hasta postres.",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2018288-2-thumb.jpg"
-  },
-  {
     "codigo": "2038964",
     "nombre": "Arom. TOSH Ligero 24g 20sob 20un",
     "categoria": "Aromáticas e Infusiones",
