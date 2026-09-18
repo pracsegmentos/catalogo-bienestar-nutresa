@@ -966,13 +966,13 @@
     "nombre": "Agua Linos Bergamota HAKA 48udsx200ml",
     "categoria": "Aceites Esenciales",
     "marca": "Haka",
-    "imagen": "images/productos/2020875.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2020875-nutricional.jpeg",
+    "imagen": "images/productos/2020875.jpg",
+    "imagen_miniatura": "images/productos/2020875-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020875-nutricional.jpg",
     "ingredientes": "",
-    "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de bergamota, hojas de té verde y lavanda. Las notas cítricas y frescas de esta bruma envolverán tus espacios para ayudarte a mejorar tu actitud, brindándote una sensación de felicidad. PROPIEDADES ● Mejora el estado de ánimo. ● Genera sensación de vitalidad. ● Refresca el ambiente. ● Equilibra la energía. ● Es ideal para usar en momentos donde necesitas optimismo y felicidad.",
+    "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de bergamota, hojas de té verde y lavanda. Las notas cítricas y frescas de esta bruma envolverán tus espacios para ayudarte a mejorar tu actitud, brindándote una sensación de felicidad. \nPROPIEDADES \n● Mejora el estado de ánimo. \n● Genera sensación de vitalidad. \n● Refresca el ambiente. \n● Equilibra la energía. \n● Es ideal para usar en momentos donde necesitas optimismo y felicidad.",
     "precio_empresa_cliente": 23030,
-    "precio_sugerido_publico": 29950,
-    "imagen_miniatura": "images/productos/2020875-thumb.jpg"
+    "precio_sugerido_publico": 29950
   },
   {
     "codigo": "2020874",
