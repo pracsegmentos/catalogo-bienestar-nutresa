@@ -913,14 +913,14 @@
     "codigo": "2024665",
     "nombre": "Esencia Floral Cntl Emociones 20udsx30ml",
     "categoria": "Esencia",
-    "marca": "",
-    "imagen": "images/productos/2024665.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2024665-nutricional.jpeg",
-    "ingredientes": "",
+    "marca": "Haka",
+    "imagen": "images/productos/2024665.jpg",
+    "imagen_miniatura": "images/productos/2024665-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2024665-nutricional.jpg",
+    "ingredientes": "Mezcla de flores: Impatiens",
     "por_que_recomendarlo": "Nuestra esencia ﬂoral Control de Emociones es una mezcla de las ﬂores: Impaciencia y patiens. Ideal para favorecer el equilibro emocional y del estado de ánimo. Neutraliza la emociones negativas, promoviendo el buen estado de ánimo. Ayuda a combatir la irritabilidad y los altibajos emocionales.",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900,
-    "imagen_miniatura": "images/productos/2024665-thumb.jpg"
+    "precio_sugerido_publico": 20900
   },
   {
     "codigo": "1065840",
