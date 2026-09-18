@@ -901,13 +901,13 @@
     "nombre": "Esencia Floral HAKA Rescate 20plex30ml",
     "categoria": "Esencias",
     "marca": "Haka",
-    "imagen": "images/productos/2020825.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2020825-nutricional.jpeg",
-    "ingredientes": "",
+    "imagen": "images/productos/2020825.jpg",
+    "imagen_miniatura": "images/productos/2020825-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020825-nutricional.jpg",
+    "ingredientes": "Mezcla de flores: Clematis, Rock rose, Impatiens, Cherry plum, Star of Bethlehem",
     "por_que_recomendarlo": "Nuestra esencia ﬂoral Rescate es una mezcla de las ﬂores: clematis, impaciencia, Cherry Plum, entre otras. Es ideal para encontrar armonía en situaciones difíciles y de crisis. Por su composición es ideal para aliviar las emociones y pensamientos negativos que vienen después de una pérdida o una situación difícil. Ayuda a disipar la ansiedad, el miedo y la tensión acumulada, permitiendo que la mente y el cuerpo se relajen",
     "precio_empresa_cliente": 14630,
-    "precio_sugerido_publico": 20900,
-    "imagen_miniatura": "images/productos/2020825-thumb.jpg"
+    "precio_sugerido_publico": 20900
   },
   {
     "codigo": "2024665",
