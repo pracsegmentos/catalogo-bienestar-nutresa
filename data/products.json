@@ -979,13 +979,13 @@
     "nombre": "Agua Linos Eucalipto HAKA 48udsx200ml",
     "categoria": "Aceites Esenciales",
     "marca": "Haka",
-    "imagen": "images/productos/2020874.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2020874-nutricional.jpeg",
+    "imagen": "images/productos/2020874.jpg",
+    "imagen_miniatura": "images/productos/2020874-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020874-nutricional.jpg",
     "ingredientes": "",
-    "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de eucalipto, menta y lavanda para evocar momentos de frescura, concentración y vitalidad. Esta combinación es perfecta para generar una sensación de bienestar, concentración y conexión profunda. PROPIEDADES ● Por su aroma fresco es ideal para favorecer la concentración ● Genera sensación de frescura y vitalidad ● Revitaliza el ambiente ● Equilibra la energía",
+    "por_que_recomendarlo": "Mezcla ancestral de aceite esencial de eucalipto, menta y lavanda para evocar momentos de frescura, concentración y vitalidad. Esta combinación es perfecta para generar una sensación de bienestar, concentración y conexión profunda. \nPROPIEDADES \n● Por su aroma fresco es ideal para favorecer la concentración \n● Genera sensación de frescura y vitalidad \n● Revitaliza el ambiente \n● Equilibra la energía",
     "precio_empresa_cliente": 23030,
-    "precio_sugerido_publico": 29950,
-    "imagen_miniatura": "images/productos/2020874-thumb.jpg"
+    "precio_sugerido_publico": 29950
   },
   {
     "codigo": "1065843",
