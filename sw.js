@@ -1,4 +1,4 @@
-const VERSION = "v2";
+const VERSION = "v3";
 const SHELL_CACHE = `bienestar-shell-${VERSION}`;
 const IMG_CACHE = `bienestar-imgs-${VERSION}`;
 
@@ -17,7 +17,6 @@ self.addEventListener("install", (event) => {
     (async () => {
       const cache = await caches.open(SHELL_CACHE);
       await cache.addAll(SHELL_FILES);
-      await precacheImages();
       self.skipWaiting();
     })()
   );
@@ -57,6 +56,7 @@ self.addEventListener("activate", (event) => {
         keys.filter((k) => k !== SHELL_CACHE && k !== IMG_CACHE).map((k) => caches.delete(k))
       );
       self.clients.claim();
+      precacheImages();
     })()
   );
 });
