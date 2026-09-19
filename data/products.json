@@ -1161,13 +1161,13 @@
     "nombre": "Te. TOSH VerdeHierbabuena 24g 20sob 20un",
     "categoria": "Aromáticas e Infusiones",
     "marca": "Tosh",
-    "imagen": "images/productos/2039219.jpeg",
+    "imagen": "images/productos/2039219.jpg",
+    "imagen_miniatura": "images/productos/2039219-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Té verde (Camellia sinensis), Hierbabuena, Sabor natural de hierbabuena. x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
-    "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y balanceada Con todos los beneﬁcios naturales del Té verde, contiene antioxidantes naturales y por su contenido de teína, mejora el estado de alerta y la concentración. Es un producto con Ingredientes 100% naturales, Sin azúcar, Sin calorías y Sin sabores ni conservantes artiﬁciales",
+    "ingredientes": "Té verde (Camellia sinensis), Hierbabuena, Sabor natural de hierbabuena.",
+    "por_que_recomendarlo": "Es una excelente recomendación para quienes buscan una bebida refrescante y saludable para acompañar sus jornadas de estudio o trabajo, o bien para disfrutar tras las comidas. Al ser una opción sin azúcar añadida que combina la energía suave del té verde con la frescura herbal, constituye una alternativa equilibrada y natural para mantenerse hidratado y activo durante el día.",
     "precio_empresa_cliente": 8960,
-    "precio_sugerido_publico": 11200,
-    "imagen_miniatura": "images/productos/2039219-thumb.jpg"
+    "precio_sugerido_publico": 11200
   },
   {
     "codigo": "2026757",
