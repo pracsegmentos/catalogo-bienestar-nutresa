@@ -1187,13 +1187,13 @@
     "nombre": "Infu. TOSH Frutos Rojos 20sob 24g 20un",
     "categoria": "Aromáticas e Infusiones",
     "marca": "Tosh",
-    "imagen": "images/productos/2031244.jpeg",
+    "imagen": "images/productos/2031244.jpg",
+    "imagen_miniatura": "images/productos/2031244-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Flor de Jamaica (hibisco), manzana, fresa, mora y arándanos (con sabor natural a frutos rojos). x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
-    "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y balanceada es una opción deliciosa y refrescante, ideal para cuidar tu cuerpo gracias a su alto poder antioxidante. Su equilibrado perﬁl de sabores combina notas ácidas y dulces que transforman cualquier pausa del día en una experiencia revitalizante, cuidando de ti de forma 100% natural.",
+    "ingredientes": "Flor de Jamaica (hibisco), manzana, fresa, mora y arándanos (con sabor natural a frutos rojos).",
+    "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y balanceada es una opción deliciosa y refrescante, ideal para cuidar tu cuerpo gracias a su alto poder antioxidante. Su equilibrado perﬁl de sabores combina notas ácidas y dulces que transforman cualquier pausa del día en una experiencia revitalizante, cuidando de ti de forma 100% natural.",
     "precio_empresa_cliente": 8960,
-    "precio_sugerido_publico": 11200,
-    "imagen_miniatura": "images/productos/2031244-thumb.jpg"
+    "precio_sugerido_publico": 11200
   },
   {
     "codigo": "2017348",
