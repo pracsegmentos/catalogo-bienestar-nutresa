@@ -1174,13 +1174,13 @@
     "nombre": "Te. Tosh Te Verde Flor de Jamaica 20sob 20un",
     "categoria": "Aromáticas e Infusiones",
     "marca": "Tosh",
-    "imagen": "images/productos/2026757.jpeg",
+    "imagen": "images/productos/2026757.jpg",
+    "imagen_miniatura": "images/productos/2026757-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Té verde (Camellia sinensis) con Flor de Jamaica x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
-    "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 2026757 balanceada La ﬂor de jamaica es una planta medicinal a la que se le atribuyen muchos beneﬁcios para la salud. Tiene propiedades diuréticas, antihipertensivas, antiparasitarias y ligeramente laxantes. Asociadas a bajar de peso y mantener una buena salud Es un producto con Ingredientes 100% naturales, sin azúcar, sin calorías y Sin sabores ni conservantes artiﬁciales.",
+    "ingredientes": "Té verde (Camellia sinensis) con Flor de Jamaica.",
+    "por_que_recomendarlo": "La ﬂor de jamaica es una planta medicinal a la que se le atribuyen muchos beneﬁcios para la salud. Tiene propiedades diuréticas, antihipertensivas, antiparasitarias y ligeramente laxantes. Asociadas a bajar de peso y mantener una buena salud Es un producto con Ingredientes 100% naturales, sin azúcar, sin calorías y Sin sabores ni conservantes artiﬁciales.",
     "precio_empresa_cliente": 8960,
-    "precio_sugerido_publico": 11200,
-    "imagen_miniatura": "images/productos/2026757-thumb.jpg"
+    "precio_sugerido_publico": 11200
   },
   {
     "codigo": "2031244",
