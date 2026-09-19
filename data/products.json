@@ -1265,13 +1265,13 @@
     "nombre": "BEBIDA TOSH ALMENDRA SA 1LTCAJAX12 COL NUEVO",
     "categoria": "Bebidas vegetales",
     "marca": "Tosh",
-    "imagen": "images/productos/2020120.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
+    "imagen": "images/productos/2020120.jpg",
+    "imagen_miniatura": "images/productos/2020120-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020120-nutricional.jpg",
     "ingredientes": "Agua, Pasta de Almendra, Saborizantes Naturales, Carbonato de Calcio, Regulador de Acidez (Citrato de Sodio), Estabilizantes (Goma Xantana, Carboximetilcelulosa), Vitamina D. Contiene Almendra. Manufacturado en una planta que procesa productos a base de Leche, Avena, Avellana, Coco, Macadamia y Soja. x Mercado saludable",
-    "por_que_recomendarlo": "Vivir en Armonía por medio de una Código alimentación sana y balanceada Es un producto sin azúcar, 100% libres de sellos, perfecta para incluir en todos tus días, son libres de lactosa, libre de colesterol y grasa trans, buena fuente de calcio y vitamina D, no tienen colores ni sabores artiﬁciales. Tan solo 50 calorías por porción.",
+    "por_que_recomendarlo": "Es un producto sin azúcar, 100% libres de sellos, perfecta para incluir en todos tus días, son libres de lactosa, libre de colesterol y grasa trans, buena fuente de calcio y vitamina D, no tienen colores ni sabores artificiales. Tan solo 50 calorías por porción.",
     "precio_empresa_cliente": 13305,
-    "precio_sugerido_publico": 17300,
-    "imagen_miniatura": "images/productos/2020120-thumb.jpg"
+    "precio_sugerido_publico": 17300
   },
   {
     "codigo": "2020121",
