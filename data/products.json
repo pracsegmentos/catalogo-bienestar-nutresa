@@ -1252,13 +1252,13 @@
     "nombre": "Brr. TOSH Chocolate NF 16plex6undx23g",
     "categoria": "Barras de Cereal",
     "marca": "Tosh",
-    "imagen": "images/productos/1044671.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1044671-nutricional.jpeg",
-    "ingredientes": "Mezcla de cereales (avena, arroz inﬂado, maíz), cobertura de chocolate (o gotas de chocolate), ﬁbra natural y endulzante x Mercado saludable x Tiendas naturistas",
-    "por_que_recomendarlo": "Vivir en armonía por medio Código de una alimentación sana y 1044671 balanceada es el snack saludable perfecto para calmar los antojos dulces sin descuidar tu alimentación. Su textura crujiente a base de cereales combinada con la cobertura de chocolate ofrece un equilibrio ideal entre nutrición, energía y practicidad para llevar a cualquier lugar.",
+    "imagen": "images/productos/1044671.jpg",
+    "imagen_miniatura": "images/productos/1044671-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1044671-nutricional.jpg",
+    "ingredientes": "Mezcla de cereales (avena, arroz inﬂado, maíz), cobertura de chocolate (o gotas de chocolate), ﬁbra natural y endulzante.",
+    "por_que_recomendarlo": "es el snack saludable perfecto para calmar los antojos dulces sin descuidar tu alimentación. Su textura crujiente a base de cereales combinada con la cobertura de chocolate ofrece un equilibrio ideal entre nutrición, energía y practicidad para llevar a cualquier lugar.",
     "precio_empresa_cliente": 11600,
-    "precio_sugerido_publico": 14500,
-    "imagen_miniatura": "images/productos/1044671-thumb.jpg"
+    "precio_sugerido_publico": 14500
   },
   {
     "codigo": "2020120",
