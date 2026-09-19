@@ -1226,13 +1226,13 @@
     "nombre": "Brr. TOSH FresaSinAzuc 16plex6undx23g",
     "categoria": "Barras de Cereal",
     "marca": "Tosh",
-    "imagen": "images/productos/1044670.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1044670-nutricional.jpeg",
-    "ingredientes": "MANÍ, ALMENDRA, CEBADA Y TRIGO (GLUTEN), SOYA. Puede contener trazas de nueces de árbol, leche y albúmina de huevo. x Mercado saludable",
-    "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 1044670 balanceada Es un producto perfecto en cualquier momento del día, especialmente cuando quieres comer algo bueno para ti, con todos los beneﬁcios de la ﬁbra y sin azúcar adicionada. Para calmar el hambre entre comidas o mientras entrenas. Es un producto Naturalmente libre de grasas trans, 0% Colesterol, Bajo en sodio y 100% libres de sellos con ley 810.",
+    "imagen": "images/productos/1044670.jpg",
+    "imagen_miniatura": "images/productos/1044670-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1044670-nutricional.jpg",
+    "ingredientes": "MANÍ, ALMENDRA, CEBADA Y TRIGO (GLUTEN), SOYA. Puede contener trazas de nueces de árbol, leche y albúmina de huevo.",
+    "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y balanceada Es un producto perfecto en cualquier momento del día, especialmente cuando quieres comer algo bueno para ti, con todos los beneﬁcios de la ﬁbra y sin azúcar adicionada. Para calmar el hambre entre comidas o mientras entrenas. Es un producto Naturalmente libre de grasas trans, 0% Colesterol, Bajo en sodio y 100% libres de sellos con ley 810.",
     "precio_empresa_cliente": 10640,
-    "precio_sugerido_publico": 13300,
-    "imagen_miniatura": "images/productos/1044670-thumb.jpg"
+    "precio_sugerido_publico": 13300
   },
   {
     "codigo": "1044672",
