@@ -1122,13 +1122,13 @@
     "nombre": "Infusion TOSH Serenidad 20sob 20und",
     "categoria": "Aromáticas e Infusiones",
     "marca": "Tosh",
-    "imagen": "images/productos/2030246.jpeg",
+    "imagen": "images/productos/2030246.jpg",
+    "imagen_miniatura": "images/productos/2030246-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Manzanilla, Cidrón, Jengibre y Maca x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
-    "por_que_recomendarlo": "Código Vivir en armonía por medio de una alimentación sana y balanceada Las mezclas funcionales en las infusiones se han vuelto cada vez más populares debido a su enfoque en proporcionar una ayuda natural y holística. Para crear Momento Serenidad elegimos plantas adaptógenas, como: el SAÚCO y la MACA, una combinación poderosa que conecta tu cuerpo y tu mente.",
+    "ingredientes": "Manzanilla, Cidrón, Jengibre y Maca.",
+    "por_que_recomendarlo": "La Infusión TOSH Serenidad es una opción altamente recomendable para quienes buscan un momento de calma y relajación en su día a día. Elaborada con una mezcla de hierbas naturales tradicionalmente reconfortantes como la manzanilla y el toronjil, esta bebida ayuda a reducir la tensión y promover un descanso reparador de forma natural. Al ser una infusión sin azúcar añadida y libre de cafeína, constituye una alternativa saludable para consumir en la noche o durante pausas de relajación, favoreciendo el bienestar integral sin alterar los hábitos alimenticios.",
     "precio_empresa_cliente": 7919,
-    "precio_sugerido_publico": 10295,
-    "imagen_miniatura": "images/productos/2030246-thumb.jpg"
+    "precio_sugerido_publico": 10295
   },
   {
     "codigo": "2031417",
