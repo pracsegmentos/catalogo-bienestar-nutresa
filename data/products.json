@@ -1291,13 +1291,13 @@
     "nombre": "BEBIDA TOSH ALMENDRA AVENA SIN AZÚCAR 1",
     "categoria": "Bebidas vegetales",
     "marca": "Tosh",
-    "imagen": "images/productos/2020775.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
+    "imagen": "images/productos/2020775.jpg",
+    "imagen_miniatura": "images/productos/2020775-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020775-nutricional.jpg",
     "ingredientes": "Agua, Pasta de Almendra, Harina de Avena, Saborizante Natural, Carbonato de Calcio, Regulador de Acidez (Citrato de Sodio), Estabilizantes (Goma Xantan, Carboximetilcelulosa), Sal, Vitamina D**. Contiene Almendra y Avena. Manufacturado en una planta que procesa productos a base de Leche, Avellana, Macadamia, Coco y Soja. x Mercado saludable",
     "por_que_recomendarlo": "LITRO CAJA X12 Vivir en Armonía por medio de Código una alimentación sana y balanceada Es un producto sin azúcar, 100% libre de sellos, perfecta para incluir en todos tus días, son libres de lactosa, libre de colesterol y grasa trans, buena fuente de calcio y vitamina D, no tienen colores ni sabores artiﬁciales. Tan solo 45 calorías por porción.",
     "precio_empresa_cliente": 14318,
-    "precio_sugerido_publico": 17900,
-    "imagen_miniatura": "images/productos/2020775-thumb.jpg"
+    "precio_sugerido_publico": 17900
   },
   {
     "codigo": "1051954",
