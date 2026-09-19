@@ -1,4 +1,4 @@
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL_CACHE = `bienestar-shell-${VERSION}`;
 const IMG_CACHE = `bienestar-imgs-${VERSION}`;
 
