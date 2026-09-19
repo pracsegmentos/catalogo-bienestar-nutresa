@@ -1148,13 +1148,13 @@
     "nombre": "Arom.TOSH ManzaLimonJengi 20sob22g20un",
     "categoria": "Aromáticas e Infusiones",
     "marca": "Tosh",
-    "imagen": "images/productos/2031414.jpeg",
+    "imagen": "images/productos/2031414.jpg",
+    "imagen_miniatura": "images/productos/2031414-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
     "ingredientes": "Manzana, jengibre, limón y miel. x Mercado saludable x No le aplica la Resolución 810 por no contener aditivos adicionales",
-    "por_que_recomendarlo": "Vivir en armonía por medio de una alimentación sana y 2031414 balanceada es la combinación ideal para revitalizar tu cuerpo y reconfortar tu garganta en cualquier momento del día. El toque picante del jengibre se equilibra a la perfección con la frescura del limón y el dulzor suave de la manzana y la miel, brindándote una bebida tan deliciosa como funcional para fortalecer tus defensas de forma natural.",
+    "por_que_recomendarlo": "La Aromática TOSH Manzanilla, Limón y Jengibre es una opción altamente recomendable para favorecer el bienestar digestivo y fortalecer el organismo de manera natural. La combinación de manzanilla, reconocida por sus propiedades reconfortantes para la digestión, junto con el toque revitalizante del limón y el jengibre, brinda una sensación cálida de alivio y frescura. Al ser una infusión naturalmente libre de cafeína y sin azúcar añadida, representa una alternativa saludable e ideal para reconfortar el cuerpo en momentos de pausa o al finalizar el día.",
     "precio_empresa_cliente": 7919,
-    "precio_sugerido_publico": 10250,
-    "imagen_miniatura": "images/productos/2031414-thumb.jpg"
+    "precio_sugerido_publico": 10250
   },
   {
     "codigo": "2039219",
