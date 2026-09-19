@@ -1196,19 +1196,6 @@
     "precio_sugerido_publico": 11200
   },
   {
-    "codigo": "2017469",
-    "nombre": "Té de menta BADIA 1g x 10 bols x 20 UND",
-    "categoria": "Aromáticas e Infusiones",
-    "marca": "Badia",
-    "imagen": "images/productos/2017469.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Menta *Producto en racionalización* No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre Código de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Omega 3, Halai (permitido comunidad musulmana)) Es un producto libre de cafeína y es realiza por hojas de mentas por tanto te ayuda a tener una digestión sana, No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales.",
-    "precio_empresa_cliente": 7557,
-    "precio_sugerido_publico": 10400,
-    "imagen_miniatura": "images/productos/2017469-thumb.jpg"
-  },
-  {
     "codigo": "2015886",
     "nombre": "Lomo Atún ZENU en agua x 160g",
     "categoria": "Atún",
