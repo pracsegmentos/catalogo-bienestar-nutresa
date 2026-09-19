@@ -1199,14 +1199,14 @@
     "codigo": "2015886",
     "nombre": "Lomo Atún ZENU en agua x 160g",
     "categoria": "Atún",
-    "marca": "ZENÚ",
-    "imagen": "images/productos/2015886.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2015886-nutricional.jpeg",
-    "ingredientes": "Atún, agua, sal x Mercado saludable x Tiendas naturistas",
+    "marca": "Zenú",
+    "imagen": "images/productos/2015886.jpg",
+    "imagen_miniatura": "images/productos/2015886-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2015886-nutricional.jpg",
+    "ingredientes": "Atún, agua, sal .",
     "por_que_recomendarlo": "Lomos de atún sin conservantes, Excelente fuente de proteína. Es ideal para deportistas o personas que controlan la ingesta de calorías y grasas. Pesca responsable.",
     "precio_empresa_cliente": 7021,
-    "precio_sugerido_publico": 8500,
-    "imagen_miniatura": "images/productos/2015886-thumb.jpg"
+    "precio_sugerido_publico": 8500
   },
   {
     "codigo": "1044674",
