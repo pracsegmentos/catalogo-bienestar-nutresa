@@ -126,7 +126,7 @@ header.topbar .brand small {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  background: var(--color-bg);
+  background: #ffffff;
   border-radius: var(--radius);
 }
 
