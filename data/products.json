@@ -1329,14 +1329,14 @@
     "codigo": "1036046",
     "nombre": "Café Sello Rojo Vive Corazón 450g 10pqt",
     "categoria": "Café Tostado",
-    "marca": "",
-    "imagen": "images/productos/1036046.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "SEGMENTOS Café x No le aplica la Resolución 810 por ser de un solo x Tiendas naturistas ingrediente y no contener aditivos adicionales",
-    "por_que_recomendarlo": "- Cientíﬁcamente comprobado. - Ayuda a disminuir el riesgo de padecer 1036046 enfermedades del corazón. - Aporta 4 veces más antioxidantes que Café Sello Rojo Vive aporta 4 veces más antioxidantes que nuestro café tradicional. Es el primer café cientíﬁcamente comprobado que ayuda a disminuir el riesgo de padecer enfermedades del corazón, consumiendo mínimo 4 tazas de 100 ml diarias. Está diseñado para que personas sanas protejan su corazón y tengan un efecto preventivo más no curativo sobre enfermedades del corazón. Es un café diferente y único en el mercado colombiano. Gracias a su proceso es naturalmente rico en antioxidantes, un café cardioprotector, 100% natural que no contiene químicos ni aditivos. Conoce más información en cafesellorojo.com",
+    "marca": "Sello Rojo",
+    "imagen": "images/productos/1036046.jpg",
+    "imagen_miniatura": "images/productos/1036046-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1036046-nutricional.jpg",
+    "ingredientes": "Café",
+    "por_que_recomendarlo": "Café Sello Rojo Vive aporta 4 veces más antioxidantes que nuestro café tradicional. Es el primer café científicamente comprobado que ayuda a disminuir el riesgo de padecer enfermedades del corazón, consumiendo mínimo 4 tazas de 100 ml diarias. Está diseñado para que personas sanas protejan su corazón y tengan un efecto preventivo más no curativo sobre enfermedades del corazón. Es un café diferente y único en el mercado colombiano.  Gracias a su proceso es naturalmente rico en antioxidantes, un café cardioprotector, 100% natural que no contiene químicos ni aditivos.",
     "precio_empresa_cliente": 26044,
-    "precio_sugerido_publico": 30000,
-    "imagen_miniatura": "images/productos/1036046-thumb.jpg"
+    "precio_sugerido_publico": 30000
   },
   {
     "codigo": "1060184",
