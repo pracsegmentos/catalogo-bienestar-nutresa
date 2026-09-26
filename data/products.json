@@ -1343,13 +1343,13 @@
     "nombre": "Cer. TOSH ArtAvenaPasa 16Dp x300gr",
     "categoria": "Cereales",
     "marca": "Tosh",
-    "imagen": "images/productos/1060184.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
+    "imagen": "images/productos/1060184.jpg",
+    "imagen_miniatura": "images/productos/1060184-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1060184-nutricional.jpg",
     "ingredientes": "",
-    "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y balanceada 1060184 PV: $10.320 La granola avena y pasas tiene un estilo artesanal, con ingredientes naturales, sin colorantes ni saborizantes artiﬁciales, con solo 100 calorías. Su ingrediente especial es la canela en polvo que le da un sabor único. Asimismo tiene Buena Fuente de Fibra y 0% Colesterol. x Mercado saludable",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 12900,
-    "imagen_miniatura": "images/productos/1060184-thumb.jpg"
+    "por_que_recomendarlo": "La granola avena y pasas tiene un estilo artesanal, con ingredientes naturales, sin colorantes ni saborizantes artificiales, con solo 100 calorías. Su ingrediente especial es la canela en polvo que le da un sabor único. Asimismo tiene Buena Fuente de Fibra y 0% Colesterol.",
+    "precio_empresa_cliente": 10320,
+    "precio_sugerido_publico": 12900
   },
   {
     "codigo": "1060185",
