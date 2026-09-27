@@ -1954,13 +1954,13 @@
     "nombre": "Tornillos DORIA Sin Gluten x 250g",
     "categoria": "Pastas Secas",
     "marca": "Doria",
-    "imagen": "images/productos/2006351.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
+    "imagen": "images/productos/2006351.jpg",
+    "imagen_miniatura": "images/productos/2006351-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2006351-nutricional.jpg",
     "ingredientes": "Harina de arroz, almidón de tapioca y Carboximetil celulosa (estabilizantes), cúrcuma y annatto (como colorantes naturales).",
-    "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables Código PSP: $9.900 Son productos a base de arroz y libres de gluten, ideales para celíacos. Naturalmente libres de grasas trans, colesterol, grasas saturadas y aditivos. Avalados por el sello kosher (certiﬁcación de alimentación de la comunidad judía), contienen menos de 15 ppm (partes por millón) de gliadina y son libres de T.A.C.C. (sin trigo, avena, cebada y centeno), que los hacen aptos para veganos y vegetarianos. Además, ofrecen un excelente desempeño en la cocción.",
+    "por_que_recomendarlo": "La Pasta Doria Tornillo sin Gluten es una excelente opción para disfrutar de una pasta de corte corto sin preocuparse por intolerancias o alergias al gluten. Es altamente recomendable por ser un alimento apto para personas celíacas o con sensibilidad al trigo, elaborado en una planta especializada que evita la contaminación cruzada y cumple con los estándares Codex Alimentarius. Ofrece una alternativa liviana y de fácil digestión para preparar ensaladas o platos con salsas, utilizando materias primas certificadas como libres de organismos genéticamente modificados (GMO).",
     "precio_empresa_cliente": 8411,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2006351-thumb.jpg"
+    "precio_sugerido_publico": null
   },
   {
     "codigo": "2024697",
