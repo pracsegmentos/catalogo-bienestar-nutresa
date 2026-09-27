@@ -1656,12 +1656,12 @@
     "categoria": "Especias",
     "marca": "Badia",
     "imagen": "images/productos/2017277.jpeg",
+    "imagen_miniatura": "images/productos/2017277-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Hojuelas de chile rojo seco triturado (Capsicum annuum). No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $24.300 Omega 3, Halai (permitido comunidad musulmana) La Pimienta Roja en Escamas Badia ofrece el equilibrio perfecto entre picante intenso y textura crunch, siendo el ingrediente ideal para sazonar pizzas, pastas, tacos, sopas y adobos. Sus hojuelas de chile triturado liberan sabor de forma directa y uniforme, aportando un toque cálido y un color vistoso a cualquier plato sin alterar su base.",
+    "ingredientes": "Hojuelas de chile rojo seco triturado (Capsicum annuum).",
+    "por_que_recomendarlo": "La Pimienta Roja en Escamas Badia ofrece el equilibrio perfecto entre picante intenso y textura crunch, siendo el ingrediente ideal para sazonar pizzas, pastas, tacos, sopas y adobos. Sus hojuelas de chile triturado liberan sabor de forma directa y uniforme, aportando un toque cálido y un color vistoso a cualquier plato sin alterar su base.",
     "precio_empresa_cliente": 17175,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2017277-thumb.jpg"
+    "precio_sugerido_publico": 24300
   },
   {
     "codigo": "2017249",
