@@ -1704,16 +1704,16 @@
   },
   {
     "codigo": "2012154",
-    "nombre": "SAL ROSADA HIMALAYA BADIA 127.5gr/226 rosada BADIA 255g x 6UN",
-    "categoria": "Especias",
+    "nombre": "SAL ROSADA HIMALAYA BADIA 127.5gr",
+    "categoria": "Sales",
     "marca": "Badia",
-    "imagen": "images/productos/2012154.jpeg",
+    "imagen": "images/productos/2012154.jpg",
+    "imagen_miniatura": "images/productos/2012154-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "6 6 sellos (Gluten Free, Orgánico, Libre ¿POR QUÉ La Sal Rosada una opción común, ya natural, no directamente",
+    "ingredientes": "Sal de roca rosada pura del Himalaya (cloruro de sodio natural con minerales traza).",
+    "por_que_recomendarlo": "La Sal Rosada del Himalaya Badia es una opción ideal frente a la sal refinada común, ya que es un sazonador 100% natural, no procesado y extraído directamente de depósitos salinos ancestrales. Su riqueza en minerales y oligoelementos aporta un sabor limpio y equilibrado a cualquier preparación, elevando el perfil de carnes, ensaladas y vegetales mientras mantiene una presentación limpia y atractiva.",
     "precio_empresa_cliente": 10500,
-    "precio_sugerido_publico": 13500,
-    "imagen_miniatura": "images/productos/2012154-thumb.jpg"
+    "precio_sugerido_publico": 13500
   },
   {
     "codigo": "2036554",
