@@ -1730,16 +1730,16 @@
   },
   {
     "codigo": "2017474",
-    "nombre": "gr Ajo negro sal",
-    "categoria": "Especias",
-    "marca": "",
-    "imagen": "images/productos/2017474.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2017474-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y (comunidad judía), Ácidos grasos y Omega 3, Halai (permitido Código Omega 3, Halai (permitido comunidad musulmana) comunidad musulmana) RECOMENDARLO? del Himalaya Badia es El sazonador de Ajo Negro y Sal ideal frente a la sal reﬁnada Rosada Badia es una opción gourmet que es un sazonador 100% excepcional que combina el sabor procesado y extraído umami, dulce y ahumado del ajo de depósitos salinos negro fermentado con la pureza Su riqueza en minerales y mineral de la sal rosada del Himalaya. aporta un sabor limpio a cualquier preparación, perﬁl de carnes, ensaladas mientras mantiene una limpia y atractiva. rosada pura del Himalaya sodio natural con minerales No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no contener aditivos Establecimientos deportivos adicionales",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 23800,
-    "imagen_miniatura": "images/productos/2017474-thumb.jpg"
+    "nombre": "Ajo negro y sal rosada BADIA 255g x 6UN",
+    "categoria": "Sales",
+    "marca": "Badia",
+    "imagen": "images/productos/2017474.jpg",
+    "imagen_miniatura": "images/productos/2017474-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2017474-nutricional.jpg",
+    "ingredientes": "Sal rosada del Himalaya y ajo negro deshidratado.",
+    "por_que_recomendarlo": "El sazonador de Ajo Negro y Sal Rosada Badia es una opción gourmet excepcional que combina el sabor umami, dulce y ahumado del ajo negro fermentado con la pureza mineral de la sal rosada del Himalaya. Es ideal para recomendar por su capacidad de realzar carnes a la parrilla, vegetales asados, pastas y mariscos, aportando un toque sofisticado y reduciendo la necesidad de saborizantes artificiales.",
+    "precio_empresa_cliente": 19050,
+    "precio_sugerido_publico": 23800
   },
   {
     "codigo": "2017383",
