@@ -1405,16 +1405,16 @@
   },
   {
     "codigo": "2020371",
-    "nombre": "Cer. TOSH Chocolate 8 cj x 300g/500g",
+    "nombre": "Cer. TOSH Chocolate 8 cj x 500g",
     "categoria": "Cereales",
     "marca": "Tosh",
-    "imagen": "images/productos/2020371.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Vivir en Armonía por medio Vivir en Armonía por medio de una alimentación sana y Código balanceada 2020371 QUÉ RECOMENDARLO? Mezcla lista con harina y arroz, Sin azúcar y 100% libres de ley 810",
+    "imagen": "images/productos/2020371.jpg",
+    "imagen_miniatura": "images/productos/2020371-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020371-nutricional.jpg",
+    "ingredientes": "Está elaborado a base de una mezcla crujiente de cereales integrales y cereales tostados, acompañada por trozos de chocolate semiamargo.",
+    "por_que_recomendarlo": "El Cereal Tosh Granola Chocolate es muy recomendable por ser una opción deliciosa y nutritiva para comenzar el día o para disfrutar como snack. Es una buena fuente de fibra natural que apoya la salud digestiva y brinda saciedad, ofreciendo una textura crunchy muy agradable gracias a sus hojuelas crocantes. Además, resalta por no contener colorantes ni sabores artificiales, combinando cereales integrales tostados con trozos de chocolate semiamargo para un balance de sabor sin ser empalagoso.",
     "precio_empresa_cliente": 17040,
-    "precio_sugerido_publico": 21300,
-    "imagen_miniatura": "images/productos/2020371-thumb.jpg"
+    "precio_sugerido_publico": 21300
   },
   {
     "codigo": "2020372",
