@@ -1421,13 +1421,13 @@
     "nombre": "Cer. TOSH Fresa 8 cj x 300g/500g 300g/500g",
     "categoria": "Cereales",
     "marca": "Tosh",
-    "imagen": "images/productos/2020369.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "",
+    "imagen": "images/productos/2020369.jpg",
+    "imagen_miniatura": "images/productos/2020369-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2020369-nutricional.jpg",
+    "ingredientes": "Esta granola está elaborada a base de hojuelas y cereales integrales tostados (principalmente avena), combinados con trozos o sabor a fresa.",
+    "por_que_recomendarlo": "El Cereal Tosh Granola Fresa es una excelente alternativa para incluir en tus desayunos o snacks por ser una opción equilibrada, llena de sabor y textura. Es altamente recomendable por ser una buena fuente de fibra dietaria que contribuye al tránsito intestinal y ayuda a mantener una sensación de saciedad por más tiempo. Su textura crunchy combinada con el toque frutal de la fresa lo convierte en un alimento muy versátil, ideal para acompañar con leche, yogur o smoothies sin aportar excesos de sodio ni grasas trans.",
     "precio_empresa_cliente": 15120,
-    "precio_sugerido_publico": 19800,
-    "imagen_miniatura": "images/productos/2020369-thumb.jpg"
+    "precio_sugerido_publico": 19800
   },
   {
     "codigo": "2020370",
