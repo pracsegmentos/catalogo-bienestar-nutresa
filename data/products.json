@@ -1551,13 +1551,13 @@
     "nombre": "Jengibre Cristaliz Or BADIA 42.5g x12UND",
     "categoria": "Especiales",
     "marca": "Badia",
-    "imagen": "images/productos/2017449.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2017449-nutricional.jpeg",
-    "ingredientes": "Jengibre SEGMENTOS SEGMENTOS No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $12.600 Omega 3, Halai (permitido comunidad musulmana) El jengibre cristalizado es estupendo para sus productos horneados, para acompañar ensaladas o para comerlo directamente de la bolsa. ¡A su total elección! El azúcar que se utiliza es caña orgánica. Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. Es usado para snacks, ensaladas, repostería y platos horneados. Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
+    "imagen": "images/productos/2017449.jpg",
+    "imagen_miniatura": "images/productos/2017449-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2017449-nutricional.jpg",
+    "ingredientes": "Jengibre",
+    "por_que_recomendarlo": "El jengibre cristalizado es estupendo para sus productos horneados, para acompañar ensaladas o para comerlo directamente de la bolsa. ¡A su total elección!\nEl azúcar que se utiliza es caña orgánica. Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. \nEs usado para snacks, ensaladas, repostería y platos horneados. Cuenta con certificado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 8568,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2017449-thumb.jpg"
+    "precio_sugerido_publico": 12600
   },
   {
     "codigo": "2017340",
