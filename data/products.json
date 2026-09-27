@@ -1756,16 +1756,16 @@
   },
   {
     "codigo": "2017232",
-    "nombre": "en un solo paso. Su formato familiar de",
-    "categoria": "carnes, aves, pescados, arroces y guisos",
-    "marca": "",
-    "imagen": "images/productos/2017232.jpeg",
+    "nombre": "Sazon completa BADIA 99.2 gr x 8 und",
+    "categoria": "Sazonador",
+    "marca": "Badia",
+    "imagen": "images/productos/2017232.jpg",
+    "imagen_miniatura": "images/productos/2017232-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Sal, verduras deshidratadas (ajo y Código cebolla), acentuador de sabor 2017232 (glutamato monosódico), especias (incluyendo comino), hierbas aromáticas (perejil) y dióxido de silicio (como antiaglomerante). No le aplica la Resolución x Mercado saludable 810 por ser de un solo x Tiendas naturistas ingrediente y no Establecimientos deportivos contener aditivos adicionales",
-    "por_que_recomendarlo": "793.8 g es altamente recomendable por su gran rendimiento en el hogar y en cocinas comerciales, aportando un perﬁl de sabor caribeño y latino de forma rápida y equilibrada.",
+    "ingredientes": "Sal, verduras deshidratadas (ajo y cebolla), acentuador de sabor (glutamato monosódico), especias (incluyendo comino), hierbas aromáticas (perejil) y dióxido de silicio (como antiaglomerante).",
+    "por_que_recomendarlo": "La Sazón Completa Badia (Complete Seasoning) es una mezcla icónica que combina ajo, cebolla, comino y hierbas aromáticas, diseñada para simplificar la cocina diaria al sazonar todo tipo de carnes, aves, pescados, arroces y guisos en un solo paso.",
     "precio_empresa_cliente": 9825,
-    "precio_sugerido_publico": 15450,
-    "imagen_miniatura": "images/productos/2017232-thumb.jpg"
+    "precio_sugerido_publico": 15450
   },
   {
     "codigo": "1051746",
