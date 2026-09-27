@@ -1539,12 +1539,12 @@
     "categoria": "Especiales",
     "marca": "Badia",
     "imagen": "images/productos/2017467.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Ajo, Agua, Aceite de Oliva Extra Virgen, Ácido Cítrico, Benzoato de Sodio (conservante). x Mercado saludable x Tiendas naturistas",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y comunidad musulmana) ● Es un producto que cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten. ● Es ideal para pasta, arroces, carnes y verduras. ● Es un producto que te brinda practicidad para evitar quedar con las manos olores a ajo y no estar picando constantemente. ● Es mezclado con aceite de oliva, el cual ya está listo para usar.",
+    "imagen_miniatura": "images/productos/2017467-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2017467-nutricional.jpg",
+    "ingredientes": "Ajo, Agua, Aceite de Oliva Extra Virgen, Ácido Cítrico, Benzoato de Sodio (conservante).",
+    "por_que_recomendarlo": "-Es un producto que cuenta con certificado de Kosher, es decir, es un producto puro y libre de gluten. \n-Es ideal para pasta, arroces, carnes y verduras.\n-Es un producto que te brinda practicidad para evitar quedar con las manos olores a ajo y no estar picando constantemente. \n-Es mezclado con aceite de oliva, el cual ya está listo para usar.",
     "precio_empresa_cliente": 13697,
-    "precio_sugerido_publico": 23000,
-    "imagen_miniatura": "images/productos/2017467-thumb.jpg"
+    "precio_sugerido_publico": 23000
   },
   {
     "codigo": "2017449",
