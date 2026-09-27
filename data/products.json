@@ -1694,13 +1694,13 @@
     "nombre": "Jengibre Molido BADIA 42.5g x 8 UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017239.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2017239-nutricional.jpeg",
-    "ingredientes": "Raíz de jengibre puro molido (Zingiber ofﬁcinale). No le aplica la Resolución 810 por ser de un solo x Tiendas naturistas ingrediente y no contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre (comunidad judía), Ácidos grasos y Código Omega 3, Halai (permitido comunidad musulmana) El Jengibre Molido Badia aporta un toque cítrico, picante y aromático característico que transforma al instante infusiones, currys, repostería, adobos y salteados. Su presentación en polvo ﬁno facilita una integración uniforme en preparaciones dulces y saladas, ofreciendo toda la intensidad y versatilidad de la raíz fresca sin complicaciones.",
+    "imagen": "images/productos/2017239.jpg",
+    "imagen_miniatura": "images/productos/2017239-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2017239-nutricional.jpg",
+    "ingredientes": "Raíz de jengibre puro molido (Zingiber ofﬁcinale).",
+    "por_que_recomendarlo": "El Jengibre Molido Badia aporta un toque cítrico, picante y aromático característico que transforma al instante infusiones, currys, repostería, adobos y salteados. Su presentación en polvo ﬁno facilita una integración uniforme en preparaciones dulces y saladas, ofreciendo toda la intensidad y versatilidad de la raíz fresca sin complicaciones.",
     "precio_empresa_cliente": 10711,
-    "precio_sugerido_publico": 17400,
-    "imagen_miniatura": "images/productos/2017239-thumb.jpg"
+    "precio_sugerido_publico": 17400
   },
   {
     "codigo": "2012154",
