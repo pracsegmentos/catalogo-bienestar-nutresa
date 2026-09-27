@@ -2003,16 +2003,16 @@
   },
   {
     "codigo": "2024698",
-    "nombre": "Macarrones DORIA SG Quinoa chia x 250g",
+    "nombre": "Macarrones DORIA SG Quinoa chia x 250g (Producto en racionalización)",
     "categoria": "Pastas Secas",
     "marca": "Doria",
-    "imagen": "images/productos/2024698.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Harina de maíz, harina de arroz, harina de quinua, semillas de chía y fortiﬁcantes *Producto en racionalización*",
-    "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables son una excelente alternativa nutritiva y de fácil digestión, ideal para personas celíacas, con sensibilidad al gluten o que buscan cuidar su alimentación. La combinación de quinua y chía aporta proteína vegetal de alto valor biológico, omega-3 y una buena dosis de ﬁbra, ayudando a prolongar la sensación de saciedad, mejorar el tránsito intestinal y mantener niveles constantes de energía sin pesadez.",
+    "imagen": "images/productos/2024698.jpg",
+    "imagen_miniatura": "images/productos/2024698-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2024698-nutricional.jpg",
+    "ingredientes": "Harina de maíz, harina de arroz, harina de quinua, semillas de chía y fortiﬁcantes.",
+    "por_que_recomendarlo": "La Pasta Doria Macarrones Sin Gluten Quinoa Chia es una excelente opción para disfrutar de unos macarrones nutritivos y ligeros sin preocuparse por la presencia de gluten. Es altamente recomendable por estar elaborada con súper alimentos como la quinua y la chía, lo que la convierte en una buena fuente de fibra dietaria y proteína de origen vegetal para apoyar la salud digestiva y brindar una energía más sostenible. Es perfecta para personas celíacas, con intolerancia al gluten o que buscan alternativas más variadas a la pasta tradicional.",
     "precio_empresa_cliente": 10878,
-    "precio_sugerido_publico": 12800,
-    "imagen_miniatura": "images/productos/2024698-thumb.jpg"
+    "precio_sugerido_publico": 12800
   },
   {
     "codigo": "1001470",
