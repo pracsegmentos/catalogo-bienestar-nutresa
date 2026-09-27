@@ -1668,13 +1668,13 @@
     "nombre": "Pimienta Neg Molid BADIA 56.7g x 8 UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017249.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2017249-nutricional.jpeg",
-    "ingredientes": "Pimienta negra pura molida (Piper nigrum) x No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre (comunidad judía), Ácidos grasos y Código Omega 3, Halai (permitido comunidad musulmana) La Pimienta Negra Molida Badia es un básico imprescindible en la cocina que aporta un picor fresco, aromático y equilibrado para realzar el sabor natural de carnes, aves, sopas, salsas y ensaladas. Su molienda ﬁna asegura una distribución homogénea en cualquier preparación, garantizando la máxima intensidad organoléptica en cada bocado.",
+    "imagen": "images/productos/2017249.jpg",
+    "imagen_miniatura": "images/productos/2017249-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2017249-nutricional.jpg",
+    "ingredientes": "Pimienta negra pura molida (Piper nigrum).",
+    "por_que_recomendarlo": "La Pimienta Negra Molida Badia es un básico imprescindible en la cocina que aporta un picor fresco, aromático y equilibrado para realzar el sabor natural de carnes, aves, sopas, salsas y ensaladas. Su molienda ﬁna asegura una distribución homogénea en cualquier preparación, garantizando la máxima intensidad organoléptica en cada bocado.",
     "precio_empresa_cliente": 19392,
-    "precio_sugerido_publico": 25000,
-    "imagen_miniatura": "images/productos/2017249-thumb.jpg"
+    "precio_sugerido_publico": 25000
   },
   {
     "codigo": "2017262",
