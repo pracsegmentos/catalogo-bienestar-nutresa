@@ -1743,16 +1743,16 @@
   },
   {
     "codigo": "2017383",
-    "nombre": "Sazon completa BADIA 793.8g x 6 UND/ 99.2 gr x8und",
-    "categoria": "Especias",
+    "nombre": "Sazon completa BADIA 793.8g x 6 UND",
+    "categoria": "Sazonador",
     "marca": "Badia",
-    "imagen": "images/placeholder.svg",
+    "imagen": "images/productos/2017383.jpg",
+    "imagen_miniatura": "images/productos/2017383-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y 2017383 Omega 3, Halai (permitido comunidad musulmana) La Sazón Completa Badia (Complete Seasoning) es una mezcla icónica que combina ajo, cebolla, comino y hierbas aromáticas, diseñada para simpliﬁcar la cocina diaria al sazonar todo tipo de",
+    "ingredientes": "Sal, verduras deshidratadas (ajo y cebolla), acentuador de sabor (glutamato monosódico), especias (incluyendo comino), hierbas aromáticas (perejil) y dióxido de silicio (como antiaglomerante).",
+    "por_que_recomendarlo": "La Sazón Completa Badia (Complete Seasoning) es una mezcla icónica que combina ajo, cebolla, comino y hierbas aromáticas, diseñada para simplificar la cocina diaria al sazonar todo tipo de carnes, aves, pescados, arroces y guisos en un solo paso. Su formato familiar de 793.8 g es altamente recomendable por su gran rendimiento en el hogar y en cocinas comerciales, aportando un perfil de sabor caribeño y latino de forma rápida y equilibrada.",
     "precio_empresa_cliente": 38616,
-    "precio_sugerido_publico": 49900,
-    "imagen_miniatura": "images/placeholder.svg"
+    "precio_sugerido_publico": 49900
   },
   {
     "codigo": "2017232",
