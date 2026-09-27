@@ -1717,16 +1717,16 @@
   },
   {
     "codigo": "2036554",
-    "nombre": "oligoelementos Es ideal para recomendar por su",
-    "categoria": "ancestrales.",
-    "marca": "",
-    "imagen": "images/productos/2036554.jpeg",
+    "nombre": "SAL ROSADA HIMALAYA BADIA x226.8 gr",
+    "categoria": "Sales",
+    "marca": "Badia",
+    "imagen": "images/productos/2036554.jpg",
+    "imagen_miniatura": "images/productos/2036554-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Sal de roca (cloruro de Sal rosada del Himalaya y ajo negro traza). deshidratado. x No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales",
-    "por_que_recomendarlo": "y equilibrado capacidad de realzar carnes a la elevando el parrilla, vegetales asados, pastas y y vegetales mariscos, aportando un toque presentación soﬁsticado y reduciendo la necesidad de saborizantes artiﬁciales.",
+    "ingredientes": "Sal de roca (cloruro de Sal rosada del Himalaya y ajo negro traza). deshidratado.",
+    "por_que_recomendarlo": "Sal de roca rosada pura del Himalaya (cloruro de sodio natural con minerales traza).",
     "precio_empresa_cliente": 12600,
-    "precio_sugerido_publico": 15800,
-    "imagen_miniatura": "images/productos/2036554-thumb.jpg"
+    "precio_sugerido_publico": 15800
   },
   {
     "codigo": "2017474",
