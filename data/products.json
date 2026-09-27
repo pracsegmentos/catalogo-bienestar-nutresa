@@ -1577,13 +1577,13 @@
     "nombre": "Azafran Espanol BADIA 0.4g x 12 UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017214.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Estigmas puros de azafrán (Crocus sativus). x No le aplica la Resolución 810 por ser de un solo ingrediente y no contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher PV: $ $23.666 (comunidad judía), Ácidos grasos y Código PSP: $34.050 Omega 3, Halai (permitido comunidad musulmana) El azafrán español Badia destaca por su pureza e intenso poder aromático, siendo la especia gourmet por excelencia para aportar sabor, aroma y un característico color dorado natural a platillos como paellas, risottos, sopas y mariscos. Su formato en estigmas enteros garantiza su autenticidad y máxima potencia culinaria sin mezclas artiﬁciales.",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2017214-thumb.jpg"
+    "imagen": "images/productos/2017214.jpg",
+    "imagen_miniatura": "images/productos/2017214-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2017214-nutricional.jpg",
+    "ingredientes": "Estigmas puros de azafrán (Crocus sativus).",
+    "por_que_recomendarlo": "El azafrán español Badia destaca por su pureza e intenso poder aromático, siendo la especia gourmet por excelencia para aportar sabor, aroma y un característico color dorado natural a platillos como paellas, risottos, sopas y mariscos. Su formato en estigmas enteros garantiza su autenticidad y máxima potencia culinaria sin mezclas artificiales.",
+    "precio_empresa_cliente": 23666,
+    "precio_sugerido_publico": 34021
   },
   {
     "codigo": "2017237",
