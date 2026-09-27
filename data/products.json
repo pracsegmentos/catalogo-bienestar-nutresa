@@ -1849,14 +1849,14 @@
     "codigo": "1004079",
     "nombre": "Glina. SANTANDER 65% 12plex10undx70g",
     "categoria": "Chocolate Real",
-    "marca": "",
-    "imagen": "images/productos/1004079.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1004079-nutricional.jpeg",
-    "ingredientes": "Masa de cacao, azúcar, cacao en polvo, manteca de cacao, emulsiﬁcante (lecitina de soya), sabor natural (vainilla). Contiene: soya. Puede contener trazas de maní, nueces de árbol y leche. x Mercado saludable x Establecimientos deportivos",
-    "por_que_recomendarlo": "Chocolate de Origen Es chocolate premium 100% colombiano gracias a la mezcla armoniosa de cacao trinitario y criollo. Esta referencia tiene un porcentaje de 65% cacao que resalta todas las características de un buen chocolate oscuro.",
+    "marca": "Chocolate Santander",
+    "imagen": "images/productos/1004079.jpg",
+    "imagen_miniatura": "images/productos/1004079-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1004079-nutricional.jpg",
+    "ingredientes": "Masa de cacao, azúcar, cacao en polvo, manteca de cacao, emulsificante (lecitina de soya), sabor natural (vainilla). Contiene: soya. Puede contener trazas de maní, nueces de árbol y leche.",
+    "por_que_recomendarlo": "Es chocolate premium 100% colombiano gracias a la mezcla armoniosa de cacao trinitario y criollo. Esta referencia tiene un porcentaje de 65% cacao que resalta todas las características de un buen chocolate oscuro.",
     "precio_empresa_cliente": 192311,
-    "precio_sugerido_publico": 231000,
-    "imagen_miniatura": "images/productos/1004079-thumb.jpg"
+    "precio_sugerido_publico": 231000
   },
   {
     "codigo": "1004078",
