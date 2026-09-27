@@ -1875,14 +1875,14 @@
     "codigo": "1003837",
     "nombre": "Glina. JET Lyne 12bolx24undx9g",
     "categoria": "Golosinas",
-    "marca": "",
-    "imagen": "images/productos/1003837.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Incrementadores de volumen (maltitol y polidextrosa), manteca de cacao, sólidos de leche, masa de cacao, avellanas molidas, emulsiﬁcante (lecitina de soya), sal, edulcorantes artiﬁciales no calóricos (acesulfame de potasio y aspartame) y sabor artiﬁcial (etilvainillina). x Mercado saludable x Tiendas naturistas",
-    "por_que_recomendarlo": "Código PSP: $25.850 1003837 ¿POR QUÉ RECOMENDARLO? Si eres de los que quieren cuidarse y endulzar tus días de una manera deliciosa, ahora podrás disfrutar del chocolate sin limitaciones. Esto es posible con Jet Lyne, una chocolatina con el rico sabor de Jet y un 25% menos calorías.",
+    "marca": "Jet",
+    "imagen": "images/productos/1003837.jpg",
+    "imagen_miniatura": "images/productos/1003837-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1003837-nutricional.jpg",
+    "ingredientes": "Incrementadores de volumen (maltitol y polidextrosa), manteca de cacao, sólidos de leche, masa de cacao, avellanas molidas, emulsificante (lecitina de soya), sal, edulcorantes artificiales no calóricos (acesulfame de potasio y aspartame) y sabor artificial (etilvainillina).",
+    "por_que_recomendarlo": "Si eres de los que quieren cuidarse y endulzar tus días de una manera deliciosa, ahora podrás disfrutar del chocolate sin limitaciones. Esto es posible con Jet Lyne, una chocolatina con el rico sabor de Jet y un 25% menos calorías.",
     "precio_empresa_cliente": 20673,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/1003837-thumb.jpg"
+    "precio_sugerido_publico": 25850
   },
   {
     "codigo": "1063339",
