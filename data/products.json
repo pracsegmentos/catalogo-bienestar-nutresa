@@ -1798,13 +1798,13 @@
     "nombre": "Gta. TOSH Wafer Multicereal COCO Bs. x6",
     "categoria": "Galletas",
     "marca": "Tosh",
-    "imagen": "images/productos/1035439.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Mezcla multicereal (trigo, avena, maíz, arroz), grasa vegetal, ﬁbra dietaria, endulzantes, coco rallado (o sabor natural a coco), sal y lecitina de soya. x Mercado saludable",
-    "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y Código PV: $9.188 balanceada 1035439 PSP: $10.800 son el antojo liviano e indulgente ideal para disfrutar a cualquier hora. Su textura crocante combina la ligereza de una wafer multicereal con un cremoso relleno con sabor a coco, ofreciendo un equilibrio perfecto entre crocancia, practicidad y un toque tropical delicioso para tus pausas del día.",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/1035439-thumb.jpg"
+    "imagen": "images/productos/1035439.jpg",
+    "imagen_miniatura": "images/productos/1035439-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1035439-nutricional.jpg",
+    "ingredientes": "Mezcla multicereal (trigo, avena, maíz, arroz), grasa vegetal, fibra dietaria, endulzantes, coco rallado (o sabor natural a coco), sal y lecitina de soya.",
+    "por_que_recomendarlo": "Son el antojo liviano e indulgente ideal para disfrutar a cualquier hora. Su textura crocante combina la ligereza de una wafer multicereal con un cremoso relleno con sabor a coco, ofreciendo un equilibrio perfecto entre crocancia, practicidad y un toque tropical delicioso para tus pausas del día.",
+    "precio_empresa_cliente": 9188,
+    "precio_sugerido_publico": 10800
   },
   {
     "codigo": "1035440",
