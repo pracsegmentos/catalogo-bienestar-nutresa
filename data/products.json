@@ -1629,13 +1629,13 @@
     "nombre": "Canela plvo org BADIA 56.7g x 8UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017450.jpeg",
+    "imagen": "images/productos/2017450.jpg",
+    "imagen_miniatura": "images/productos/2017450-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Canela No le aplica la Resolución x Mercado saludable 810 por ser de un solo x Tiendas naturistas ingrediente y no Establecimientos deportivos contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $38.600 Omega 3, Halai (permitido comunidad musulmana) Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. Este producto es de origen directamente desde Srilanka , siendo así un ingrediente de origen y de mejor calidad. Al ser un producto natural logra un rendimiento doble vs los productos referentes del mercado. Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
+    "ingredientes": "Canela",
+    "por_que_recomendarlo": "Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. \n\nEste producto es de origen directamente desde Srilanka , siendo así un ingrediente de origen y de mejor calidad. \n\nAl ser un producto natural logra un rendimiento doble vs los productos referentes del mercado. Cuenta con certificado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 18735,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2017450-thumb.jpg"
+    "precio_sugerido_publico": 38600
   },
   {
     "codigo": "2017247",
