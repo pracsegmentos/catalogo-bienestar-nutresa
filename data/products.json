@@ -1772,13 +1772,13 @@
     "nombre": "TOSH WAFER CACAO BSX6 PE",
     "categoria": "Galletas",
     "marca": "Tosh",
-    "imagen": "images/productos/1051746.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1051746-nutricional.jpeg",
-    "ingredientes": "Harina Fortiﬁcada (Harina de Trigo (27.3%), Niacina, Hierro, Tiamina, Riboﬂavina, Ácido Fólico), Edulcorantes Artiﬁciales (Isomalt, Glucosidos de Esteviol), Grasa Vegetal (Canola, Girasol, Emulsiﬁcantes (Mono y Diglicéridos de Ácidos Grasos, Lecitina de Soja), Antioxidantes (Ascorbil Palmitato y Tocoferoles)), Almidón de Yuca, Cocoa (4.8%), Aceite Vegetal de Palma, Harina de Avena (2.7%), Salvado de Trigo (2.2%), Licor de Chocolate (1.6%), Harina de Arroz (1.4%), Agua, Emulsiﬁcante (Lecitina de Soja), Leudante (Bicarbonato de Sodio), Sal, Saborizante Natural, Antioxidante (Vitamina E), Leche en Polvo. Contiene trigo (gluten), soja, avena, leche y trazas de nueces de árbol. x Mercado saludable",
-    "por_que_recomendarlo": "Vivir en Armonía por medio de una alimentación sana y Código PV: $9.188 balanceada 1051746 PSP: $10.800 Las Galletas wafer multicereal bolsa x6 unidades, perfectas para cuidarte con un delicioso sabor a cacao y a fresa acai. Con un beneﬁcio muy importante: Sin azúcar, endulzadas con Stevia. No tienen colores ni sabores artiﬁciales. Con fruta natural, con trigo, avena y arroz.",
+    "imagen": "images/productos/1051746.jpg",
+    "imagen_miniatura": "images/productos/1051746-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1051746-nutricional.jpg",
+    "ingredientes": "Harina Fortificada (Harina de Trigo (27.3%), Niacina, Hierro, Tiamina, Riboflavina, Ácido Fólico), Edulcorantes Artificiales (Isomalt, Glucosidos de Esteviol), Grasa Vegetal (Canola, Girasol, Emulsificantes (Mono y Diglicéridos de Ácidos Grasos, Lecitina de Soja), Antioxidantes (Ascorbil Palmitato y Tocoferoles)), Almidón de Yuca, Cocoa (4.8%), Aceite Vegetal de Palma, Harina de Avena (2.7%), Salvado de Trigo (2.2%), Licor de Chocolate (1.6%), Harina de Arroz (1.4%), Agua, Emulsificante (Lecitina de Soja), Leudante (Bicarbonato de Sodio), Sal, Saborizante Natural, Antioxidante (Vitamina E), Leche en Polvo.\nContiene trigo (gluten), soja, avena, leche y trazas de nueces de árbol.",
+    "por_que_recomendarlo": "Las Galletas wafer multicereal bolsa x6 unidades, perfectas para cuidarte con un delicioso sabor a cacao y a fresa acai. Con un beneficio muy importante: Sin azúcar, endulzadas con Stevia. No tienen colores ni sabores artificiales. Con fruta natural, con trigo, avena y arroz.",
     "precio_empresa_cliente": null,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/1051746-thumb.jpg"
+    "precio_sugerido_publico": null
   },
   {
     "codigo": "1041295",
