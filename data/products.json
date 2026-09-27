@@ -1590,13 +1590,13 @@
     "nombre": "Ajo en Polvo BADIA 85.05g x 8 UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017237.jpeg",
+    "imagen": "images/productos/2017237.jpg",
+    "imagen_miniatura": "images/productos/2017237-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
     "ingredientes": "Ajo en polvo. No le aplica la Resolución x Mercado saludable 810 por ser de un solo x ingrediente y no contener aditivos adicionales",
-    "por_que_recomendarlo": "de Glutamato monosódico, Kosher Código Omega 3, Halai (permitido comunidad musulmana) El Ajo en Polvo puro de Badia transforma tu cocina con un sabor distintivo y una rica herencia de uso medicinal. Desde el primer toque, este condimento esencial realza pastas, arroces, aves, carnes, mariscos, guisos y verduras con su sabor profundo y auténtico.",
+    "por_que_recomendarlo": "El Ajo en Polvo puro de Badia transforma tu cocina con un sabor distintivo y una rica herencia de uso medicinal. Desde el primer toque, este condimento esencial realza pastas, arroces, aves, carnes, mariscos, guisos y verduras con su sabor profundo y auténtico.",
     "precio_empresa_cliente": 9200,
-    "precio_sugerido_publico": 13050,
-    "imagen_miniatura": "images/productos/2017237-thumb.jpg"
+    "precio_sugerido_publico": 13050
   },
   {
     "codigo": "2017251",
