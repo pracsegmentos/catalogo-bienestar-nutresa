@@ -1469,17 +1469,17 @@
     "precio_sugerido_publico": 11765
   },
   {
-    "codigo": "2042648-2",
+    "codigo": "2042648",
     "nombre": "Linaza Molida TOSH x 250g",
     "categoria": "Semillas y granos",
     "marca": "Tosh",
     "imagen": "images/productos/2042648-2.jpeg",
+    "imagen_miniatura": "images/productos/2042648-2-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/2042648-2-nutricional.jpeg",
     "ingredientes": "",
-    "por_que_recomendarlo": "Vivir en Armonía por medio Código de una alimentación sana y 2042648 balanceada La linaza molida Tosh es cuidado en su forma más simple. Naturalmente excelente fuente de proteína y ﬁbra, la linaza es conocida por favorecer la digestión y aportar ácidos grasos esenciales que tu cuerpo agradece todos los días. Al estar molida, se integra fácil a cualquier preparación. Mézclala en batidos, panes, tortillas y hasta tortas o wafﬂes y listo. Simple, natural y buena para ti. x Mercado saludable",
+    "por_que_recomendarlo": "La linaza molida Tosh es cuidado en su forma más simple. Naturalmente excelente fuente de proteína y fibra, la linaza es conocida por favorecer la digestión y aportar ácidos grasos esenciales que tu cuerpo agradece todos los días.\nAl estar molida, se integra fácil a cualquier preparación. Mézclala en batidos, panes, tortillas y hasta tortas o waffles y listo. Simple, natural y buena para ti.",
     "precio_empresa_cliente": 8222,
-    "precio_sugerido_publico": 10300,
-    "imagen_miniatura": "images/productos/2042648-2-thumb.jpg"
+    "precio_sugerido_publico": 10300
   },
   {
     "codigo": "2042649",
