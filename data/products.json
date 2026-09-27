@@ -1642,13 +1642,13 @@
     "nombre": "Pimenton BADIA 56.7g x 8 UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017247.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2017247-nutricional.jpeg",
-    "ingredientes": "Pimentón rojo molido (Capsicum annuum). No le aplica la Resolución x Mercado saludable 810 por ser de un solo x Tiendas naturistas ingrediente y no Establecimientos deportivos contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $38.600 Omega 3, Halai (permitido comunidad musulmana) El Pimentón Badia es un condimento indispensable que aporta un color rojo vibrante y un profundo sabor ahumado a guisos, carnes, adobos, arroces y vegetales asados. Su textura ﬁna y pureza lo convierten en el aliado perfecto para realzar el perﬁl gastronómico de cualquier preparación sin necesidad de colorantes ni saborizantes artiﬁciales.",
+    "imagen": "images/productos/2017247.jpg",
+    "imagen_miniatura": "images/productos/2017247-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2017247-nutricional.jpg",
+    "ingredientes": "Pimentón rojo molido (Capsicum annuum).",
+    "por_que_recomendarlo": "El Pimentón Badia es un condimento indispensable que aporta un color rojo vibrante y un profundo sabor ahumado a guisos, carnes, adobos, arroces y vegetales asados. Su textura fina y pureza lo convierten en el aliado perfecto para realzar el perfil gastronómico de cualquier preparación sin necesidad de colorantes ni saborizantes artificiales.",
     "precio_empresa_cliente": 18735,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2017247-thumb.jpg"
+    "precio_sugerido_publico": 38600
   },
   {
     "codigo": "2017277",
