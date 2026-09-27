@@ -2032,13 +2032,13 @@
     "nombre": "Vermicelli de Arroz Oriental Sin Gluten Arroz x 200g",
     "categoria": "Pastas Secas",
     "marca": "",
-    "imagen": "images/productos/2026249.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables Las pastas Vermicelli y Tallarines Doria Sin Gluten se elaboran a base de arroz, son libres de gluten y constituyen buenas fuentes de proteína. Son ideales para usar en preparaciones Mercado saludable inspiradas en la cocina asiática como x salteados, ensaladas o ramen. Estos x productos son aptos para veganos y están libres de sellos de advertencia",
+    "imagen": "images/productos/2026249.jpg",
+    "imagen_miniatura": "images/productos/2026249-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2026249-nutricional.jpg",
+    "ingredientes": "Harina de arroz y agua",
+    "por_que_recomendarlo": "El Vermicelli Doria Sin Gluten Arroz es una alternativa versátil, liviana y deliciosa para variar tus comidas con pasta sin preocuparte por el gluten. Es altamente recomendable por ser una pasta de origen vegetal fácil de digerir y perfecta para personas celíacas, con intolerancia o que buscan opciones más ligeras. Por su forma larga y plana, resulta ideal para preparar recetas de inspiración asiática, como salteados con verduras, soya y proteínas.",
     "precio_empresa_cliente": 6000,
-    "precio_sugerido_publico": 7500,
-    "imagen_miniatura": "images/productos/2026249-thumb.jpg"
+    "precio_sugerido_publico": 7500
   },
   {
     "codigo": "2026248",
