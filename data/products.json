@@ -1681,13 +1681,13 @@
     "nombre": "Pimienta Neg Molino BADIA 63.8g x 8UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017262.jpeg",
+    "imagen": "images/productos/2017262.jpg",
+    "imagen_miniatura": "images/productos/2017262-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Granos enteros de pimienta negra (Piper nigrum). No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $37.300 Omega 3, Halai (permitido comunidad musulmana) La Pimienta Negra Molino Badia ofrece la máxima frescura y potencia aromática al moler el grano entero al instante sobre carnes, ensaladas, pastas y sopas. Su práctico pimentero ajustable permite elegir el grosor del corte, conservando los aceites esenciales del grano para liberar un sabor intenso, penetrante y recién cosechado.",
+    "ingredientes": "Granos enteros de pimienta negra (Piper nigrum).",
+    "por_que_recomendarlo": "La Pimienta Negra Molino Badia ofrece la máxima frescura y potencia aromática al moler el grano entero al instante sobre carnes, ensaladas, pastas y sopas. Su práctico pimentero ajustable permite elegir el grosor del corte, conservando los aceites esenciales del grano para liberar un sabor intenso, penetrante y recién cosechado.",
     "precio_empresa_cliente": 29148,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2017262-thumb.jpg"
+    "precio_sugerido_publico": 37300
   },
   {
     "codigo": "2017239",
