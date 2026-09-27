@@ -1603,13 +1603,13 @@
     "nombre": "Pimienta cayena rj BADIA 49.5g x 8UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017251.jpeg",
+    "imagen": "images/productos/2017251.jpg",
+    "imagen_miniatura": "images/productos/2017251-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Pimienta roja No le aplica la Resolución x Mercado saludable 810 por ser de un solo ingrediente y no Establecimientos deportivos contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre de Glutamato monosódico, Kosher (comunidad judía), Ácidos grasos y Código PSP: $18.250 Omega 3, Halai (permitido comunidad musulmana) La pimienta cayena es conocida como un chile moderadamente picante molido. Es un producto orgánico porque No se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. Es usada para platos mexicanos Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
+    "ingredientes": "Pimienta roja",
+    "por_que_recomendarlo": "La pimienta cayena es conocida como un chile moderadamente picante molido.\nEs un producto orgánico porque No se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. \nEs usada para platos mexicanos \nCuenta con certificado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 11190,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/2017251-thumb.jpg"
+    "precio_sugerido_publico": null
   },
   {
     "codigo": "2017451",
