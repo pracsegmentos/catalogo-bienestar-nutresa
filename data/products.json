@@ -2019,13 +2019,13 @@
     "nombre": "Spaghetti DORIA Multicereal x 500g",
     "categoria": "Pastas Secas",
     "marca": "Doria",
-    "imagen": "images/productos/1001470.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1001470-nutricional.jpeg",
-    "ingredientes": "Mezcla de cereales (harina de arroz, harina de maíz, harina de avena y harina de cebada), ﬁbra prebiótica (polidextrosa), agua y mezcla de nutrientes (hierro, niacina, vitamina B1, vitamina B2, ácido fólico).",
-    "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables las pastas largas más completas, ya que contiene ﬁbra de cinco cereales: arroz, cebada, maíz, avena y trigo. Ideal para quienes buscan consumir alimentos ricos en ﬁbra para mejorar su digestión.",
+    "imagen": "images/productos/1001470.jpg",
+    "imagen_miniatura": "images/productos/1001470-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1001470-nutricional.jpg",
+    "ingredientes": "Mezcla de cereales (harina de arroz, harina de maíz, harina de avena y harina de cebada), fibra prebiótica (polidextrosa), agua y mezcla de nutrientes (hierro, niacina, vitamina B1, vitamina B2, ácido fólico).",
+    "por_que_recomendarlo": "El Spaghetti Doria integral es una de las pastas largas más completas, ya que contiene fibra de cinco cereales: arroz, cebada, maíz, avena y trigo. Ideal para quienes buscan consumir alimentos ricos en fibra para mejorar su digestión.",
     "precio_empresa_cliente": 5607,
-    "precio_sugerido_publico": 6600,
-    "imagen_miniatura": "images/productos/1001470-thumb.jpg"
+    "precio_sugerido_publico": 6600
   },
   {
     "codigo": "2026249",
