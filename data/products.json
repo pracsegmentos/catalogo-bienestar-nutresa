@@ -1443,19 +1443,6 @@
     "precio_sugerido_publico": 27300
   },
   {
-    "codigo": "2020385",
-    "nombre": "",
-    "categoria": "",
-    "marca": "",
-    "imagen": "images/productos/2020385.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2020385-nutricional.jpeg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "x Mercado saludable",
-    "precio_empresa_cliente": 21840,
-    "precio_sugerido_publico": 27300,
-    "imagen_miniatura": "images/productos/2020385-thumb.jpg"
-  },
-  {
     "codigo": "2042648",
     "nombre": "Linaza Molida TOSH x 250g",
     "categoria": "Semillas y granos",
