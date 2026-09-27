@@ -1941,13 +1941,13 @@
     "nombre": "Spaghetti DORIA Sin Gluten x 250g",
     "categoria": "Pastas Secas",
     "marca": "Doria",
-    "imagen": "images/productos/2006350.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2006350-nutricional.jpeg",
+    "imagen": "images/productos/2006350.jpg",
+    "imagen_miniatura": "images/productos/2006350-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2006350-nutricional.jpg",
     "ingredientes": "Harina de arroz, almidón de tapioca y Carboximetil celulosa (estabilizantes), cúrcuma y annatto (como colorantes naturales).",
-    "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables Son productos a base de arroz y libres de gluten, ideales para celíacos. Naturalmente libres de saturadas y aditivos. Avalados por el sello kosher (certiﬁcación de alimentación de la comunidad judía), contienen menos de 15 ppm (partes por millón) de gliadina y son libres de T.A.C.C. (sin trigo, avena, cebada y centeno), que los hacen aptos para veganos y vegetarianos. Además, ofrecen un excelente desempeño en la cocción.",
+    "por_que_recomendarlo": "La Pasta Doria Spaghetti sin Gluten es una excelente alternativa para disfrutar de una pasta tradicional sin preocuparse por las intolerancias o sensibilidades al gluten. Es altamente recomendable por ser una opción apta para celíacos y personas que buscan cuidar su digestión eliminando el trigo de su dieta, ya que está procesada en una planta especializada sin riesgo de contaminación cruzada y cumple con los estándares Codex Alimentarius. Además, aporta fibra dietaria y nutrientes como hierro y zinc sin contener azúcares añadidos ni grasas trans, manteniendo la practicidad de un spaghetti clásico fácil de preparar y combinar.",
     "precio_empresa_cliente": 8411,
-    "precio_sugerido_publico": 9900,
-    "imagen_miniatura": "images/productos/2006350-thumb.jpg"
+    "precio_sugerido_publico": 9900
   },
   {
     "codigo": "2006351",
