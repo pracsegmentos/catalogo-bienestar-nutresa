@@ -1993,13 +1993,13 @@
     "nombre": "Spaghetti DORIA Sin Gluten QuinChiax250g",
     "categoria": "Pastas Secas",
     "marca": "Doria",
-    "imagen": "images/productos/2008860.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2008860-nutricional.jpeg",
+    "imagen": "images/productos/2008860.jpg",
+    "imagen_miniatura": "images/productos/2008860-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2008860-nutricional.jpg",
     "ingredientes": "Harina de arroz, harina de quinoa (10%), chía (2,6%), almidón de tapioca, goma CMC y almidón de arroz (como estabilizantes), cúrcuma y annatto (como colorantes naturales).",
-    "por_que_recomendarlo": "Marca líder en soluciones alimenticias Código y saludables Pasta elaborada con arroz, diseñada producto se elabora con una cuidadosa selección de nuestros mejores granos ancestrales que aportan componentes esenciales para una buena nutrición y fácil digestión. Es naturalmente libre de grasas trans, azúcar y colesterol.",
+    "por_que_recomendarlo": "Pasta elaborada con arroz, diseñada para personas sensibles al gluten. Este producto se elabora con una cuidadosa selección de nuestros mejores granos ancestrales que aportan componentes esenciales para una buena nutrición y fácil digestión. Es naturalmente libre de grasas trans, azúcar y colesterol.",
     "precio_empresa_cliente": 10878,
-    "precio_sugerido_publico": 12800,
-    "imagen_miniatura": "images/productos/2008860-thumb.jpg"
+    "precio_sugerido_publico": 12800
   },
   {
     "codigo": "2024698",
