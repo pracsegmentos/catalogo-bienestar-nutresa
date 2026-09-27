@@ -2055,16 +2055,16 @@
   },
   {
     "codigo": "1080268",
-    "nombre": "Spaghetti MONTICELLO Integral x 500g / Penne Rigate Integral MONTICELLO x 500g",
+    "nombre": "Spaghetti MONTICELLO Integral x 500g",
     "categoria": "Pastas Secas",
     "marca": "Monticello",
-    "imagen": "images/productos/1080268.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
+    "imagen": "images/productos/1080268.jpg",
+    "imagen_miniatura": "images/productos/1080268-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1080268-nutricional.jpg",
     "ingredientes": "",
-    "por_que_recomendarlo": "Ingredientes de calidad, sabor y desempeño superior ¿POR QUÉ RECOMENDARLAS? Código PSP: $9.100",
+    "por_que_recomendarlo": "El Spaghetti Integral Monticello es una excelente opción para disfrutar de una pasta nutritiva, ligera y de textura firme en tus comidas diarias. Es altamente recomendable por su alto contenido de fibra dietaria, lo que favorece el tránsito intestinal, contribuye a la salud digestiva y proporciona una sensación de saciedad más duradera. Además, es un producto bajo en grasa, sin azúcares añadidos ni grasas trans, ideal para combinar con salsas ligeras, abundantes vegetales, proteínas o quesos bajos en grasa.",
     "precio_empresa_cliente": 7497,
-    "precio_sugerido_publico": 9100,
-    "imagen_miniatura": "images/productos/1080268-thumb.jpg"
+    "precio_sugerido_publico": 9100
   },
   {
     "codigo": "1080269",
