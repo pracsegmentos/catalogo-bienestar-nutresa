@@ -1616,13 +1616,13 @@
     "nombre": "Cúrcuma orgánica BADIA 56.7g x 8UND",
     "categoria": "Especias",
     "marca": "Badia",
-    "imagen": "images/productos/2017451.jpeg",
+    "imagen": "images/productos/2017451.jpg",
+    "imagen_miniatura": "images/productos/2017451-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Cúrcuma x No le aplica la Resolución 810 por ser de un solo x Tiendas naturistas ingrediente y no contener aditivos adicionales",
-    "por_que_recomendarlo": "6 sellos (Gluten Free, Orgánico, Libre (comunidad judía), Ácidos grasos y Código Omega 3, Halai (permitido comunidad musulmana) La cúrcuma, especia de color brillante es de uso común en platos del sur de Asia y Medio Oriente. Da un toque exótico a platos de aves, vegetales y arroz. Es un ingrediente esencial para los curris y las mostazas. Es un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. La cúrcuma se utiliza para realizar la leche dorada, es de uso común , da un toque exótico a platos de aves , vegetales y arroz. Cuenta con certiﬁcado de Kosher, es decir, es un producto puro y libre de gluten.",
+    "ingredientes": "Cúrcuma",
+    "por_que_recomendarlo": "La cúrcuma, especia de color brillante es de uso común en platos del sur de Asia y Medio Oriente. Da un toque exótico a platos de aves, vegetales y arroz. Es un ingrediente esencial para los curris y las mostazas.\n\nEs un producto orgánico porque no se pueden utilizar fertilizantes sintéticos, lodos residuales, irradiación ni ingeniería genética, lo que lo hace natural. \n\nLa cúrcuma se utiliza para realizar la leche dorada, es de uso común , da un toque exótico a platos de aves , vegetales y arroz. Cuenta con certificado de Kosher, es decir, es un producto puro y libre de gluten.",
     "precio_empresa_cliente": 17936,
-    "precio_sugerido_publico": 29100,
-    "imagen_miniatura": "images/productos/2017451-thumb.jpg"
+    "precio_sugerido_publico": 29100
   },
   {
     "codigo": "2017450",
