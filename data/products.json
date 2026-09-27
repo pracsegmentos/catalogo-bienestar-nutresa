@@ -1927,14 +1927,14 @@
     "codigo": "1046879",
     "nombre": "Pasab.LA ESPECIAL mezcla 8plex24undx40g",
     "categoria": "Snacks Saludables",
-    "marca": "",
-    "imagen": "images/productos/1046879.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "",
-    "por_que_recomendarlo": "Código PSP: $74.400 Mani La Especial. Mezcla de Nueces x 40 gr. Mezcla de nueces: Mani, almendra, marañones. El snack ideal para calmar el hambre en cualquier lugar con algo bueno para ti, presentación ideal para compartir.",
+    "marca": "La Especial",
+    "imagen": "images/productos/1046879.jpg",
+    "imagen_miniatura": "images/productos/1046879-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1046879-nutricional.jpg",
+    "ingredientes": "Esta mezcla está compuesta por una selección de maní, almendras y marañones.",
+    "por_que_recomendarlo": "El Maní La Especial Mezcla de Nueces x 40 gr es una excelente opción de snack práctico y saciante para llevar a cualquier parte y calmar el hambre de forma balanceada. Es altamente recomendable por combinar los beneficios nutricionales de tres frutos secos clave, ofreciendo un gran aporte de proteína vegetal, fibra dietaria, grasas saludables y minerales esenciales que contribuyen a mantener la energía durante el día y favorecen la salud digestiva.",
     "precio_empresa_cliente": 59518,
-    "precio_sugerido_publico": null,
-    "imagen_miniatura": "images/productos/1046879-thumb.jpg"
+    "precio_sugerido_publico": 74400
   },
   {
     "codigo": "2006350",
