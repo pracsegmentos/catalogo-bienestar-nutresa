@@ -1977,16 +1977,16 @@
   },
   {
     "codigo": "2024696",
-    "nombre": "Lasagna Feston DORIA Glute Free x 200g",
+    "nombre": "Lasagna Feston DORIA Glute Free x 200g (Producto en racionalización)",
     "categoria": "Pastas Secas",
     "marca": "Doria",
-    "imagen": "images/productos/2024696.jpeg",
-    "imagen_tabla_nutricional": "images/productos/2024696-nutricional.jpeg",
-    "ingredientes": "Harina de arroz, harina de maíz y harina de quinua. *Producto en racionalización*",
+    "imagen": "images/productos/2024696.jpg",
+    "imagen_miniatura": "images/productos/2024696-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2024696-nutricional.jpg",
+    "ingredientes": "Harina de arroz, harina de maíz y harina de quinua.",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables permite disfrutar de una comida clásica y reconfortante con una excelente digestibilidad, siendo la opción perfecta para personas celíacas o sensibles al gluten. Gracias a su combinación de cereales y granos, aporta carbohidratos de absorción gradual que brindan energía constante, además de ﬁbra que favorece la salud intestinal y ayuda a mantener la saciedad por más tiempo.",
     "precio_empresa_cliente": 15200,
-    "precio_sugerido_publico": 18900,
-    "imagen_miniatura": "images/productos/2024696-thumb.jpg"
+    "precio_sugerido_publico": 18900
   },
   {
     "codigo": "2008860",
