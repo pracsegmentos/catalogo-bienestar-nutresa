@@ -1889,13 +1889,13 @@
     "nombre": "Glina. LYNE Leche 24plegx18unx6gr",
     "categoria": "Golosinas",
     "marca": "",
-    "imagen": "images/productos/1063339.jpeg",
-    "imagen_tabla_nutricional": "images/productos/1063339-nutricional.jpeg",
-    "ingredientes": "Maltitol, manteca de cacao, sólidos de leche, masa de cacao, avellanas molidas, emulsiﬁcante (lecitina de soya), sal, edulcorantes artiﬁciales no calóricos y sabor artiﬁcial vainilla. x Mercado saludable x Tiendas naturistas",
+    "imagen": "images/productos/1063339.jpg",
+    "imagen_miniatura": "images/productos/1063339-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/1063339-nutricional.jpg",
+    "ingredientes": "Maltitol, manteca de cacao, sólidos de leche, masa de cacao, avellanas molidas, emulsificante (lecitina de soya), sal, edulcorantes artificiales no calóricos y sabor artificial vainilla.",
     "por_que_recomendarlo": "No te quedes con las ganas y pruébame. Seguro te voy a encantar, porque soy esa barrita de chocolate con leche que puedes llevar y disfrutar fácilmente donde y cuando quieras gracias a mi tamaño.",
     "precio_empresa_cliente": 13750,
-    "precio_sugerido_publico": 16800,
-    "imagen_miniatura": "images/productos/1063339-thumb.jpg"
+    "precio_sugerido_publico": 16800
   },
   {
     "codigo": "1057140",
