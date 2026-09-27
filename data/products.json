@@ -2044,14 +2044,14 @@
     "codigo": "2026248",
     "nombre": "Tallarines de Arroz Oriental Sin Gluten Arroz x 400g",
     "categoria": "Pastas Secas",
-    "marca": "",
-    "imagen": "images/productos/2026248.jpeg",
-    "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
-    "ingredientes": "Arroz y Agua",
-    "por_que_recomendarlo": "Marca líder en Código soluciones alimenticias 2026248 y saludables",
+    "marca": "Doria",
+    "imagen": "images/productos/2026248.jpg",
+    "imagen_miniatura": "images/productos/2026248-thumb.jpg",
+    "imagen_tabla_nutricional": "images/productos/2026248-nutricional.jpg",
+    "ingredientes": "Harina de arroz y agua",
+    "por_que_recomendarlo": "El Tallarín Doria Sin Gluten Arroz es una excelente alternativa para disfrutar de una pasta larga, suave y liviana sin preocuparte por el gluten. Es altamente recomendable por ser una opción naturalmente libre de gluten, fácil de digerir y perfecta tanto para personas celíacas o con intolerancias como para quienes buscan opciones más ligeras en su alimentación diaria. Por su corte plano y alargado, resulta ideal para preparar platos variados como pastas tradicionales con salsas o recetas de inspiración asiática salteadas con verduras y proteínas.",
     "precio_empresa_cliente": 8327,
-    "precio_sugerido_publico": 10900,
-    "imagen_miniatura": "images/productos/2026248-thumb.jpg"
+    "precio_sugerido_publico": 10900
   },
   {
     "codigo": "1080268",
