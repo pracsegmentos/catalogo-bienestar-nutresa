@@ -155,6 +155,9 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("modal-overlay").addEventListener("click", (e) => {
     if (e.target.id === "modal-overlay") cerrarFicha();
   });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") cerrarFicha();
+  });
 });
 
 if ("serviceWorker" in navigator) {
