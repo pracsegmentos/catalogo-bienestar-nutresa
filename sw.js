@@ -1,4 +1,4 @@
-const VERSION = "v5";
+const VERSION = "v6";
 const SHELL_CACHE = `bienestar-shell-${VERSION}`;
 const IMG_CACHE = `bienestar-imgs-${VERSION}`;
 
@@ -62,17 +62,27 @@ self.addEventListener("activate", (event) => {
   );
 });
 
-async function cacheFirst(req, cacheName) {
+// Responde al instante con lo que ya hay guardado (rápido, funciona sin
+// internet), pero de una vez pide la versión actual en segundo plano y
+// actualiza la caché para la próxima vez — así una foto corregida se
+// autoreemplaza sola la siguiente vez que se abra, sin tener que borrar
+// caché a mano.
+async function staleWhileRevalidate(event, cacheName) {
+  const req = event.request;
   const cache = await caches.open(cacheName);
   const cached = await cache.match(req);
+  const fetchAndUpdate = fetch(req)
+    .then((res) => {
+      if (res.ok) cache.put(req, res.clone());
+      return res;
+    })
+    .catch(() => null);
+  // Mantiene viva la actualización en segundo plano aunque ya hayamos
+  // respondido con la versión en caché.
+  event.waitUntil(fetchAndUpdate);
   if (cached) return cached;
-  try {
-    const res = await fetch(req);
-    if (res.ok) cache.put(req, res.clone());
-    return res;
-  } catch (e) {
-    return cached || Response.error();
-  }
+  const res = await fetchAndUpdate;
+  return res || Response.error();
 }
 
 async function networkFirst(req, cacheName) {
@@ -101,8 +111,8 @@ self.addEventListener("fetch", (event) => {
     return;
   }
   if (url.pathname.includes("/images/")) {
-    event.respondWith(cacheFirst(req, IMG_CACHE));
+    event.respondWith(staleWhileRevalidate(event, IMG_CACHE));
     return;
   }
-  event.respondWith(cacheFirst(req, SHELL_CACHE));
+  event.respondWith(staleWhileRevalidate(event, SHELL_CACHE));
 });
