@@ -626,15 +626,15 @@
   {
     "codigo": "1080785",
     "nombre": "Capsulas BENET Mujer 24un x 30caps",
-    "categoria": "Tabletas",
+    "categoria": "Cápsula",
     "marca": "BÉNET",
     "imagen": "images/productos/1080785.jpg",
+    "imagen_miniatura": "images/productos/1080785-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1080785-nutricional.jpg",
     "ingredientes": "Cada cápsula contiene: Vitamina A 1500 mcg, Vitamina C 35 mg, Nicotinamida 15 mg, Vitamina D3 10 mcg, Calcio 58.8 mg, Magnesio 30.3 mg, Hierro 18 mg, Vitamina B12 6 mcg, Vitamina B1 1.5 mg, Vitamina B6 2.0 mg, Vitamina B2 1.24 mg, Ácido Pantoténico 10 mg, Fósforo 45.5 mg, Zinc 15 mg.",
     "por_que_recomendarlo": "Las Cápsulas Multivitamínicas para Mujer de Bénet están diseñadas para apoyar la salud femenina de manera integral, aportando calcio y vitamina D3 para fortalecer huesos y dientes, ayudando a prevenir la pérdida de densidad ósea a largo plazo. Además, incluyen hierro para mantener óptimos niveles de energía y evitar la fatiga transportando oxígeno en el cuerpo, así como vitamina C, la cual actúa como un potente antioxidante que favorece la absorción del hierro y estimula la producción de colágeno para beneficiar la elasticidad de la piel, la salud del cabello y la firmeza de las articulaciones.",
     "precio_empresa_cliente": 29520,
-    "precio_sugerido_publico": 36900,
-    "imagen_miniatura": "images/productos/1080785-thumb.jpg"
+    "precio_sugerido_publico": 36900
   },
   {
     "codigo": "2037217",
