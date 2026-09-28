@@ -590,12 +590,12 @@
     "categoria": "Cápsulas",
     "marca": "BÉNET",
     "imagen": "images/productos/2019272.jpg",
+    "imagen_miniatura": "images/productos/2019272-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/2019272-nutricional.jpg",
     "ingredientes": "Ácidos Omega 3, aromatizante (aceite de limón), antioxidante (vitamina E-567 natural), formador de pelicula (gelatina), plastificante (solución sorbitol-sorbitán (SPI)), plastificante (glicerina), agua purificada USP.\n\nAceite obtenido a partir de las especies marinas: Engraulis ringens, Trachurus trachurus, Scomber scombrus y Sardina pilchardus.",
     "por_que_recomendarlo": "Estas gomas de Bénet combina las bondades de los ácidos grasos Omega 3 (EPA y DHA) con las propiedades del Zinc, ofreciendo un suplemento nutricional diseñado para proteger la salud cardiovascular y reforzar las defensas del sistema inmunológico. Gracias a su agradable sabor natural a limón y manzana, constituyen una alternativa práctica y fácil de consumir para complementar la alimentación diaria de los adultos, favoreciendo el bienestar general del organismo.",
     "precio_empresa_cliente": 39920,
-    "precio_sugerido_publico": 49900,
-    "imagen_miniatura": "images/productos/2019272-thumb.jpg"
+    "precio_sugerido_publico": 49900
   },
   {
     "codigo": "2019773",
@@ -1068,7 +1068,7 @@
   {
     "codigo": "2030794",
     "nombre": "Aceite de Coco Virg MONTICELLO X 110mL",
-    "categoria": "Aceites",
+    "categoria": "Aceite",
     "marca": "Monticello",
     "imagen": "images/productos/2030794.jpg",
     "imagen_miniatura": "images/productos/2030794-thumb.jpg",
@@ -2069,7 +2069,7 @@
   {
     "codigo": "1080269",
     "nombre": "Monticello Penne Rigate Integral x 500 g",
-    "categoria": "Pastas Secas",
+    "categoria": "Pastas secas",
     "marca": "Monticello",
     "imagen": "images/productos/1080269.jpg",
     "imagen_miniatura": "images/productos/1080269-thumb.jpg",
