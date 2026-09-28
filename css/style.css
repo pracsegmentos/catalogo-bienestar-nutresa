@@ -25,11 +25,10 @@ body {
 header.topbar {
   background: linear-gradient(90deg, var(--color-accent), var(--color-primary));
   color: #fff;
-  padding: 16px 20px;
+  padding: 26px 28px;
   display: flex;
   align-items: center;
-  justify-content: center;
-  text-align: center;
+  justify-content: flex-start;
   gap: 12px;
   position: sticky;
   top: 0;
@@ -40,24 +39,33 @@ header.topbar {
 header.topbar .brand {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 14px;
+  justify-content: flex-start;
+  gap: 18px;
   font-weight: 700;
   font-size: 1.1rem;
+  text-align: left;
 }
 
 header.topbar .brand-logo {
-  height: 34px;
-  padding: 6px 12px;
+  height: 56px;
+  padding: 10px 16px;
   background: #ffffff;
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+}
+
+header.topbar .brand-title {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
 }
 
 header.topbar .brand small {
   display: block;
   font-weight: 400;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   opacity: 0.9;
 }
 
