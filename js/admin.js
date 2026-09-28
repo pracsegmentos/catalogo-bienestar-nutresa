@@ -149,6 +149,7 @@ function openProduct(codigo) {
   form.nombre.value = p.nombre || "";
   form.categoria.value = p.categoria || "";
   form.marca.value = p.marca || "";
+  form.nota.value = p.nota || "";
   form.precio_empresa_cliente.value = p.precio_empresa_cliente ?? "";
   form.precio_sugerido_publico.value = p.precio_sugerido_publico ?? "";
   form.ingredientes.value = p.ingredientes || "";
@@ -263,6 +264,7 @@ async function handleSave(e) {
         nombre: form.nombre.value.trim(),
         categoria: form.categoria.value.trim(),
         marca: form.marca.value.trim(),
+        nota: form.nota.value.trim(),
         imagen: fotoProducto?.path || existing?.imagen || "images/placeholder.svg",
         imagen_miniatura: fotoProducto?.thumbPath || existing?.imagen_miniatura || existing?.imagen || "images/placeholder.svg",
         imagen_tabla_nutricional:

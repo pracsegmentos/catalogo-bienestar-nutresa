@@ -85,6 +85,7 @@ function tarjetaHtml(p) {
     <article class="card" data-codigo="${p.codigo}">
       <div class="card-image">
         <img src="${p.imagen_miniatura || p.imagen}" alt="${p.nombre}" loading="lazy" decoding="async" />
+        ${p.nota ? `<span class="nota-badge">${p.nota}</span>` : ""}
       </div>
       <div class="card-body">
         <span class="tag">${p.categoria || "Sin categoría"}</span>
@@ -183,6 +184,7 @@ function abrirFicha(codigo) {
     </div>
     <div>
       <span class="tag">${p.categoria || "Sin categoría"}</span>
+      ${p.nota ? `<span class="nota-badge">${p.nota}</span>` : ""}
       <h2>${p.nombre}</h2>
       <div class="marca">${p.marca || "Marca sin identificar"} · Código ${p.codigo}</div>
 

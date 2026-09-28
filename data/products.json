@@ -248,7 +248,7 @@
   },
   {
     "codigo": "1070410",
-    "nombre": "Spirute Puriﬁcante Naturela x21g (Bogotá)",
+    "nombre": "Spirute Puriﬁcante Naturela x21g",
     "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1070410.jpg",
@@ -257,7 +257,8 @@
     "por_que_recomendarlo": "Nuestro SpiruTé puriﬁcante es una mezcla de ingredientes con antioxidantes que ayudan a promover tu bienestar Disponible únicamente para Bogotá general, brindándote una sensación de vitalidad. ● Energía natural ● Apoyo a la digestión ● Sabor refrescante ● Beneﬁcios Antioxidantes",
     "precio_empresa_cliente": 9100,
     "precio_sugerido_publico": 13000,
-    "imagen_miniatura": "images/productos/1070410-thumb.jpg"
+    "imagen_miniatura": "images/productos/1070410-thumb.jpg",
+    "nota": "Bogotá"
   },
   {
     "codigo": "1089825",
@@ -1964,7 +1965,7 @@
   },
   {
     "codigo": "2024697",
-    "nombre": "Codos DORIA Arroz y lentejas x220g (Producto en racionalización)",
+    "nombre": "Codos DORIA Arroz y lentejas x220g",
     "categoria": "Pastas Secas",
     "marca": "Doria",
     "imagen": "images/productos/2024697.jpg",
@@ -1973,11 +1974,12 @@
     "ingredientes": "Harina de arroz y harina de lenteja.",
     "por_que_recomendarlo": "La Pasta Doria Codos Sin Gluten Arroz y Lentejas es una excelente alternativa para disfrutar de una pasta deliciosa, nutritiva y totalmente libre de gluten. Es altamente recomendable por combinar los beneficios del arroz integral y la harina de lentejas, lo que la convierte en una excelente fuente de fibra dietaria y una buena fuente de proteína vegetal de alto valor nutricional. Su perfil es ideal para personas celíacas, con intolerancia al gluten o para quienes buscan una alimentación más variada y ligera, manteniendo la versatilidad de los codos tradicionales para acompañar con cualquier tipo de salsa o preparación.",
     "precio_empresa_cliente": 11894,
-    "precio_sugerido_publico": 14868
+    "precio_sugerido_publico": 14868,
+    "nota": "Racionalización"
   },
   {
     "codigo": "2024696",
-    "nombre": "Lasagna Feston DORIA Glute Free x 200g (Producto en racionalización)",
+    "nombre": "Lasagna Feston DORIA Glute Free x 200g",
     "categoria": "Pastas Secas",
     "marca": "Doria",
     "imagen": "images/productos/2024696.jpg",
@@ -1986,7 +1988,8 @@
     "ingredientes": "Harina de arroz, harina de maíz y harina de quinua.",
     "por_que_recomendarlo": "Marca líder en soluciones alimenticias y saludables permite disfrutar de una comida clásica y reconfortante con una excelente digestibilidad, siendo la opción perfecta para personas celíacas o sensibles al gluten. Gracias a su combinación de cereales y granos, aporta carbohidratos de absorción gradual que brindan energía constante, además de ﬁbra que favorece la salud intestinal y ayuda a mantener la saciedad por más tiempo.",
     "precio_empresa_cliente": 15200,
-    "precio_sugerido_publico": 18900
+    "precio_sugerido_publico": 18900,
+    "nota": "Racionalización"
   },
   {
     "codigo": "2008860",
@@ -2003,7 +2006,7 @@
   },
   {
     "codigo": "2024698",
-    "nombre": "Macarrones DORIA SG Quinoa chia x 250g (Producto en racionalización)",
+    "nombre": "Macarrones DORIA SG Quinoa chia x 250g",
     "categoria": "Pastas Secas",
     "marca": "Doria",
     "imagen": "images/productos/2024698.jpg",
@@ -2012,7 +2015,8 @@
     "ingredientes": "Harina de maíz, harina de arroz, harina de quinua, semillas de chía y fortiﬁcantes.",
     "por_que_recomendarlo": "La Pasta Doria Macarrones Sin Gluten Quinoa Chia es una excelente opción para disfrutar de unos macarrones nutritivos y ligeros sin preocuparse por la presencia de gluten. Es altamente recomendable por estar elaborada con súper alimentos como la quinua y la chía, lo que la convierte en una buena fuente de fibra dietaria y proteína de origen vegetal para apoyar la salud digestiva y brindar una energía más sostenible. Es perfecta para personas celíacas, con intolerancia al gluten o que buscan alternativas más variadas a la pasta tradicional.",
     "precio_empresa_cliente": 10878,
-    "precio_sugerido_publico": 12800
+    "precio_sugerido_publico": 12800,
+    "nota": "Racionalización"
   },
   {
     "codigo": "1001470",

@@ -196,6 +196,30 @@ header.topbar .brand small {
 
 .card .card-image {
   padding: 14px 14px 0;
+  position: relative;
+}
+
+.nota-badge {
+  display: inline-block;
+  background: #D3302F;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+
+.card-image .nota-badge {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.modal-content .nota-badge {
+  margin-left: 6px;
 }
 
 .card img {
