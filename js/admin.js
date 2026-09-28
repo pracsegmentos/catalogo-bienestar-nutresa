@@ -90,10 +90,32 @@ async function loadProducts() {
   renderList();
 }
 
-async function saveProducts(message) {
-  const content = utf8ToBase64(JSON.stringify(products, null, 2));
-  const result = await putFileWithRetry(DATA_PATH, content, message);
-  productsSha = result.content.sha;
+async function fetchLatestProducts() {
+  const file = await ghGetFile(DATA_PATH);
+  return { list: JSON.parse(base64ToUtf8(file.content)), sha: file.sha };
+}
+
+// Siempre relee la última versión justo antes de guardar (en vez de reenviar
+// la copia que se cargó al abrir la pestaña), para no pisar cambios hechos
+// por otra persona, otra pestaña, o directo en GitHub mientras esta pestaña
+// seguía abierta.
+async function guardarConMerge(construirLista, message, maxAttempts = 4) {
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const { list, sha } = await fetchLatestProducts();
+    const nuevaLista = construirLista(list);
+    if (nuevaLista === null) return null; // el llamador canceló (ej: código duplicado)
+    const content = utf8ToBase64(JSON.stringify(nuevaLista, null, 2));
+    try {
+      const result = await ghPutFile(DATA_PATH, content, message, sha);
+      products = nuevaLista;
+      productsSha = result.content.sha;
+      return nuevaLista;
+    } catch (err) {
+      const isConflict = /does not match|sha/i.test(err.message);
+      if (!isConflict || attempt === maxAttempts) throw err;
+      await sleep(300 * attempt);
+    }
+  }
 }
 
 function renderList(filter = "") {
@@ -217,11 +239,6 @@ async function handleSave(e) {
     status.textContent = "Código y nombre son obligatorios.";
     return;
   }
-  const codigoEnUso = products.some((p) => p.codigo === codigo && p.codigo !== currentCodigo);
-  if (codigoEnUso) {
-    status.textContent = "Ya existe otro producto con ese código.";
-    return;
-  }
 
   isSaving = true;
   btn.disabled = true;
@@ -230,31 +247,44 @@ async function handleSave(e) {
     const fotoProducto = await uploadImageIfNeeded("file-imagen", codigo, "", { withThumb: true });
     const fotoNutricional = await uploadImageIfNeeded("file-imagen-nutricional", codigo, "-nutricional");
 
-    const existing = currentCodigo ? products.find((p) => p.codigo === currentCodigo) : null;
+    let duplicado = false;
+    const message = `${currentCodigo ? "Actualizar" : "Agregar"} producto ${codigo}`;
 
-    const updated = {
-      codigo,
-      nombre: form.nombre.value.trim(),
-      categoria: form.categoria.value.trim(),
-      marca: form.marca.value.trim(),
-      imagen: fotoProducto?.path || existing?.imagen || "images/placeholder.svg",
-      imagen_miniatura: fotoProducto?.thumbPath || existing?.imagen_miniatura || existing?.imagen || "images/placeholder.svg",
-      imagen_tabla_nutricional:
-        fotoNutricional?.path || existing?.imagen_tabla_nutricional || "images/placeholder-nutricion.svg",
-      ingredientes: form.ingredientes.value.trim(),
-      por_que_recomendarlo: form.por_que_recomendarlo.value.trim(),
-      precio_empresa_cliente: form.precio_empresa_cliente.value === "" ? null : Number(form.precio_empresa_cliente.value),
-      precio_sugerido_publico: form.precio_sugerido_publico.value === "" ? null : Number(form.precio_sugerido_publico.value),
-    };
+    await guardarConMerge((list) => {
+      const codigoEnUso = list.some((p) => p.codigo === codigo && p.codigo !== currentCodigo);
+      if (codigoEnUso) {
+        duplicado = true;
+        return null;
+      }
+      const existing = currentCodigo ? list.find((p) => p.codigo === currentCodigo) : null;
 
-    if (currentCodigo) {
-      const idx = products.findIndex((p) => p.codigo === currentCodigo);
-      products[idx] = updated;
-    } else {
-      products.push(updated);
+      const updated = {
+        codigo,
+        nombre: form.nombre.value.trim(),
+        categoria: form.categoria.value.trim(),
+        marca: form.marca.value.trim(),
+        imagen: fotoProducto?.path || existing?.imagen || "images/placeholder.svg",
+        imagen_miniatura: fotoProducto?.thumbPath || existing?.imagen_miniatura || existing?.imagen || "images/placeholder.svg",
+        imagen_tabla_nutricional:
+          fotoNutricional?.path || existing?.imagen_tabla_nutricional || "images/placeholder-nutricion.svg",
+        ingredientes: form.ingredientes.value.trim(),
+        por_que_recomendarlo: form.por_que_recomendarlo.value.trim(),
+        precio_empresa_cliente: form.precio_empresa_cliente.value === "" ? null : Number(form.precio_empresa_cliente.value),
+        precio_sugerido_publico: form.precio_sugerido_publico.value === "" ? null : Number(form.precio_sugerido_publico.value),
+      };
+
+      const nuevaLista = [...list];
+      const idx = currentCodigo ? nuevaLista.findIndex((p) => p.codigo === currentCodigo) : -1;
+      if (idx >= 0) nuevaLista[idx] = updated;
+      else nuevaLista.push(updated);
+      return nuevaLista;
+    }, message);
+
+    if (duplicado) {
+      status.textContent = "Ya existe otro producto con ese código.";
+      return;
     }
 
-    await saveProducts(`${currentCodigo ? "Actualizar" : "Agregar"} producto ${codigo}`);
     currentCodigo = codigo;
     status.textContent = "Guardado. El sitio se actualiza en 1-2 minutos.";
     renderList(document.getElementById("admin-buscador").value);
@@ -272,8 +302,7 @@ async function handleDelete() {
   const status = document.getElementById("form-status");
   status.textContent = "Eliminando...";
   try {
-    products = products.filter((p) => p.codigo !== currentCodigo);
-    await saveProducts(`Eliminar producto ${currentCodigo}`);
+    await guardarConMerge((list) => list.filter((p) => p.codigo !== currentCodigo), `Eliminar producto ${currentCodigo}`);
     document.getElementById("admin-form-box").hidden = true;
     currentCodigo = null;
     renderList(document.getElementById("admin-buscador").value);
