@@ -1,4 +1,4 @@
-const VERSION = "v3";
+const VERSION = "v4";
 const SHELL_CACHE = `bienestar-shell-${VERSION}`;
 const IMG_CACHE = `bienestar-imgs-${VERSION}`;
 
@@ -10,6 +10,7 @@ const SHELL_FILES = [
   "./manifest.json",
   "./images/placeholder.svg",
   "./images/placeholder-nutricion.svg",
+  "./images/logo-nutresa.png",
 ];
 
 self.addEventListener("install", (event) => {

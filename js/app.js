@@ -32,9 +32,16 @@ function poblarFiltros() {
   });
 }
 
+const ORDEN_MARCAS_PRIORIDAD = ["bénet", "benet", "haka", "naturela"];
+
+function prioridadMarca(marca) {
+  const idx = ORDEN_MARCAS_PRIORIDAD.indexOf((marca || "").toLowerCase());
+  return idx === -1 ? ORDEN_MARCAS_PRIORIDAD.length : idx;
+}
+
 function productosFiltrados() {
   const texto = state.filtroTexto.trim().toLowerCase();
-  return state.productos.filter((p) => {
+  const lista = state.productos.filter((p) => {
     const coincideTexto =
       !texto ||
       p.nombre.toLowerCase().includes(texto) ||
@@ -42,6 +49,14 @@ function productosFiltrados() {
       p.marca.toLowerCase().includes(texto);
     const coincideMarca = !state.filtroMarca || p.marca === state.filtroMarca;
     return coincideTexto && coincideMarca;
+  });
+
+  return lista.sort((a, b) => {
+    const prioridad = prioridadMarca(a.marca) - prioridadMarca(b.marca);
+    if (prioridad !== 0) return prioridad;
+    const marca = (a.marca || "").localeCompare(b.marca || "", "es");
+    if (marca !== 0) return marca;
+    return (a.nombre || "").localeCompare(b.nombre || "", "es");
   });
 }
 
