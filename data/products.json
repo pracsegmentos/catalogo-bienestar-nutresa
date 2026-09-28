@@ -171,7 +171,7 @@
   {
     "codigo": "1079389",
     "nombre": "Bebida de cúrcuma para diluir x120ml",
-    "categoria": "Bebidas para diluir",
+    "categoria": "Bebidas para Diluir",
     "marca": "Naturela",
     "imagen": "images/productos/1079389.png",
     "imagen_tabla_nutricional": "images/productos/1079389-nutricional.webp",
@@ -197,7 +197,7 @@
   {
     "codigo": "1089827",
     "nombre": "Spirute.NATURELA.curcumax10und",
-    "categoria": "Infusiones y tés",
+    "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1089827.jpg",
     "imagen_tabla_nutricional": "images/productos/1089827-nutricional.jpeg",
@@ -210,7 +210,7 @@
   {
     "codigo": "1058057",
     "nombre": "Spirute.Curcuma.NATURELA.Pl x20 X30g",
-    "categoria": "Infusiones y tés",
+    "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1058057.jpg",
     "imagen_tabla_nutricional": "images/productos/1058057-nutricional.jpg",
@@ -223,7 +223,7 @@
   {
     "codigo": "1077744",
     "nombre": "Spirute NATURELA surtidoVRCx20und",
-    "categoria": "Infusiones y tés",
+    "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1077744.jpg",
     "imagen_tabla_nutricional": "images/productos/1077744-nutricional.jpg",
@@ -236,7 +236,7 @@
   {
     "codigo": "1089826",
     "nombre": "Spirute.NATURELA.matcha x10 und",
-    "categoria": "Infusiones y tés",
+    "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1089826.jpg",
     "imagen_tabla_nutricional": "images/productos/1089826-nutricional.jpg",
@@ -249,7 +249,7 @@
   {
     "codigo": "1070410",
     "nombre": "Spirute Puriﬁcante Naturela x21g (Bogotá)",
-    "categoria": "Infusiones y tés",
+    "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1070410.jpg",
     "imagen_tabla_nutricional": "images/productos/1070410-nutricional.jpg",
@@ -262,7 +262,7 @@
   {
     "codigo": "1089825",
     "nombre": "Spirute.NATURELA.manzanillax10und",
-    "categoria": "Infusiones y tés",
+    "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1089825.jpeg",
     "imagen_tabla_nutricional": "images/productos/1089825-nutricional.jpeg",
@@ -275,7 +275,7 @@
   {
     "codigo": "1089828",
     "nombre": "Spirute.NATURELA.verdex10und",
-    "categoria": "Infusiones y tés",
+    "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1089828.jpg",
     "imagen_tabla_nutricional": "images/productos/1089828-nutricional.jpg",
@@ -626,7 +626,7 @@
   {
     "codigo": "1080785",
     "nombre": "Capsulas BENET Mujer 24un x 30caps",
-    "categoria": "Cápsula",
+    "categoria": "Cápsulas",
     "marca": "BÉNET",
     "imagen": "images/productos/1080785.jpg",
     "imagen_miniatura": "images/productos/1080785-thumb.jpg",
@@ -886,7 +886,7 @@
   {
     "codigo": "2024663",
     "nombre": "Esencia Floral Enfoque 20udsx30ml",
-    "categoria": "Esencia",
+    "categoria": "Esencias",
     "marca": "Haka",
     "imagen": "images/productos/2024663.jpg",
     "imagen_miniatura": "images/productos/2024663-thumb.jpg",
@@ -912,7 +912,7 @@
   {
     "codigo": "2024665",
     "nombre": "Esencia Floral Cntl Emociones 20udsx30ml",
-    "categoria": "Esencia",
+    "categoria": "Esencias",
     "marca": "Haka",
     "imagen": "images/productos/2024665.jpg",
     "imagen_miniatura": "images/productos/2024665-thumb.jpg",
@@ -1068,7 +1068,7 @@
   {
     "codigo": "2030794",
     "nombre": "Aceite de Coco Virg MONTICELLO X 110mL",
-    "categoria": "Aceite",
+    "categoria": "Aceites",
     "marca": "Monticello",
     "imagen": "images/productos/2030794.jpg",
     "imagen_miniatura": "images/productos/2030794-thumb.jpg",
@@ -1926,7 +1926,7 @@
   {
     "codigo": "1046879",
     "nombre": "Pasab.LA ESPECIAL mezcla 8plex24undx40g",
-    "categoria": "Snacks Saludables",
+    "categoria": "Snacks saludables",
     "marca": "La Especial",
     "imagen": "images/productos/1046879.jpg",
     "imagen_miniatura": "images/productos/1046879-thumb.jpg",
@@ -2069,7 +2069,7 @@
   {
     "codigo": "1080269",
     "nombre": "Monticello Penne Rigate Integral x 500 g",
-    "categoria": "Pastas secas",
+    "categoria": "Pastas Secas",
     "marca": "Monticello",
     "imagen": "images/productos/1080269.jpg",
     "imagen_miniatura": "images/productos/1080269-thumb.jpg",
