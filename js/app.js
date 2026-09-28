@@ -32,16 +32,11 @@ function poblarFiltros() {
   });
 }
 
-const ORDEN_MARCAS_PRIORIDAD = ["bénet", "benet", "haka", "naturela"];
-
-function prioridadMarca(marca) {
-  const idx = ORDEN_MARCAS_PRIORIDAD.indexOf((marca || "").toLowerCase());
-  return idx === -1 ? ORDEN_MARCAS_PRIORIDAD.length : idx;
-}
+const MARCAS_DESTACADAS = ["Bénet", "Haka", "Naturela"];
 
 function productosFiltrados() {
   const texto = state.filtroTexto.trim().toLowerCase();
-  const lista = state.productos.filter((p) => {
+  return state.productos.filter((p) => {
     const coincideTexto =
       !texto ||
       p.nombre.toLowerCase().includes(texto) ||
@@ -50,33 +45,38 @@ function productosFiltrados() {
     const coincideMarca = !state.filtroMarca || p.marca === state.filtroMarca;
     return coincideTexto && coincideMarca;
   });
-
-  return lista.sort((a, b) => {
-    const prioridad = prioridadMarca(a.marca) - prioridadMarca(b.marca);
-    if (prioridad !== 0) return prioridad;
-    const marca = (a.marca || "").localeCompare(b.marca || "", "es");
-    if (marca !== 0) return marca;
-    return (a.nombre || "").localeCompare(b.nombre || "", "es");
-  });
 }
 
-function render() {
-  const grid = document.getElementById("grid");
-  const lista = productosFiltrados();
+function agruparProductos(lista) {
+  const porNombre = (a, b) => (a.nombre || "").localeCompare(b.nombre || "", "es");
+  const grupos = [];
 
-  document.getElementById("results-count").textContent =
-    `${lista.length} producto${lista.length === 1 ? "" : "s"} encontrado${lista.length === 1 ? "" : "s"}`;
+  MARCAS_DESTACADAS.forEach((marca) => {
+    const productos = lista.filter((p) => (p.marca || "").toLowerCase() === marca.toLowerCase()).sort(porNombre);
+    if (productos.length) grupos.push({ titulo: marca, destacado: true, productos });
+  });
 
-  if (lista.length === 0) {
-    grid.innerHTML = "";
-    document.getElementById("empty-state").hidden = false;
-    return;
-  }
-  document.getElementById("empty-state").hidden = true;
+  const restoMarcas = new Set(MARCAS_DESTACADAS.map((m) => m.toLowerCase()));
+  const resto = lista.filter((p) => !restoMarcas.has((p.marca || "").toLowerCase()));
 
-  grid.innerHTML = lista
-    .map(
-      (p) => `
+  const porCategoria = new Map();
+  resto.forEach((p) => {
+    const cat = p.categoria || "Sin categoría";
+    if (!porCategoria.has(cat)) porCategoria.set(cat, []);
+    porCategoria.get(cat).push(p);
+  });
+
+  [...porCategoria.keys()]
+    .sort((a, b) => a.localeCompare(b, "es"))
+    .forEach((cat) => {
+      grupos.push({ titulo: cat, destacado: false, productos: porCategoria.get(cat).sort(porNombre) });
+    });
+
+  return grupos;
+}
+
+function tarjetaHtml(p) {
+  return `
     <article class="card" data-codigo="${p.codigo}">
       <div class="card-image">
         <img src="${p.imagen_miniatura || p.imagen}" alt="${p.nombre}" loading="lazy" decoding="async" />
@@ -95,11 +95,37 @@ function render() {
           : "<div></div>"}
       </div>
     </article>
+  `;
+}
+
+function render() {
+  const container = document.getElementById("grid-container");
+  const lista = productosFiltrados();
+
+  document.getElementById("results-count").textContent =
+    `${lista.length} producto${lista.length === 1 ? "" : "s"} encontrado${lista.length === 1 ? "" : "s"}`;
+
+  if (lista.length === 0) {
+    container.innerHTML = "";
+    document.getElementById("empty-state").hidden = false;
+    return;
+  }
+  document.getElementById("empty-state").hidden = true;
+
+  const grupos = agruparProductos(lista);
+
+  container.innerHTML = grupos
+    .map(
+      (g) => `
+    <section class="bloque ${g.destacado ? "bloque-destacado" : ""}">
+      <h2 class="bloque-titulo">${g.titulo} <span class="bloque-count">${g.productos.length}</span></h2>
+      <div class="grid">${g.productos.map(tarjetaHtml).join("")}</div>
+    </section>
   `
     )
     .join("");
 
-  grid.querySelectorAll(".card").forEach((card) => {
+  container.querySelectorAll(".card").forEach((card) => {
     card.addEventListener("click", () => abrirFicha(card.dataset.codigo));
   });
 }

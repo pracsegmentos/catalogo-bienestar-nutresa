@@ -116,11 +116,48 @@ header.topbar .brand small {
 
 .grid {
   max-width: 1100px;
-  margin: 14px auto 60px;
+  margin: 10px auto 0;
   padding: 0 16px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 16px;
+}
+
+.bloque {
+  padding-bottom: 8px;
+}
+
+.bloque-titulo {
+  max-width: 1100px;
+  margin: 30px auto 0;
+  padding: 0 16px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--color-primary-dark);
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.bloque-count {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+
+.bloque-destacado .bloque-titulo {
+  font-size: 1.35rem;
+  color: var(--color-primary-dark);
+}
+
+.bloque-destacado .grid {
+  margin-top: 12px;
+  padding-bottom: 4px;
+  border-bottom: 3px solid var(--color-accent);
+}
+
+.bloque:first-child .bloque-titulo {
+  margin-top: 18px;
 }
 
 .card {
