@@ -47,30 +47,35 @@ function productosFiltrados() {
   });
 }
 
-function agruparProductos(lista) {
+function porCategorias(productos) {
   const porNombre = (a, b) => (a.nombre || "").localeCompare(b.nombre || "", "es");
+  const mapa = new Map();
+  productos.forEach((p) => {
+    const cat = p.categoria || "Sin categoría";
+    if (!mapa.has(cat)) mapa.set(cat, []);
+    mapa.get(cat).push(p);
+  });
+  return [...mapa.keys()]
+    .sort((a, b) => a.localeCompare(b, "es"))
+    .map((cat) => ({ titulo: cat, productos: mapa.get(cat).sort(porNombre) }));
+}
+
+function agruparProductos(lista) {
   const grupos = [];
 
   MARCAS_DESTACADAS.forEach((marca) => {
-    const productos = lista.filter((p) => (p.marca || "").toLowerCase() === marca.toLowerCase()).sort(porNombre);
-    if (productos.length) grupos.push({ titulo: marca, destacado: true, productos });
+    const productos = lista.filter((p) => (p.marca || "").toLowerCase() === marca.toLowerCase());
+    if (productos.length) {
+      grupos.push({ titulo: marca, destacado: true, subcategorias: porCategorias(productos) });
+    }
   });
 
   const restoMarcas = new Set(MARCAS_DESTACADAS.map((m) => m.toLowerCase()));
   const resto = lista.filter((p) => !restoMarcas.has((p.marca || "").toLowerCase()));
 
-  const porCategoria = new Map();
-  resto.forEach((p) => {
-    const cat = p.categoria || "Sin categoría";
-    if (!porCategoria.has(cat)) porCategoria.set(cat, []);
-    porCategoria.get(cat).push(p);
+  porCategorias(resto).forEach((g) => {
+    grupos.push({ titulo: g.titulo, destacado: false, productos: g.productos });
   });
-
-  [...porCategoria.keys()]
-    .sort((a, b) => a.localeCompare(b, "es"))
-    .forEach((cat) => {
-      grupos.push({ titulo: cat, destacado: false, productos: porCategoria.get(cat).sort(porNombre) });
-    });
 
   return grupos;
 }
@@ -115,14 +120,33 @@ function render() {
   const grupos = agruparProductos(lista);
 
   container.innerHTML = grupos
-    .map(
-      (g) => `
-    <section class="bloque ${g.destacado ? "bloque-destacado" : ""}">
+    .map((g) => {
+      if (g.destacado) {
+        const total = g.subcategorias.reduce((sum, sc) => sum + sc.productos.length, 0);
+        const subHtml = g.subcategorias
+          .map(
+            (sc) => `
+          <div class="subbloque">
+            <h3 class="subbloque-titulo">${sc.titulo} <span class="bloque-count">${sc.productos.length}</span></h3>
+            <div class="grid">${sc.productos.map(tarjetaHtml).join("")}</div>
+          </div>
+        `
+          )
+          .join("");
+        return `
+    <section class="bloque bloque-destacado">
+      <h2 class="bloque-titulo">${g.titulo} <span class="bloque-count">${total}</span></h2>
+      ${subHtml}
+    </section>
+  `;
+      }
+      return `
+    <section class="bloque">
       <h2 class="bloque-titulo">${g.titulo} <span class="bloque-count">${g.productos.length}</span></h2>
       <div class="grid">${g.productos.map(tarjetaHtml).join("")}</div>
     </section>
-  `
-    )
+  `;
+    })
     .join("");
 
   container.querySelectorAll(".card").forEach((card) => {
