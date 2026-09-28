@@ -44,6 +44,12 @@ header.topbar .brand {
   font-weight: 700;
   font-size: 1.1rem;
   text-align: left;
+  width: 100%;
+}
+
+header.topbar .brand-text {
+  flex: 1;
+  text-align: center;
 }
 
 header.topbar .brand-logo {
