@@ -231,6 +231,8 @@ header.topbar .brand small {
   margin: 0;
   font-size: 1rem;
   line-height: 1.3;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .card .marca {
@@ -381,6 +383,8 @@ header.topbar .brand small {
 .modal-content h2 {
   margin: 8px 0 2px;
   font-size: 1.35rem;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .modal-content .marca {
