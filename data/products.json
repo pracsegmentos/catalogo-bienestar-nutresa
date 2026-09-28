@@ -405,15 +405,15 @@
   {
     "codigo": "1059262",
     "nombre": "Colágeno hidro BÉNET 24plex18udx5.8gR",
-    "categoria": "Bebidas Nutricionales",
+    "categoria": "Nutrición funcional",
     "marca": "BÉNET",
     "imagen": "images/productos/1059262.jpg",
+    "imagen_miniatura": "images/productos/1059262-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1059262-nutricional.jpg",
     "ingredientes": "Maltodextrina, colágeno hidrolizado, vitaminas y minerales (ácido ascórbico, vitamina E acetato, selenito de sodio, vitamina A palmitato, biotina, piridoxina clorhidrato), antiaglutinante (fosfato tricálcico). Contiene sulﬁtos. Puede contener trazas de leche, soya, gluten y nueces de árbol. x Mercado saludable",
     "por_que_recomendarlo": "Mezcla en polvo con colágeno hidrolizado, excelente fuente de vitaminas A, C, B6, E y Selenio. La vitamina A ayuda al mantenimiento de la piel. El selenio contribuye al mantenimiento normal del cabello y uñas. La porción recomendada es un 1 sobre al día. No contiene sabor por tanto se puede mezclar con bebidas frías o calientes, su colágeno es de mayor absorción.",
     "precio_empresa_cliente": 34459,
-    "precio_sugerido_publico": 45900,
-    "imagen_miniatura": "images/productos/1059262-thumb.jpg"
+    "precio_sugerido_publico": 45900
   },
   {
     "codigo": "1064827",
