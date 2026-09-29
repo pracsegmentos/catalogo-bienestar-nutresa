@@ -305,12 +305,12 @@
     "categoria": "Snacks saludables",
     "marca": "Naturela",
     "imagen": "images/productos/1048825.jpg",
+    "imagen_miniatura": "images/productos/1048825-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1048825-nutricional.jpeg",
     "ingredientes": "Arroz Integral, Queso, Semillas de Linaza y Chía y sal Marina. PSP x und: $7.463",
     "por_que_recomendarlo": "nuestras rosquillas son una excelente fuente de ﬁbra, proteínas y ácidos grasos omega-3. Además, son libres de grasas trans y conservantes artiﬁciales, lo que las convierte en una opción saludable y natural para satisfacer tus antojos. ¡Llévalas contigo a donde quieras y disfruta de su sabor y nutrición en cualquier momento y lugar!",
     "precio_empresa_cliente": 62696,
-    "precio_sugerido_publico": 89566,
-    "imagen_miniatura": "images/productos/1048825-thumb.jpg"
+    "precio_sugerido_publico": 89600
   },
   {
     "codigo": "1067900",
