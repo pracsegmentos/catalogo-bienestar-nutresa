@@ -41,8 +41,21 @@ function arrayBufferToBase64(buffer) {
   return btoa(binary);
 }
 
+// Reintenta un par de veces ante fallas de red pasajeras (wifi inestable,
+// etc.) antes de darse por vencido con "Failed to fetch".
+async function fetchConReintento(url, options, attempts = 3) {
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      return await fetch(url, options);
+    } catch (err) {
+      if (i === attempts) throw new Error("No se pudo conectar con GitHub. Revisa tu conexión a internet e intenta de nuevo.");
+      await sleep(500 * i);
+    }
+  }
+}
+
 async function ghGetFile(path) {
-  const res = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/${path}?ref=${BRANCH}&_=${Date.now()}`, {
+  const res = await fetchConReintento(`${API}/repos/${OWNER}/${REPO}/contents/${path}?ref=${BRANCH}&_=${Date.now()}`, {
     headers: ghHeaders(),
     cache: "no-store",
   });
@@ -54,7 +67,7 @@ async function ghGetFile(path) {
 async function ghPutFile(path, base64Content, message, sha) {
   const body = { message, content: base64Content, branch: BRANCH };
   if (sha) body.sha = sha;
-  const res = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/${path}`, {
+  const res = await fetchConReintento(`${API}/repos/${OWNER}/${REPO}/contents/${path}`, {
     method: "PUT",
     headers: { ...ghHeaders(), "Content-Type": "application/json" },
     body: JSON.stringify(body),
