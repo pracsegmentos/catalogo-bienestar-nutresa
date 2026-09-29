@@ -187,12 +187,12 @@
     "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1058055.jpg",
+    "imagen_miniatura": "images/productos/1058055-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1058055-nutricional.png",
     "ingredientes": "Té verde, Spirulina, Canela, Clavo, Cardamomo y Jengibre. *A disponibilidad de inventario*",
     "por_que_recomendarlo": "SpiruTé verde es una bebida deliciosa que no solo es agradable al paladar, sino que también ofrece una variedad de beneﬁcios para la salud gracias a sus ingredientes nutritivos y propiedades curativas. ¡Disfrútalo y aprovecha sus beneﬁcios para la salud! ● Digestivo natural ● Libre de laxantes ● 100% natural, sin saborizantes, colorantes y conservantes ● Libre de contraindicaciones",
     "precio_empresa_cliente": 12495,
-    "precio_sugerido_publico": 17850,
-    "imagen_miniatura": "images/productos/1058055-thumb.jpg"
+    "precio_sugerido_publico": 17800
   },
   {
     "codigo": "1089827",
