@@ -213,12 +213,12 @@
     "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1058057.jpg",
+    "imagen_miniatura": "images/productos/1058057-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1058057-nutricional.jpg",
     "ingredientes": "Te verde, Cacao, Cúrcuma, Jengibre, Spirulina y Pimienta. *A disponibilidad de inventario*",
     "por_que_recomendarlo": "El Té dorado es una infusión natural y libre de cafeína que combina ingredientes como la Cúrcuma, Jengibre y Pimienta con una base de cacao y vainilla. El Spiruté de cúrcuma es una mezcla de té que contiene ingredientes como té verde, cacao, cúrcuma, jengibre, spirulina y pimienta, todos los cuales tienen beneﬁcios para la salud.",
     "precio_empresa_cliente": 12495,
-    "precio_sugerido_publico": 17850,
-    "imagen_miniatura": "images/productos/1058057-thumb.jpg"
+    "precio_sugerido_publico": 17800
   },
   {
     "codigo": "1077744",
