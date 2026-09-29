@@ -96,12 +96,12 @@
     "categoria": "Proteínas",
     "marca": "Naturela",
     "imagen": "images/productos/1058049.png",
+    "imagen_miniatura": "images/productos/1058049-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1058049-nutricional.png",
     "ingredientes": "Banano, proteína de alverja, nuez de inchi, cacao, quinua, semillas de sésamo (ajonjolí).",
     "por_que_recomendarlo": "Explora una experiencia novedosa con los BITES DE PROTEÍNA VEGETAL, una barra de proteína en bocados blandos y deliciosos. Cuidadosamente elaborada con una mezcla poderosa de ingredientes naturales. Sumérgete en la suavidad de sus ingredientes, el balance perfecto de aminoácidos de la proteína de alverja y la spirulina, la textura crujiente de la nuez de inchi y la quinua. Déjate llevar por el intenso sabor a banano y cacao.",
     "precio_empresa_cliente": 34755,
-    "precio_sugerido_publico": 49650,
-    "imagen_miniatura": "images/productos/1058049-thumb.jpg"
+    "precio_sugerido_publico": 49700
   },
   {
     "codigo": "1065635",
