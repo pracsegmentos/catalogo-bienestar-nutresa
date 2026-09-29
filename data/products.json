@@ -266,12 +266,12 @@
     "categoria": "Infusiones y Tés",
     "marca": "Naturela",
     "imagen": "images/productos/1089825.jpeg",
+    "imagen_miniatura": "images/productos/1089825-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1089825-nutricional.jpeg",
     "ingredientes": "Linaza, Inulina, Piña, Spirulina, Aloe vera, Konjac, Bacillus coagulans.",
     "por_que_recomendarlo": "reconfortante infusión herbal elaborada con manzanilla, pasiﬂora, salvia y cidrón, ingredientes naturales cuidadosamente seleccionados por sus propiedades calmantes y restauradoras. Esta poderosa mezcla botánica actúa sobre el sistema nervioso, ayudando a reducir el estrés, relajar la mente y preparar el cuerpo para un descanso profundo, convirtiéndose en el aliado perfecto para tu bienestar diario.",
     "precio_empresa_cliente": 6510,
-    "precio_sugerido_publico": 9301,
-    "imagen_miniatura": "images/productos/1089825-thumb.jpg"
+    "precio_sugerido_publico": 9281
   },
   {
     "codigo": "1089828",
