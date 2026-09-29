@@ -370,12 +370,12 @@
     "categoria": "Conﬁtes funcionales Especias",
     "marca": "Naturela",
     "imagen": "images/productos/1082295.jpg",
+    "imagen_miniatura": "images/productos/1082295-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1082295-nutricional.jpg",
     "ingredientes": "Spirulina, Cúrcuma, Cloroﬁla y Stevia",
     "por_que_recomendarlo": "Son las únicas mentas con spirulina en el mercado. Estas deliciosas mentas están endulzadas con stevia, lo que las hace una opción saludable y natural para refrescar el aliento. La spirulina, por su parte, es un superalimento rico en proteínas, antioxidantes y vitaminas que puede ayudar a aumentar la energía, mejorar la digestión y fortalecer el sistema inmunológico.",
     "precio_empresa_cliente": 67318,
-    "precio_sugerido_publico": 96169,
-    "imagen_miniatura": "images/productos/1082295-thumb.jpg"
+    "precio_sugerido_publico": 96200
   },
   {
     "codigo": "1068451",
