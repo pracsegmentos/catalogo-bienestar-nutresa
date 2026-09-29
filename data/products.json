@@ -161,12 +161,12 @@
     "categoria": "Bebidas para Diluir",
     "marca": "Naturela",
     "imagen": "images/productos/1057258.png",
+    "imagen_miniatura": "images/productos/1057258-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1057258-nutricional.png",
     "ingredientes": "Agua, Menta natural, Cloroﬁla, Caroteno, Spirulina, Cúrcuma, Sabor natural menta hierbabuena, Stevia y Aceite esencial de menta",
     "por_que_recomendarlo": "La bebida verde para diluir es una excelente opción para mantenerse hidratado mientras se obtienen los beneﬁcios de ingredientes naturales como la menta, la cloroﬁla, la spirulina, la cúrcuma y la hierbabuena. Esta bebida es rica en antioxidantes y vitaminas, y su combinación de ingredientes puede ayudar a mejorar la digestión, la inmunidad y la energía. Además, la stevia y el aceite esencial de menta le dan un sabor fresco y dulce sin la necesidad de agregar azúcar.",
     "precio_empresa_cliente": 14713,
-    "precio_sugerido_publico": 21019,
-    "imagen_miniatura": "images/productos/1057258-thumb.jpg"
+    "precio_sugerido_publico": 21000
   },
   {
     "codigo": "1079389",
