@@ -135,12 +135,12 @@
     "categoria": "Lattes funcionales",
     "marca": "Naturela",
     "imagen": "images/productos/1058048.png",
+    "imagen_miniatura": "images/productos/1058048-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1058048-nutricional.png",
     "ingredientes": "Cúrcuma, Canela, Cacao, Jengibre, Vainilla, Nuez moscada, Pimienta negra.",
     "por_que_recomendarlo": "Prepárate para disfrutar nuestra deliciosa y reconfortante Golden Latte con capas de sabores cálidos, para complacer tu gusto y cuidar tu bienestar, Golden Latte, es una bebida que se ha vuelto muy popular en los últimos años debido a sus numerosos beneficios para la salud. Esta bebida es la mezcla de cúrcuma, canela, jengibre, pimienta negra, cacao, y otras especias.",
     "precio_empresa_cliente": 26357,
-    "precio_sugerido_publico": 37653,
-    "imagen_miniatura": "images/productos/1058048-thumb.jpg"
+    "precio_sugerido_publico": 37700
   },
   {
     "codigo": "1065340",
