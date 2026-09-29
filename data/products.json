@@ -18,12 +18,12 @@
     "categoria": "Superalimentos",
     "marca": "Naturela",
     "imagen": "images/productos/1064202.jpeg",
+    "imagen_miniatura": "images/productos/1064202-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1064202-nutricional.jpeg",
     "ingredientes": "Acaí en polvo",
     "por_que_recomendarlo": "El açaí o también conocido como acaí, en polvo es un superalimento que se ha vuelto muy popular en los últimos años gracias a sus múltiples beneﬁcios para la salud. Entre los 4 principales beneﬁcios del açaí se encuentran: ● Alto contenido de antioxidantes ● Fuente de ﬁbra y nutrientes ● Mejora la salud digestiva ● Potencial antiinﬂamatorio",
     "precio_empresa_cliente": 23040,
-    "precio_sugerido_publico": 32914,
-    "imagen_miniatura": "images/productos/1064202-thumb.jpg"
+    "precio_sugerido_publico": 32900
   },
   {
     "codigo": "1048821",
