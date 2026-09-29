@@ -1397,12 +1397,12 @@
     "categoria": "Cereales",
     "marca": "Tosh",
     "imagen": "images/productos/1041647.jpeg",
+    "imagen_miniatura": "images/productos/1041647-thumb.jpg",
     "imagen_tabla_nutricional": "images/placeholder-nutricion.svg",
     "ingredientes": "",
     "por_que_recomendarlo": "de una alimentación sana y balanceada 1041647 PV: $9.897 ¿POR ¿POR QUÉ RECOMENDARLO? Es una es la alternativa ideal para disfrutar un de avena desayuno o snack delicioso, crujiente y adicionada balanceado sin culpa. Combina todo el sellos con placer del cacao con la ligereza de los x Mercado saludable",
-    "precio_empresa_cliente": null,
-    "precio_sugerido_publico": 11400,
-    "imagen_miniatura": "images/productos/1041647-thumb.jpg"
+    "precio_empresa_cliente": 9897,
+    "precio_sugerido_publico": 11400
   },
   {
     "codigo": "2020372",
