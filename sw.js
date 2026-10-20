@@ -1,4 +1,4 @@
-const VERSION = "v6";
+const VERSION = "v7";
 const SHELL_CACHE = `bienestar-shell-${VERSION}`;
 const IMG_CACHE = `bienestar-imgs-${VERSION}`;
 
@@ -25,7 +25,7 @@ self.addEventListener("install", (event) => {
 
 async function precacheImages() {
   try {
-    const res = await fetch("./data/products.json");
+    const res = await fetch("./data/products.json", { cache: "reload" });
     const products = await res.json();
     const cache = await caches.open(IMG_CACHE);
     const urls = new Set();
@@ -37,7 +37,7 @@ async function precacheImages() {
     await Promise.all(
       [...urls].map(async (url) => {
         try {
-          const r = await fetch(url);
+          const r = await fetch(url, { cache: "reload" });
           if (r.ok) await cache.put(url, r);
         } catch (e) {
           /* offline durante la instalación: se cacheará en el próximo uso */
@@ -47,6 +47,21 @@ async function precacheImages() {
   } catch (e) {
     /* sin conexión en el primer registro: no se pudo precargar el catálogo */
   }
+}
+
+const SYNC_MARKER = "./__ultimo_sync";
+const SYNC_THROTTLE_MS = 30 * 60 * 1000; // no repetir el refresco completo antes de 30 min
+
+async function refrescarImagenesSiToca() {
+  const cache = await caches.open(IMG_CACHE);
+  const marca = await cache.match(SYNC_MARKER);
+  const ahora = Date.now();
+  if (marca) {
+    const antes = Number(await marca.text());
+    if (ahora - antes < SYNC_THROTTLE_MS) return;
+  }
+  await cache.put(SYNC_MARKER, new Response(String(ahora)));
+  await precacheImages();
 }
 
 self.addEventListener("activate", (event) => {
@@ -71,7 +86,10 @@ async function staleWhileRevalidate(event, cacheName) {
   const req = event.request;
   const cache = await caches.open(cacheName);
   const cached = await cache.match(req);
-  const fetchAndUpdate = fetch(req)
+  // "reload" fuerza a saltarse la caché normal del navegador (no la
+  // nuestra), para que esta revisión en segundo plano siempre consulte
+  // el servidor real en vez de traer de nuevo algo viejo guardado ahí.
+  const fetchAndUpdate = fetch(req, { cache: "reload" })
     .then((res) => {
       if (res.ok) cache.put(req, res.clone());
       return res;
@@ -108,6 +126,7 @@ self.addEventListener("fetch", (event) => {
 
   if (url.pathname.endsWith("/data/products.json")) {
     event.respondWith(networkFirst(req, SHELL_CACHE));
+    event.waitUntil(refrescarImagenesSiToca());
     return;
   }
   if (url.pathname.includes("/images/")) {
