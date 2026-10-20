@@ -247,20 +247,6 @@
     "precio_sugerido_publico": 9883
   },
   {
-    "codigo": "1070410",
-    "nombre": "Spirute Puriﬁcante Naturela x21g",
-    "categoria": "Infusiones y Tés",
-    "marca": "Naturela",
-    "imagen": "images/productos/1070410.jpg",
-    "imagen_tabla_nutricional": "images/productos/1070410-nutricional.jpg",
-    "ingredientes": "Té Matcha,Té verde, Spirulina y Limón.",
-    "por_que_recomendarlo": "Nuestro SpiruTé puriﬁcante es una mezcla de ingredientes con antioxidantes que ayudan a promover tu bienestar Disponible únicamente para Bogotá general, brindándote una sensación de vitalidad. ● Energía natural ● Apoyo a la digestión ● Sabor refrescante ● Beneﬁcios Antioxidantes",
-    "precio_empresa_cliente": 9100,
-    "precio_sugerido_publico": 13000,
-    "imagen_miniatura": "images/productos/1070410-thumb.jpg",
-    "nota": "Bogotá"
-  },
-  {
     "codigo": "1089825",
     "nombre": "Spirute.NATURELA.manzanillax10und",
     "categoria": "Infusiones y Tés",
