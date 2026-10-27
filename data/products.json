@@ -195,10 +195,11 @@
     "precio_sugerido_publico": 9300
   },
   {
-    "codigo": "1058057",
+    "codigo": "1091730",
     "nombre": "Spirute.Curcuma.NATURELA.Pl x20 X30g",
     "categoria": "Infusiones y Tés",
     "marca": "Naturela",
+    "nota": "",
     "imagen": "images/productos/1058057.jpg",
     "imagen_miniatura": "images/productos/1058057-thumb.jpg",
     "imagen_tabla_nutricional": "images/productos/1058057-nutricional.jpg",
